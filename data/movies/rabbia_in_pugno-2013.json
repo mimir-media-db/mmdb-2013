@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rabbia_in_pugno_2013",
+  "title": "Rabbia in pugno",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16594005",
+    "imdb": "tt1869638",
+    "tmdb": 401824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

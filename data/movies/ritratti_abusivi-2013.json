@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ritratti_abusivi_2013",
+  "title": "Ritratti abusivi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479164",
+    "imdb": "tt3344712",
+    "tmdb": 276146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 70
+}

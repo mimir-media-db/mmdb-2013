@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raanjhnaa_2013",
+  "title": "Raanjhnaa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278417",
+    "imdb": "tt2359810",
+    "tmdb": 191121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rakugo_eiga_2013",
+  "title": "Rakugo Eiga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11281287",
+    "imdb": "tt2317414",
+    "tmdb": 322839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

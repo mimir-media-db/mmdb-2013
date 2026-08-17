@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rockin_on_heavens_door_2013",
+  "title": "Rockin' on Heaven's Door",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15222825",
+    "imdb": "tt3006156",
+    "tmdb": 250942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

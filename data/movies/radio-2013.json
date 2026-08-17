@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radio_2013",
+  "title": "Radio",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13114421",
+    "imdb": "tt2780192",
+    "tmdb": 209174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rha_2013",
+  "title": "R'ha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13565735",
+    "imdb": "tt2624672",
+    "tmdb": 159370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 6
+}

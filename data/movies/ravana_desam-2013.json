@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ravana_desam_2013",
+  "title": "Ravana Desam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253625",
+    "imdb": "tt13323468",
+    "tmdb": 263634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

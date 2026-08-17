@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivalry_red_v_blue_2013",
+  "title": "The Rivalry: Red v. Blue",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17078615",
+    "imdb": "tt1814842",
+    "tmdb": 310401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabba_main_kya_karoon_2013",
+  "title": "Rabba Main Kya Karoon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14439993",
+    "imdb": "tt2416294",
+    "tmdb": 223212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 116
+}
