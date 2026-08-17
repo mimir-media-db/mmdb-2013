@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_doctor",
+  "title": "Good Doctor",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13425770",
+    "imdb": "tt3184708",
+    "tmdb": 57647
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

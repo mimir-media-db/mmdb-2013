@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_train_robbery",
+  "title": "The Great Train Robbery",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15974784",
+    "imdb": "tt2763296",
+    "tmdb": 64257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

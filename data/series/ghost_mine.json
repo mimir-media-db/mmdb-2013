@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_mine",
+  "title": "Ghost Mine",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5557115",
+    "imdb": "tt2443980",
+    "tmdb": 46613
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

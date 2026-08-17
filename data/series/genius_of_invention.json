@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_genius_of_invention",
+  "title": "The Genius of Invention",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15109325",
+    "imdb": "tt2614460",
+    "tmdb": 65111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

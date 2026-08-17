@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ground_floor",
+  "title": "Ground Floor",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15199485",
+    "imdb": "tt2763286",
+    "tmdb": 57815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

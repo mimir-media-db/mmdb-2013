@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gypsy_sisters",
+  "title": "Gypsy Sisters",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5625362",
+    "imdb": "tt2643770",
+    "tmdb": 59450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

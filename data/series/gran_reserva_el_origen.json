@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gran_reserva_el_origen",
+  "title": "Gran Reserva. El origen",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13922953",
+    "imdb": "tt2734604",
+    "tmdb": 79841
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 82
+}

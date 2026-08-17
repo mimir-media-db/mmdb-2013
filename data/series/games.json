@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_games",
+  "title": "The Games",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21264931",
+    "imdb": "tt3874258",
+    "tmdb": 213872
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_garage_gold",
+  "title": "Garage Gold",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16910920",
+    "imdb": "tt2752854"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 58
+}

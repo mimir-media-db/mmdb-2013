@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_good_for_you",
+  "title": "Good For You",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12216006"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 108
+}

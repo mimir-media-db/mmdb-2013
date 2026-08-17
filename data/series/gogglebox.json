@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gogglebox",
+  "title": "Gogglebox",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16993042",
+    "imdb": "tt2762330",
+    "tmdb": 55808
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 265
+}
