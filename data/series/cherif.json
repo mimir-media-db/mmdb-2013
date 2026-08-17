@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cherif",
+  "title": "Cherif",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q10934130",
+    "imdb": "tt2707504",
+    "tmdb": 61807
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 48
+}

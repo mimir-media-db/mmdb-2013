@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_czech_century",
+  "title": "Czech Century",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15124341",
+    "imdb": "tt4255392",
+    "tmdb": 61691
+  },
+  "last_updated": "2026-08-17"
+}

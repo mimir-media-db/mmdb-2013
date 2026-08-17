@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_carrie_diaries",
+  "title": "The Carrie Diaries",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q549441",
+    "imdb": "tt2056366",
+    "tmdb": 46157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cedar_cove",
+  "title": "Cedar Cove",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13548162",
+    "imdb": "tt2871832",
+    "tmdb": 47320
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

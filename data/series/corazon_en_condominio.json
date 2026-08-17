@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_en_condominio",
+  "title": "Corazón en Condominio",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14659742",
+    "imdb": "tt3162134",
+    "tmdb": 59977
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

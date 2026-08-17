@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crumpets",
+  "title": "The Crumpets",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24935059",
+    "imdb": "tt3383000",
+    "tmdb": 135242
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 104
+}

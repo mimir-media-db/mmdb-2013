@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_creme_de_la_creme",
+  "title": "Crème de la Crème",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2271067",
+    "imdb": "tt2222049",
+    "tmdb": 90896
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

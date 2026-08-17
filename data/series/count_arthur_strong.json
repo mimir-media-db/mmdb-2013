@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_count_arthur_strong",
+  "title": "Count Arthur Strong",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q14458381",
+    "imdb": "tt3039270",
+    "tmdb": 58571
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

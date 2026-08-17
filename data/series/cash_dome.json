@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cash_dome",
+  "title": "Cash Dome",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16852688",
+    "imdb": "tt2849552"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

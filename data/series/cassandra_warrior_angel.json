@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cassandra_warrior_angel",
+  "title": "Cassandra: Warrior Angel",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14171872",
+    "imdb": "tt3038700",
+    "tmdb": 58246
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 64
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chosen",
+  "title": "Chosen",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5105331",
+    "imdb": "tt2390334",
+    "tmdb": 26777
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cumbia_ninja",
+  "title": "Cumbia Ninja",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15052111",
+    "imdb": "tt3101362",
+    "tmdb": 61602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 45
+}

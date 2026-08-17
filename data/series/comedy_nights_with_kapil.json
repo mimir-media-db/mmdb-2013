@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_nights_with_kapil",
+  "title": "Comedy Nights with Kapil",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15979688",
+    "imdb": "tt3402548",
+    "tmdb": 60698
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 191
+}

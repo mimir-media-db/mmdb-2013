@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_checkout",
+  "title": "The Checkout",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7722271",
+    "imdb": "tt2805126",
+    "tmdb": 59426
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

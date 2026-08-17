@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comando_elite",
+  "title": "Comando elite",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16491203",
+    "imdb": "tt3360134",
+    "tmdb": 87535
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

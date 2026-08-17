@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crazy_ones",
+  "title": "The Crazy Ones",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13220443",
+    "imdb": "tt2710104",
+    "tmdb": 58932
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

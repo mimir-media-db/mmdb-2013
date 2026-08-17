@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_new_jersey",
+  "title": "Chasing New Jersey",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16961168"
+  },
+  "last_updated": "2026-08-17"
+}

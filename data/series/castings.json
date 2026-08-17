@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_castings",
+  "title": "Casting(s)",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17175703",
+    "imdb": "tt3177474",
+    "tmdb": 94379
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}
