@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dont_luv_u_2013",
+  "title": "I Don't Luv U",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249080",
+    "imdb": "tt6445398",
+    "tmdb": 339167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

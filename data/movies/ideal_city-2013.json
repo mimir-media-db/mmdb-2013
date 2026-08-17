@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ideal_city_2013",
+  "title": "The Ideal City",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10863920",
+    "tmdb": 626618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_hiding_2013",
+  "title": "In Hiding",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11791975",
+    "imdb": "tt3074328",
+    "tmdb": 226962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

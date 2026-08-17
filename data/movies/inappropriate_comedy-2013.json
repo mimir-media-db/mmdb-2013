@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inappropriate_comedy_2013",
+  "title": "Inappropriate Comedy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6013575",
+    "imdb": "tt1754811",
+    "tmdb": 156268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

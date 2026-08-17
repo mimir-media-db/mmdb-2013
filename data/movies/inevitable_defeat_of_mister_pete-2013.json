@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inevitable_defeat_of_mister_pete_2013",
+  "title": "The Inevitable Defeat of Mister & Pete",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14634072",
+    "imdb": "tt2113075",
+    "tmdb": 158908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}
