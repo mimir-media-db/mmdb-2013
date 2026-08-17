@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_500_5_2013",
+  "title": "500 & 5",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057640",
+    "imdb": "tt2156030",
+    "tmdb": 1540107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
