@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tamako_in_moratorium_2013",
+  "title": "Tamako in Moratorium",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15679974",
+    "imdb": "tt3134060",
+    "tmdb": 251184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 78
+}

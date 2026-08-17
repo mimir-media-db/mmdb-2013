@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torture_chamber_2013",
+  "title": "Torture Chamber",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12129617",
+    "imdb": "tt1663696",
+    "tmdb": 253477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

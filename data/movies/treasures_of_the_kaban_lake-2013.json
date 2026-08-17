@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_treasures_of_the_kaban_lake_2013",
+  "title": "Treasures of the Kaban Lake",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15271030",
+    "imdb": "tt2572764",
+    "tmdb": 201893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

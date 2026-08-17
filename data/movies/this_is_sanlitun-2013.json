@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_sanlitun_2013",
+  "title": "This Is Sanlitun",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17054494",
+    "imdb": "tt2728286",
+    "tmdb": 214144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

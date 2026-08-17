@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_table_no_21_2013",
+  "title": "Table No. 21",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7673154",
+    "imdb": "tt2229842",
+    "tmdb": 157129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}

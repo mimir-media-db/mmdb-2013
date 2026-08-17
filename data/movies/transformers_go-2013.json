@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_transformers_go_2013",
+  "title": "Transformers: Go!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17218961",
+    "imdb": "tt3002566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

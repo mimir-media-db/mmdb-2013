@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thief_and_the_imbecile_2013",
+  "title": "The Thief and the Imbecile",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16120526",
+    "imdb": "tt3107886",
+    "tmdb": 265002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}
