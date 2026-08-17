@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_holidays_3d_2013",
+  "title": "Zombie holidays 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270454",
+    "imdb": "tt3039378",
+    "tmdb": 220084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}
