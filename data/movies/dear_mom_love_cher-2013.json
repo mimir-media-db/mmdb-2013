@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_mom_love_cher_2013",
+  "title": "Dear Mom, Love Cher",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052291",
+    "imdb": "tt2813794",
+    "tmdb": 297511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_may_call_2013",
+  "title": "Devil May Call",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16991740",
+    "imdb": "tt2569298",
+    "tmdb": 168145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

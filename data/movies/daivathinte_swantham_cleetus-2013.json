@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daivathinte_swantham_cleetus_2013",
+  "title": "Daivathinte Swantham Cleetus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14914971",
+    "imdb": "tt3186958",
+    "tmdb": 222198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 120
+}

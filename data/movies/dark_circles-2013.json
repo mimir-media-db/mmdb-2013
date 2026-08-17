@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_circles_2013",
+  "title": "Dark Circles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5223159",
+    "imdb": "tt1863201",
+    "tmdb": 194121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

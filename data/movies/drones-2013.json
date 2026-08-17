@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drones_2013",
+  "title": "Drones",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150191",
+    "imdb": "tt2179027",
+    "tmdb": 228933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dick_knost_show_2013",
+  "title": "The Dick Knost Show",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949751",
+    "imdb": "tt3106898",
+    "tmdb": 215039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

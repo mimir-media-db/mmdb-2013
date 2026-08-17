@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_tffeste_gutta_2013",
+  "title": "De tøffeste gutta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16188490",
+    "imdb": "tt2750632",
+    "tmdb": 249146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 74
+}

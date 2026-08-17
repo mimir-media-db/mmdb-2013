@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mine_2013",
+  "title": "Dead Mine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12481108",
+    "imdb": "tt2171847",
+    "tmdb": 190899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

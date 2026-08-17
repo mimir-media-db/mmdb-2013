@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_d_day_2013",
+  "title": "D Day",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207081",
+    "imdb": "tt2385104",
+    "tmdb": 206851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 153
+}

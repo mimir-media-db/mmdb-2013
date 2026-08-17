@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_jaime_roldos_2013",
+  "title": "The Death of Jaime Roldos",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16588439",
+    "imdb": "tt4057438",
+    "tmdb": 398830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 135
+}
