@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_00_schneider_im_wendekreis_der_eidechse_2013",
+  "title": "00 Schneider - Im Wendekreis der Eidechse",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14920504",
+    "imdb": "tt2416424",
+    "tmdb": 138820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-01",
+  "runtime_minutes": 94
+}

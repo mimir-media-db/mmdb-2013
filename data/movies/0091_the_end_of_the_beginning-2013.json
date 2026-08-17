@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_0091_the_end_of_the_beginning_2013",
+  "title": "009-1: The End of the Beginning",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077174",
+    "imdb": "tt3008816",
+    "tmdb": 259300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-07"
+}
