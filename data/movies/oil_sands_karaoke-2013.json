@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oil_sands_karaoke_2013",
+  "title": "Oil Sands Karaoke",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17155556",
+    "imdb": "tt2757298",
+    "tmdb": 187587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

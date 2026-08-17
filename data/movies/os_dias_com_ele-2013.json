@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_os_dias_com_ele_2013",
+  "title": "Os Dias Com Ele",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16962117",
+    "imdb": "tt2752276",
+    "tmdb": 251339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

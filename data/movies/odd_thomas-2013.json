@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odd_thomas_2013",
+  "title": "Odd Thomas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2329403",
+    "imdb": "tt1767354",
+    "tmdb": 179826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

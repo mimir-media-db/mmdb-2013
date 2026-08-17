@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_okkadine_2013",
+  "title": "Okkadine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7082062",
+    "imdb": "tt3401910",
+    "tmdb": 307779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

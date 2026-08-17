@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odland_damit_keiner_das_so_mitbemerkt_2013",
+  "title": "Ödland – Damit keiner das so mitbemerkt",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15856004",
+    "imdb": "tt2581388",
+    "tmdb": 168116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 79
+}

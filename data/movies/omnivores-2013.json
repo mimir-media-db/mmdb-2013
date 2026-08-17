@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omnivores_2013",
+  "title": "Omnivores",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16613605",
+    "imdb": "tt2280358",
+    "tmdb": 199788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

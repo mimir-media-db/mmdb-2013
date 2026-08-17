@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_estrondo_2_2013",
+  "title": "O Estrondo 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339114",
+    "imdb": "tt2729314",
+    "tmdb": 171238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}
