@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psychometry_2013",
+  "title": "Psychometry",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15222815",
+    "imdb": "tt2709764",
+    "tmdb": 193717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07"
+}

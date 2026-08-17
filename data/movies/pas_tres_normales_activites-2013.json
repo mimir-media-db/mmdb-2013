@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pas_tres_normales_activites_2013",
+  "title": "Pas très normales activités",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3367212",
+    "imdb": "tt2597216",
+    "tmdb": 163433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-30",
+  "runtime_minutes": 84
+}

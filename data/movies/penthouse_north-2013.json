@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penthouse_north_2013",
+  "title": "Penthouse North",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3374939",
+    "imdb": "tt2055709",
+    "tmdb": 199591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prema_katha_chithram_2013",
+  "title": "Prema Katha Chithram",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240193",
+    "imdb": "tt2971414",
+    "tmdb": 200402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-07"
+}

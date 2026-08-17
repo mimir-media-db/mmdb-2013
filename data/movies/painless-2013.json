@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_painless_2013",
+  "title": "Painless",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18788457",
+    "imdb": "tt1757769",
+    "tmdb": 123362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-10",
+  "runtime_minutes": 100
+}

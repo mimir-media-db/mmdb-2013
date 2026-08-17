@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_cruise_2013",
+  "title": "Paradise Cruise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52843189",
+    "imdb": "tt2252614",
+    "tmdb": 224235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

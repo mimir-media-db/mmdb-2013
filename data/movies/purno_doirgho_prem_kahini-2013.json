@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purno_doirgho_prem_kahini_2013",
+  "title": "Purno Doirgho Prem Kahini",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15396892",
+    "imdb": "tt3095470",
+    "tmdb": 504372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-16"
+}

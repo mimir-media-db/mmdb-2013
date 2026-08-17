@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_progress_report_2013",
+  "title": "Progress Report",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170293"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

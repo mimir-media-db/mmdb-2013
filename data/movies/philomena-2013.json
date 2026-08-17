@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_philomena_2013",
+  "title": "Philomena",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3381163",
+    "imdb": "tt2431286",
+    "tmdb": 205220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-31",
+  "runtime_minutes": 98
+}

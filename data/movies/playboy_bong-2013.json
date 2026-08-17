@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playboy_bong_2013",
+  "title": "Playboy BONG",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739396",
+    "imdb": "tt3205064",
+    "tmdb": 228687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

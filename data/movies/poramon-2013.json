@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poramon_2013",
+  "title": "PoraMon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15357755",
+    "imdb": "tt2999342",
+    "tmdb": 722194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

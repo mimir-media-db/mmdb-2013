@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palmera_2013",
+  "title": "Palmera",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2652246",
+    "imdb": "tt2624594",
+    "tmdb": 446140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-08",
+  "runtime_minutes": 100
+}

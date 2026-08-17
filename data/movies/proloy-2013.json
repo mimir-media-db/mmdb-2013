@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_proloy_2013",
+  "title": "Proloy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20819662",
+    "imdb": "tt2881034",
+    "tmdb": 236031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

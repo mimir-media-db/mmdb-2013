@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pussy_versus_putin_2013",
+  "title": "Pussy versus Putin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20149835",
+    "imdb": "tt2751334",
+    "tmdb": 262859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 63
+}

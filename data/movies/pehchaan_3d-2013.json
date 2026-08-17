@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pehchaan_3d_2013",
+  "title": "Pehchaan 3d",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7160843",
+    "imdb": "tt2162920",
+    "tmdb": 164044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01"
+}

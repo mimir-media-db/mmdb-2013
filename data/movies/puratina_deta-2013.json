@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puratina_deta_2013",
+  "title": "Puratina Deta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18402580",
+    "imdb": "tt2282917",
+    "tmdb": 208429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-16",
+  "runtime_minutes": 133
+}

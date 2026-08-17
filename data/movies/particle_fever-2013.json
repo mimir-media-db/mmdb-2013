@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_particle_fever_2013",
+  "title": "Particle Fever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17041761",
+    "imdb": "tt1385956",
+    "tmdb": 202141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14",
+  "runtime_minutes": 99
+}

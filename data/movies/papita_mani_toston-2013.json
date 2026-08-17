@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papita_mani_toston_2013",
+  "title": "Papita, maní, tostón",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16615702",
+    "imdb": "tt2383662",
+    "tmdb": 248424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-20",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pain_gain_2013",
+  "title": "Pain & Gain",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q766427",
+    "imdb": "tt1980209",
+    "tmdb": 134374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-11",
+  "runtime_minutes": 129
+}

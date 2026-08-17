@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pit_stop_2013",
+  "title": "Pit Stop",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254168",
+    "imdb": "tt2397531",
+    "tmdb": 158875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-21",
+  "runtime_minutes": 80
+}

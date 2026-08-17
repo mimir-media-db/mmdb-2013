@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playin_for_love_2013",
+  "title": "Playin' for Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25303412",
+    "imdb": "tt2481500",
+    "tmdb": 391865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-23"
+}

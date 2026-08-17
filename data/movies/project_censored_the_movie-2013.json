@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_censored_the_movie_2013",
+  "title": "Project Censored the Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254325",
+    "imdb": "tt2689286",
+    "tmdb": 315974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-12"
+}

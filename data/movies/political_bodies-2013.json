@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_political_bodies_2013",
+  "title": "Political Bodies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127688719",
+    "imdb": "tt2971992",
+    "tmdb": 232313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

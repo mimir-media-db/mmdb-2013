@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulling_strings_2013",
+  "title": "Pulling Strings",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206067",
+    "imdb": "tt3203890",
+    "tmdb": 219553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 111
+}

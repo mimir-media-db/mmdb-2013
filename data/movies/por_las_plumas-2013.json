@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_por_las_plumas_2013",
+  "title": "Por las plumas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27949121",
+    "imdb": "tt3142224",
+    "tmdb": 215656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_player_2013",
+  "title": "Player",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12331964",
+    "imdb": "tt2620952",
+    "tmdb": 178255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20",
+  "runtime_minutes": 90
+}

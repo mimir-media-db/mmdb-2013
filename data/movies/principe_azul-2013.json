@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_principe_azul_2013",
+  "title": "Príncipe azul",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962285",
+    "imdb": "tt2304310",
+    "tmdb": 270531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

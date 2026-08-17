@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_house_2013",
+  "title": "The Perfect House",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672457",
+    "imdb": "tt1571247",
+    "tmdb": 122544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

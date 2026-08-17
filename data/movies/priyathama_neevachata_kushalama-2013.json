@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_priyathama_neevachata_kushalama_2013",
+  "title": "Priyathama Neevachata Kushalama",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7246521",
+    "imdb": "tt3517986",
+    "tmdb": 232294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-23"
+}

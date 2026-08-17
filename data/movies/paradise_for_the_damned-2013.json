@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_for_the_damned_2013",
+  "title": "Paradise for the Damned",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124659049",
+    "imdb": "tt3214108",
+    "tmdb": 258654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}
