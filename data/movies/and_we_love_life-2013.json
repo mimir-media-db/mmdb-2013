@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_and_we_love_life_2013",
+  "title": "And We Love Life",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16654655"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 65
+}

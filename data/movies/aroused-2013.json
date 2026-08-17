@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aroused_2013",
+  "title": "Aroused",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052281",
+    "imdb": "tt2403815",
+    "tmdb": 178862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

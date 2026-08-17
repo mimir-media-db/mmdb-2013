@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aibou_xday_2013",
+  "title": "AIBOU: X-DAY",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11582070",
+    "imdb": "tt2228884",
+    "tmdb": 336509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

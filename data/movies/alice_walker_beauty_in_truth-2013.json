@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_walker_beauty_in_truth_2013",
+  "title": "Alice Walker: Beauty in Truth",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4726140",
+    "imdb": "tt2186685",
+    "tmdb": 256195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

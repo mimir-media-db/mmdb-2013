@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_in_all_azhagu_raja_2013",
+  "title": "All in All Azhagu Raja",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729982",
+    "imdb": "tt3253476",
+    "tmdb": 233015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

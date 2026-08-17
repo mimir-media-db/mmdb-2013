@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_final_todos_mueren_2013",
+  "title": "Al final todos mueren",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10852600",
+    "imdb": "tt2460348",
+    "tmdb": 190140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

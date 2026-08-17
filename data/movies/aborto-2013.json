@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aborto_2013",
+  "title": "Aborto",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4668517",
+    "imdb": "tt2729142",
+    "tmdb": 298813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arikil_oraal_2013",
+  "title": "Arikil Oraal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246773",
+    "imdb": "tt3288508",
+    "tmdb": 218217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

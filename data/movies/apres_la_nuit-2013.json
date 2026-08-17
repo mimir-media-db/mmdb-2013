@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apres_la_nuit_2013",
+  "title": "Après la nuit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553874",
+    "imdb": "tt2861830",
+    "tmdb": 190810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

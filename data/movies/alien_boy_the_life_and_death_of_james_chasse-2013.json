@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_boy_the_life_and_death_of_james_chasse_2013",
+  "title": "Alien Boy: The Life and Death of James Chasse",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4726409",
+    "imdb": "tt2516792",
+    "tmdb": 166746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

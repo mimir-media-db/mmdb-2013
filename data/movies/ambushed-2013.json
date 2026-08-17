@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ambushed_2013",
+  "title": "Ambushed",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17511580",
+    "imdb": "tt2497808",
+    "tmdb": 216541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

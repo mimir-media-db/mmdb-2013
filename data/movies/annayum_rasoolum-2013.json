@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annayum_rasoolum_2013",
+  "title": "Annayum Rasoolum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2600319",
+    "imdb": "tt2648034",
+    "tmdb": 155518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

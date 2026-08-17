@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_apa_dengan_rina_2013",
+  "title": "Ada Apa Dengan Rina",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4678223",
+    "imdb": "tt2829176",
+    "tmdb": 275475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

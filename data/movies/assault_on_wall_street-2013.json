@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assault_on_wall_street_2013",
+  "title": "Assault on Wall Street",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14594687",
+    "imdb": "tt2368553",
+    "tmdb": 184125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avalokitesvara_2013",
+  "title": "Avalokitesvara",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16078584",
+    "imdb": "tt3428458",
+    "tmdb": 255958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

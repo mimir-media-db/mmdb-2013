@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_among_friends_2013",
+  "title": "Among Friends",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15055105",
+    "imdb": "tt1984110",
+    "tmdb": 125558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 80
+}

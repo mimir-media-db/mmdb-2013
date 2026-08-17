@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abhiyum_njanum_2013",
+  "title": "Abhiyum Njanum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057971",
+    "imdb": "tt9159812",
+    "tmdb": 513454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anikka_2013",
+  "title": "Anikka",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16154210",
+    "imdb": "tt3292902",
+    "tmdb": 307289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

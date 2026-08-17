@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autour_du_lac_2013",
+  "title": "Autour du lac",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16034399",
+    "imdb": "tt3010364",
+    "tmdb": 390940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 5
+}
