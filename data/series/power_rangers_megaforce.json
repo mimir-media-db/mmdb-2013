@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_megaforce",
+  "title": "Power Rangers Megaforce",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q560416",
+    "imdb": "tt2236126",
+    "tmdb": 325508
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

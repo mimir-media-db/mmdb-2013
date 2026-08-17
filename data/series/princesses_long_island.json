@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_princesses_long_island",
+  "title": "Princesses: Long Island",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17014468",
+    "imdb": "tt2815674",
+    "tmdb": 58797
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

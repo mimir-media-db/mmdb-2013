@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_par_avion",
+  "title": "Par avion",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q13582256",
+    "imdb": "tt2831220",
+    "tmdb": 132570
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

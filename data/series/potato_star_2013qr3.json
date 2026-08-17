@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_potato_star_2013qr3",
+  "title": "Potato Star 2013QR3",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13762231",
+    "imdb": "tt3385756",
+    "tmdb": 64770
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

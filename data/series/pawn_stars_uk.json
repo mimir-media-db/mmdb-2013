@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pawn_stars_uk",
+  "title": "Pawn Stars UK",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15531857",
+    "imdb": "tt3148194",
+    "tmdb": 57507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

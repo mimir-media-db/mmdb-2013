@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_peaky_blinders",
+  "title": "Peaky Blinders",
+  "start_year": 2013,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q14944179",
+    "imdb": "tt2442560",
+    "tmdb": 60574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 36
+}

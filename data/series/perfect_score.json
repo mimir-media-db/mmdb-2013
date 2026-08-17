@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_score",
+  "title": "Perfect Score",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15535099",
+    "imdb": "tt2976400",
+    "tmdb": 56665
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

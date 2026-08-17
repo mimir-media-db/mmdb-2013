@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pretty_wicked_moms",
+  "title": "Pretty Wicked Moms",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17009766",
+    "imdb": "tt2946482",
+    "tmdb": 58422
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

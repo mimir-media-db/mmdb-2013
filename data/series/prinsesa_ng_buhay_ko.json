@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_prinsesa_ng_buhay_ko",
+  "title": "Prinsesa ng Buhay Ko",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14920618",
+    "imdb": "tt3278530",
+    "tmdb": 59959
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_politicians_husband",
+  "title": "The Politician's Husband",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13454437",
+    "imdb": "tt2199618",
+    "tmdb": 57261
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

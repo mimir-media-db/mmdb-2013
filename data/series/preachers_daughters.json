@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_preachers_daughters",
+  "title": "Preachers' Daughters",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7239300",
+    "imdb": "tt2754280",
+    "tmdb": 58687
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

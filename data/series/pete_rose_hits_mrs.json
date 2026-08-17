@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pete_rose_hits_mrs",
+  "title": "Pete Rose: Hits & Mrs.",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7172227",
+    "imdb": "tt2287962",
+    "tmdb": 58314
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

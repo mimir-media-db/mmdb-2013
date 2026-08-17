@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_profit",
+  "title": "The Profit",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q17076395",
+    "imdb": "tt3080030",
+    "tmdb": 62674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 72
+}
