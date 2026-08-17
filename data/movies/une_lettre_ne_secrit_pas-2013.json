@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_lettre_ne_secrit_pas_2013",
+  "title": "Une lettre ne s'écrit pas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16707866",
+    "imdb": "tt2375735",
+    "tmdb": 255248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

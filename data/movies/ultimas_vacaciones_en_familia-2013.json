@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ultimas_vacaciones_en_familia_2013",
+  "title": "Últimas vacaciones en familia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6175039",
+    "imdb": "tt2140625",
+    "tmdb": 576805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

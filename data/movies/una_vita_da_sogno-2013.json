@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_vita_da_sogno_2013",
+  "title": "Una vita da sogno",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004475",
+    "imdb": "tt2176007",
+    "tmdb": 196492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

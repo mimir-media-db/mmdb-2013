@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uyyala_jampala_2013",
+  "title": "Uyyala Jampala",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15301445",
+    "imdb": "tt3290676",
+    "tmdb": 247501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
