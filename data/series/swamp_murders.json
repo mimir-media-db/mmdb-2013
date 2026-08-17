@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_swamp_murders",
+  "title": "Swamp Murders",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55162740",
+    "imdb": "tt2978518",
+    "tmdb": 53100
+  },
+  "last_updated": "2026-08-17"
+}

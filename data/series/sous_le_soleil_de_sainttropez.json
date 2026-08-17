@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sous_le_soleil_de_sainttropez",
+  "title": "Sous le soleil de Saint-Tropez",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3492149",
+    "imdb": "tt2745788",
+    "tmdb": 67470
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

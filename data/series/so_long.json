@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_so_long",
+  "title": "So long !",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4300546",
+    "imdb": "tt2640242",
+    "tmdb": 57097
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

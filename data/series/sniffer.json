@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sniffer",
+  "title": "The Sniffer",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q15576983",
+    "imdb": "tt3326054",
+    "tmdb": 65819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

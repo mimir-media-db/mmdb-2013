@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sluipschutters",
+  "title": "Sluipschutters",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15882143",
+    "imdb": "tt3220514",
+    "tmdb": 122664
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

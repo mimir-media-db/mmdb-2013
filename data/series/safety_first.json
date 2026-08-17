@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_safety_first",
+  "title": "Safety First",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15881635",
+    "imdb": "tt3245250",
+    "tmdb": 65017
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

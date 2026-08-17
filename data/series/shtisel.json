@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shtisel",
+  "title": "Shtisel",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q6878481",
+    "imdb": "tt3069894",
+    "tmdb": 56017
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

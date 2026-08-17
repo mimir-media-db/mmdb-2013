@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sangue_bom",
+  "title": "Sangue Bom",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13581553",
+    "imdb": "tt2887114",
+    "tmdb": 86060
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 160
+}

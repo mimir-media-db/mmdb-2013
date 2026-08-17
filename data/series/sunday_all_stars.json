@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sunday_all_stars",
+  "title": "Sunday All Stars",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17089099",
+    "imdb": "tt3044872",
+    "tmdb": 50660
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 107
+}

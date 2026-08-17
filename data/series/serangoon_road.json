@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_serangoon_road",
+  "title": "Serangoon Road",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7452694",
+    "imdb": "tt2699780",
+    "tmdb": 58812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

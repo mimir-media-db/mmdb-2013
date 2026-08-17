@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sanaoud_baad_kalil",
+  "title": "Sanaoud Baad Kalil",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16120468",
+    "imdb": "tt4588160",
+    "tmdb": 116531
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

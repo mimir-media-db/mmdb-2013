@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stolen_children",
+  "title": "Stolen Children",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16612020",
+    "imdb": "tt2350164",
+    "tmdb": 75660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

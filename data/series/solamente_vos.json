@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_solamente_vos",
+  "title": "Solamente Vos",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3565243",
+    "imdb": "tt2252208",
+    "tmdb": 45957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 223
+}

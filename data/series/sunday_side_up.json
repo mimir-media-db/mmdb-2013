@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sunday_side_up",
+  "title": "Sunday Side Up",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17021630",
+    "imdb": "tt3298010",
+    "tmdb": 248388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

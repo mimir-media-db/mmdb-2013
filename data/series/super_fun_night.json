@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_super_fun_night",
+  "title": "Super Fun Night",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13107396",
+    "imdb": "tt2298477",
+    "tmdb": 49007
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

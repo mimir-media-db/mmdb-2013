@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_street_genius",
+  "title": "Street Genius",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19788104",
+    "imdb": "tt3479748",
+    "tmdb": 64850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sonneborn_rettet_die_welt",
+  "title": "Sonneborn rettet die Welt",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17187434",
+    "imdb": "tt3240746",
+    "tmdb": 85050
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

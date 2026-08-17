@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seed",
+  "title": "Seed",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3477656",
+    "imdb": "tt2429840",
+    "tmdb": 58782
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
