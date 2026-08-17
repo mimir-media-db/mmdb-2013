@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_molanders",
+  "title": "Molanders",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10587517",
+    "imdb": "tt2714868",
+    "tmdb": 50823
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

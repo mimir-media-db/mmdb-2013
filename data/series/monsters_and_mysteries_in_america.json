@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monsters_and_mysteries_in_america",
+  "title": "Monsters and Mysteries in America",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17113940",
+    "imdb": "tt2740518",
+    "tmdb": 58279
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

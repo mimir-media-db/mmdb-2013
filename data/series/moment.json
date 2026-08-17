@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moment",
+  "title": "The Moment",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17113922",
+    "imdb": "tt2203421",
+    "tmdb": 47036
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

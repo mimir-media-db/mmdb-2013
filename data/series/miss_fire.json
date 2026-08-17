@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_fire",
+  "title": "Miss Fire",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104840856"
+  },
+  "last_updated": "2026-08-17"
+}

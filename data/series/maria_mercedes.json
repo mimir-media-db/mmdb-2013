@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_maria_mercedes",
+  "title": "Maria Mercedes",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q12967750",
+    "imdb": "tt4003318",
+    "tmdb": 60207
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

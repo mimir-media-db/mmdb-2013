@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monday_mornings",
+  "title": "Monday Mornings",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2365090",
+    "imdb": "tt2217759",
+    "tmdb": 43721
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

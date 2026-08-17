@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_love_from_the_star",
+  "title": "My Love from the Star",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14655473",
+    "imdb": "tt3469052",
+    "tmdb": 60957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 21
+}

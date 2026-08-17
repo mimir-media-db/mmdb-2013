@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_motive",
+  "title": "Motive",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4162473",
+    "imdb": "tt2443340",
+    "tmdb": 46316
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

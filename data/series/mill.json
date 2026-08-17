@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mill",
+  "title": "The Mill",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16997810",
+    "imdb": "tt2220768",
+    "tmdb": 57263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

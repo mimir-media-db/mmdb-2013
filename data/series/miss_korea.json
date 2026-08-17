@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_korea",
+  "title": "Miss Korea",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15206832",
+    "imdb": "tt3469014",
+    "tmdb": 61208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

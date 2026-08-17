@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_match_of_the_day",
+  "title": "Match of the Day",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16844751"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

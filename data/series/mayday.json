@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mayday",
+  "title": "Mayday",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15984063",
+    "imdb": "tt2401919",
+    "tmdb": 46898
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

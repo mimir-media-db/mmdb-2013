@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monty_dons_french_gardens",
+  "title": "Monty Don's French Gardens",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q59241969",
+    "imdb": "tt9348438",
+    "tmdb": 55724
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}
