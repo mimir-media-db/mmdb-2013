@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_hai_bakrapur_2013",
+  "title": "Yeh Hai Bakrapur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255354",
+    "imdb": "tt3524410",
+    "tmdb": 372121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

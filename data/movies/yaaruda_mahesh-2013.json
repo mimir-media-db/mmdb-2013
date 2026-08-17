@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaaruda_mahesh_2013",
+  "title": "Yaaruda Mahesh",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8046333",
+    "imdb": "tt4418232",
+    "tmdb": 148202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
