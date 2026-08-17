@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_555_2013",
+  "title": "5.5.5",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110163538",
+    "imdb": "tt1809214",
+    "tmdb": 200427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 125
+}

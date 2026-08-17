@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_52_tuesdays_2013",
+  "title": "52 Tuesdays",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16154889",
+    "imdb": "tt3100636",
+    "tmdb": 244801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-15",
+  "runtime_minutes": 109
+}
