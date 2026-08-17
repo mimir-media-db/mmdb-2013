@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiqueck_hamat_proll_out_2013",
+  "title": "Quiqueck & Hämat: Proll Out",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17325792",
+    "imdb": "tt3562846",
+    "tmdb": 301647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qin_ai_de_nai_nai_2013",
+  "title": "Qin ai de nai nai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15914124",
+    "imdb": "tt2417286",
+    "tmdb": 137197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}
