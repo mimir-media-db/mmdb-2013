@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_16_ans_ou_presque_2013",
+  "title": "16 ans... ou presque",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14901478",
+    "imdb": "tt2947742",
+    "tmdb": 242673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-18",
+  "runtime_minutes": 88
+}
