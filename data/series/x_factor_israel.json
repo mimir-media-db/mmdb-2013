@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_israel",
+  "title": "The X Factor Israel",
+  "start_year": 2013,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q15277035",
+    "imdb": "tt7929952",
+    "tmdb": 51814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 86
+}

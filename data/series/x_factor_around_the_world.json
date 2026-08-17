@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_around_the_world",
+  "title": "X Factor Around the World",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16968101"
+  },
+  "last_updated": "2026-08-17"
+}
