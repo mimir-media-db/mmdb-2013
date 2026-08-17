@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arsenio_hall_show",
+  "title": "The Arsenio Hall Show",
+  "start_year": 2013,
+  "end_year": 1994,
+  "external_ids": {
+    "wikidata": "Q7714341",
+    "imdb": "tt0096537",
+    "tmdb": 2216
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 1406
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adarna",
+  "title": "Adarna",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16960291",
+    "imdb": "tt3457500",
+    "tmdb": 213020
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

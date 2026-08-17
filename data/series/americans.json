@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_americans",
+  "title": "The Americans",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q498438",
+    "imdb": "tt2149175",
+    "tmdb": 46533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

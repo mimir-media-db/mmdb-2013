@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_afterschool_groove",
+  "title": "After-school Groove",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17230195",
+    "tmdb": 110585
+  },
+  "last_updated": "2026-08-17"
+}

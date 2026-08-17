@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agent_anna",
+  "title": "Agent Anna",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16960468",
+    "imdb": "tt2271940",
+    "tmdb": 46942
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

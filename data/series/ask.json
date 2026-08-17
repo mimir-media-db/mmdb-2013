@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ask",
+  "title": "A.Ş.K.",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q19610364",
+    "imdb": "tt3142874",
+    "tmdb": 63841
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

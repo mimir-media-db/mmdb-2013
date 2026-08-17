@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alias_el_mexicano",
+  "title": "Alias el Mexicano",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16488371",
+    "imdb": "tt3649804",
+    "tmdb": 81733
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

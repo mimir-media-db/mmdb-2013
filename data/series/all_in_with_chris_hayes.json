@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_all_in_with_chris_hayes",
+  "title": "All In with Chris Hayes",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16002546",
+    "imdb": "tt2926042",
+    "tmdb": 70345
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

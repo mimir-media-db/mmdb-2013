@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_at_sea",
+  "title": "All at Sea",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16987543",
+    "imdb": "tt3271372",
+    "tmdb": 65008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

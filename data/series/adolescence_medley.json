@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adolescence_medley",
+  "title": "Adolescence Medley",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15917623",
+    "imdb": "tt3497446",
+    "tmdb": 57564
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

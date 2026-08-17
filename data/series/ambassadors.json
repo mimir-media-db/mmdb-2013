@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ambassadors",
+  "title": "Ambassadors",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16961240",
+    "imdb": "tt2382598",
+    "tmdb": 60566
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

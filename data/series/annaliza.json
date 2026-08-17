@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_annaliza",
+  "title": "Annaliza",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13376002",
+    "imdb": "tt3923034",
+    "tmdb": 59067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 215
+}

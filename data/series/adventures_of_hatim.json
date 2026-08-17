@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adventures_of_hatim",
+  "title": "The Adventures of Hatim",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15608684",
+    "imdb": "tt8561222"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 76
+}

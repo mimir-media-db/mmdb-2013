@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amachan",
+  "title": "Amachan",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4687939",
+    "imdb": "tt2188562",
+    "tmdb": 64347
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

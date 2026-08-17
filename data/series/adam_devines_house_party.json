@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adam_devines_house_party",
+  "title": "Adam DeVine's House Party",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16154878",
+    "imdb": "tt2836308",
+    "tmdb": 66374
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agents_of_shield",
+  "title": "Agents of S.H.I.E.L.D.",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q537911",
+    "imdb": "tt2364582",
+    "tmdb": 1403
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 136
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_my_love",
+  "title": "All About My Love",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8140365",
+    "imdb": "tt3392010",
+    "tmdb": 47321
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}
