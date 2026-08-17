@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saradaga_ammayitho_2013",
+  "title": "Saradaga Ammayitho",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7421969",
+    "imdb": "tt13970048",
+    "tmdb": 228081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

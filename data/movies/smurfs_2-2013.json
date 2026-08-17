@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smurfs_2_2013",
+  "title": "The Smurfs 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1253366",
+    "imdb": "tt2017020",
+    "tmdb": 77931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

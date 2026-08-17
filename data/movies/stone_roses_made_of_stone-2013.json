@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stone_roses_made_of_stone_2013",
+  "title": "The Stone Roses: Made of Stone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16168469",
+    "imdb": "tt2126403",
+    "tmdb": 193524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

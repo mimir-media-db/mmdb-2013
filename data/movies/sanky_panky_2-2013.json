@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sanky_panky_2_2013",
+  "title": "Sanky Panky 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16628696",
+    "imdb": "tt3348504",
+    "tmdb": 301625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

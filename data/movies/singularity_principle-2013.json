@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singularity_principle_2013",
+  "title": "Singularity Principle",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17143613",
+    "imdb": "tt1773617",
+    "tmdb": 179095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shuddh_desi_romance_2013",
+  "title": "Shuddh Desi Romance",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14786843",
+    "imdb": "tt2988272",
+    "tmdb": 209410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 140
+}

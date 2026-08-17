@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_for_mama_2013",
+  "title": "A Song for Mama",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12152799",
+    "imdb": "tt2401912",
+    "tmdb": 180433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

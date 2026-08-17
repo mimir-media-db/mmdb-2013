@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_girls_2013",
+  "title": "Some Girl(s)",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7559397",
+    "imdb": "tt2201221",
+    "tmdb": 172897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_le_figuier_2013",
+  "title": "Sous Le Figuier",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12151402",
+    "imdb": "tt2359652",
+    "tmdb": 178513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

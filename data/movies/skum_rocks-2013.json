@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skum_rocks_2013",
+  "title": "Skum Rocks!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16167570",
+    "imdb": "tt2434688",
+    "tmdb": 348880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

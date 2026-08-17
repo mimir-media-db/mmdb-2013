@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silk_sakkath_maga_2013",
+  "title": "Silk Sakkath Maga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5281068",
+    "imdb": "tt12748344",
+    "tmdb": 964929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

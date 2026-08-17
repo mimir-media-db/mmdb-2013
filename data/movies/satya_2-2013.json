@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_satya_2_2013",
+  "title": "Satya 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15043351",
+    "imdb": "tt3059106",
+    "tmdb": 242084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 142
+}

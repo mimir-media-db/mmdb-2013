@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetwater_2013",
+  "title": "Sweetwater",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3506557",
+    "imdb": "tt2224004",
+    "tmdb": 158916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

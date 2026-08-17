@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_the_spooky_scarecrow_2013",
+  "title": "Scooby-Doo and the Spooky Scarecrow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16204678",
+    "imdb": "tt3328418",
+    "tmdb": 286387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 22
+}

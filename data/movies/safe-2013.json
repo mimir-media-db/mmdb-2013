@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safe_2013",
+  "title": "Safe",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15968271",
+    "imdb": "tt2894644",
+    "tmdb": 259400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

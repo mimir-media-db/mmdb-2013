@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solo_para_dos_2013",
+  "title": "Sólo para dos",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16938171",
+    "imdb": "tt2482082",
+    "tmdb": 227723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_special_id_2013",
+  "title": "Special ID",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948588",
+    "imdb": "tt2118775",
+    "tmdb": 222216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

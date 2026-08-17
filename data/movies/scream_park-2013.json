@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scream_park_2013",
+  "title": "Scream Park",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17079624",
+    "imdb": "tt2336104",
+    "tmdb": 231783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

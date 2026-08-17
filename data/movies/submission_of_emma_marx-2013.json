@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_submission_of_emma_marx_2013",
+  "title": "The Submission of Emma Marx",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16857473",
+    "imdb": "tt2725882",
+    "tmdb": 186118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

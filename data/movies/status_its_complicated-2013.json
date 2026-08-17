@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_status_its_complicated_2013",
+  "title": "Status: It's Complicated",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061149",
+    "imdb": "tt3315416",
+    "tmdb": 247995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

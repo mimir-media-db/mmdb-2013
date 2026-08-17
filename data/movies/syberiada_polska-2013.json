@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_syberiada_polska_2013",
+  "title": "Syberiada polska",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270931",
+    "imdb": "tt1808513",
+    "tmdb": 207902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 125
+}
