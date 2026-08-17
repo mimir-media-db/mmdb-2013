@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mormor_og_de_atte_ungene_2013",
+  "title": "Mormor og de åtte ungene",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17415323",
+    "imdb": "tt2376156",
+    "tmdb": 223398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-16",
+  "runtime_minutes": 66
+}

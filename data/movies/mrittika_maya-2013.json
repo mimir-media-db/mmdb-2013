@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mrittika_maya_2013",
+  "title": "Mrittika Maya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19743653",
+    "imdb": "tt5101976",
+    "tmdb": 468948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvin_hamlisch_what_he_did_for_love_2013",
+  "title": "Marvin Hamlisch: What He Did for Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114273457",
+    "imdb": "tt3011874",
+    "tmdb": 230864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

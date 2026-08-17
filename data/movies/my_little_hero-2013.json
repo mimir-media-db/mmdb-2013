@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_hero_2013",
+  "title": "My Little Hero",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16162886",
+    "imdb": "tt2291904",
+    "tmdb": 154381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-09"
+}

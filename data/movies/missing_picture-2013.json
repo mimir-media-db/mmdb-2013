@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_picture_2013",
+  "title": "The Missing Picture",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13370821",
+    "imdb": "tt2852470",
+    "tmdb": 186997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-19",
+  "runtime_minutes": 92
+}

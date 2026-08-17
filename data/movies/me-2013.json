@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_2013",
+  "title": "&ME",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4540370",
+    "imdb": "tt2332503",
+    "tmdb": 176127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-10",
+  "runtime_minutes": 88
+}

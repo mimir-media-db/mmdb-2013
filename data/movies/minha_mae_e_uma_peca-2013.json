@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minha_mae_e_uma_peca_2013",
+  "title": "Minha Mãe é uma Peça",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10330296",
+    "imdb": "tt2464018",
+    "tmdb": 203217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-17",
+  "runtime_minutes": 85
+}

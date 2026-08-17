@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_and_the_doctors_2013",
+  "title": "Miss and the Doctors",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14830727",
+    "imdb": "tt2916510",
+    "tmdb": 204762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-04",
+  "runtime_minutes": 102
+}

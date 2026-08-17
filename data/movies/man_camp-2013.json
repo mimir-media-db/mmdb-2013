@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_camp_2013",
+  "title": "Man Camp",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21012646",
+    "imdb": "tt2170499",
+    "tmdb": 301058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mile_from_home_2013",
+  "title": "A Mile from Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17109147",
+    "imdb": "tt3914300"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-13"
+}

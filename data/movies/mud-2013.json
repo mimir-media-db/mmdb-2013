@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mud_2013",
+  "title": "Mud",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3266461",
+    "imdb": "tt1935179",
+    "tmdb": 103731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-26",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamaros_2013",
+  "title": "Mamaroš",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13410435",
+    "imdb": "tt1205506",
+    "tmdb": 12126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-25"
+}

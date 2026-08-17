@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_america_2013",
+  "title": "Mr. America",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15709624",
+    "imdb": "tt3330904",
+    "tmdb": 285038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-06",
+  "runtime_minutes": 93
+}

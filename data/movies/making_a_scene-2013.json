@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_making_a_scene_2013",
+  "title": "Making a Scene",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74549681",
+    "imdb": "tt3914298",
+    "tmdb": 1564259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

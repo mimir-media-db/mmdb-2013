@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muneo_ism_2013",
+  "title": "Muneo Ism",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17225206",
+    "imdb": "tt3847348",
+    "tmdb": 1025948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-22"
+}

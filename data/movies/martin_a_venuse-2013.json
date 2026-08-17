@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_martin_a_venuse_2013",
+  "title": "Martin a Venuse",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12035878",
+    "imdb": "tt2576004",
+    "tmdb": 221293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-05",
+  "runtime_minutes": 102
+}

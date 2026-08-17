@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mindless_behavior_all_around_the_world_2013",
+  "title": "Mindless Behavior: All Around the World",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6863854",
+    "imdb": "tt2621126",
+    "tmdb": 176180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-15"
+}

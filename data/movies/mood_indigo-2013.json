@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mood_indigo_2013",
+  "title": "Mood Indigo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3005861",
+    "imdb": "tt2027140",
+    "tmdb": 157820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-24",
+  "runtime_minutes": 98
+}

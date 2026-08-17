@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mame_daifuku_monogatari_2013",
+  "title": "Mame Daifuku Monogatari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22126095",
+    "imdb": "tt3375044",
+    "tmdb": 442255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

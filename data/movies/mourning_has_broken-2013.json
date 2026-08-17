@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mourning_has_broken_2013",
+  "title": "Mourning Has Broken",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64816352",
+    "imdb": "tt2356114",
+    "tmdb": 179807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-28"
+}

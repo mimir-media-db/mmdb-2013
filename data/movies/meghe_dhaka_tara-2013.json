@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meghe_dhaka_tara_2013",
+  "title": "Meghe Dhaka Tara",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6809061",
+    "imdb": "tt3051894",
+    "tmdb": 245684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mundial_gra_o_wszystko_2013",
+  "title": "Mundial. Gra o wszystko",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16579638",
+    "imdb": "tt2890306",
+    "tmdb": 1232093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-15",
+  "runtime_minutes": 95
+}

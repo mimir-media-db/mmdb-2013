@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mary_is_happy_mary_is_happy_2013",
+  "title": "Mary Is Happy, Mary Is Happy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16303992",
+    "imdb": "tt3379358",
+    "tmdb": 250312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-01",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madoff_made_off_with_america_2013",
+  "title": "Madoff: Made Off with America",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122437414",
+    "imdb": "tt1639081",
+    "tmdb": 339285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modest_reception_2013",
+  "title": "Modest Reception",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5937773",
+    "imdb": "tt2245049",
+    "tmdb": 114962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27"
+}

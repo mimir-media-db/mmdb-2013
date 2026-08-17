@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mening_dostim_jin_2013",
+  "title": "Mening do'stim jin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133386416",
+    "imdb": "tt35678327"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

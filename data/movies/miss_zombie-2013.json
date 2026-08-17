@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_zombie_2013",
+  "title": "Miss Zombie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15629385",
+    "imdb": "tt2542616",
+    "tmdb": 221437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-09",
+  "runtime_minutes": 83
+}

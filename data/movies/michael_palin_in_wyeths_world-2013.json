@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_palin_in_wyeths_world_2013",
+  "title": "Michael Palin in Wyeth's World",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28404603",
+    "imdb": "tt3435334",
+    "tmdb": 544156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 60
+}

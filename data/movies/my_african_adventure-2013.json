@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_african_adventure_2013",
+  "title": "My African Adventure",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14777791",
+    "imdb": "tt2493386",
+    "tmdb": 199374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-31",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maestro_king_of_the_cowboy_artists_2013",
+  "title": "The Maestro: King of the Cowboy Artists",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104868076",
+    "imdb": "tt0113734",
+    "tmdb": 85655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-01",
+  "runtime_minutes": 54
+}

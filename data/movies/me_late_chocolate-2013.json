@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_late_chocolate_2013",
+  "title": "Me late chocolate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129808757",
+    "imdb": "tt1880279",
+    "tmdb": 210639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

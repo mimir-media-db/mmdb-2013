@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metamorphosen_2013",
+  "title": "Metamorphosen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719082",
+    "imdb": "tt2623152",
+    "tmdb": 169789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-11"
+}

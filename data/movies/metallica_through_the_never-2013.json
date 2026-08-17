@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metallica_through_the_never_2013",
+  "title": "Metallica Through the Never",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13642259",
+    "imdb": "tt2172935",
+    "tmdb": 193613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-09",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_high_scaris_city_of_frights_2013",
+  "title": "Monster High - Scaris: City of Frights",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865017",
+    "imdb": "tt3611432",
+    "tmdb": 192911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_shadi_karao_2013",
+  "title": "Meri Shadi Karao",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649663",
+    "imdb": "tt4559172"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

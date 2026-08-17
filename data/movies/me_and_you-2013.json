@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_you_2013",
+  "title": "Me and You",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3019887",
+    "imdb": "tt1801061",
+    "tmdb": 119360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-06",
+  "runtime_minutes": 97
+}
