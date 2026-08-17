@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quartet_2013",
+  "title": "Quartet",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q195525",
+    "imdb": "tt1441951",
+    "tmdb": 121826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24",
+  "runtime_minutes": 98
+}

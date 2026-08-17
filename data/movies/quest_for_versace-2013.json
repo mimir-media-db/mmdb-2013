@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_quest_for_versace_2013",
+  "title": "Quest For Versace",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600724",
+    "imdb": "tt3061686"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

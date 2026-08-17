@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quand_je_serai_dictateur_when_i_will_be_dictator_2013",
+  "title": "Quand je serai dictateur (When I Will Be Dictator)",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999865",
+    "imdb": "tt3596280",
+    "tmdb": 260973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

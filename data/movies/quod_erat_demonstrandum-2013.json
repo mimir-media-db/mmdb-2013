@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quod_erat_demonstrandum_2013",
+  "title": "Quod Erat Demonstrandum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961521",
+    "imdb": "tt2463808",
+    "tmdb": 237808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

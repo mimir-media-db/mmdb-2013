@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quick_change_2013",
+  "title": "Quick Change",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16671899",
+    "imdb": "tt3030986",
+    "tmdb": 209949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-27",
+  "runtime_minutes": 98
+}
