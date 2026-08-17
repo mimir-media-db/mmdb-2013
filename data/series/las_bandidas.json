@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_las_bandidas",
+  "title": "Las Bandidas",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q650931",
+    "imdb": "tt2832790",
+    "tmdb": 218784
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

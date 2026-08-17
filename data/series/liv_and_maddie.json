@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_liv_and_maddie",
+  "title": "Liv and Maddie",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q8172269",
+    "imdb": "tt2794380",
+    "tmdb": 59375
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 80
+}

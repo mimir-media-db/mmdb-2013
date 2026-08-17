@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vie_parfaite",
+  "title": "La Vie parfaite",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16652843",
+    "imdb": "tt11371576",
+    "tmdb": 67662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

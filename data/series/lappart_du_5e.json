@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lappart_du_5e",
+  "title": "L'appart du 5e",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16650909",
+    "imdb": "tt3005648",
+    "tmdb": 72000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_vegas",
+  "title": "Las Vega's",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5970803",
+    "imdb": "tt2772760",
+    "tmdb": 97937
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 77
+}

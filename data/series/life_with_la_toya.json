@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_with_la_toya",
+  "title": "Life With La Toya",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6545031",
+    "imdb": "tt2357724",
+    "tmdb": 57163
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

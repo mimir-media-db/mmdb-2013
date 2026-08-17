@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_latela",
+  "title": "Latela",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23039803",
+    "imdb": "tt2886594",
+    "tmdb": 80921
+  },
+  "last_updated": "2026-08-17"
+}

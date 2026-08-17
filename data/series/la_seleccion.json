@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_seleccion",
+  "title": "La selección",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16588638",
+    "imdb": "tt5508680",
+    "tmdb": 102825
+  },
+  "last_updated": "2026-08-17"
+}

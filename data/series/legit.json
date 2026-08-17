@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legit",
+  "title": "Legit",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3329996",
+    "imdb": "tt2400391",
+    "tmdb": 46405
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

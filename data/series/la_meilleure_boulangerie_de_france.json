@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_meilleure_boulangerie_de_france",
+  "title": "La Meilleure Boulangerie de France",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16652332"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 455
+}

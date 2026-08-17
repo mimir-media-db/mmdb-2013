@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lead_with_jake_tapper",
+  "title": "The Lead with Jake Tapper",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15995532",
+    "imdb": "tt2784810",
+    "tmdb": 58310
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 323
+}

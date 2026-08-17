@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_80s",
+  "title": "Los 80's",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16592773",
+    "imdb": "tt2801364",
+    "tmdb": 49313
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

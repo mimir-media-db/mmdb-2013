@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_little_champ",
+  "title": "Little Champ",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6649494",
+    "imdb": "tt2794822",
+    "tmdb": 59175
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_of_crime",
+  "title": "Life of Crime",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q24037413",
+    "imdb": "tt2480498",
+    "tmdb": 35169
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

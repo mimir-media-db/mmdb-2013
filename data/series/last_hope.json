@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_last_hope",
+  "title": "LAST HOPE",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28280",
+    "imdb": "tt2520352",
+    "tmdb": 86700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

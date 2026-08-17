@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_and_lies",
+  "title": "Love and Lies",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8652880",
+    "imdb": "tt2946616",
+    "tmdb": 46927
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

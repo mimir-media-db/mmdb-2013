@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_eat",
+  "title": "Let's Eat",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15255890",
+    "imdb": "tt3385484",
+    "tmdb": 62411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}
