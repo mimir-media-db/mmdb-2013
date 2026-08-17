@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ella_and_friends_2013",
+  "title": "Ella and Friends",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11857488",
+    "imdb": "tt2112143",
+    "tmdb": 186176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-25",
+  "runtime_minutes": 78
+}

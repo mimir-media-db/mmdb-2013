@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_derechazo_2013",
+  "title": "El Derechazo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514748",
+    "imdb": "tt3225422",
+    "tmdb": 320958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 96
+}

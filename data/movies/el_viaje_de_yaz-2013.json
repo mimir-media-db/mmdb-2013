@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_el_viaje_de_yaz_2013",
+  "title": "El viaje de Yaz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412640"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

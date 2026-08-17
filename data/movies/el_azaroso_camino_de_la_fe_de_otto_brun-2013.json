@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_azaroso_camino_de_la_fe_de_otto_brun_2013",
+  "title": "El azaroso camino de la fe de Otto Brun",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412707",
+    "imdb": "tt5325368"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 49
+}

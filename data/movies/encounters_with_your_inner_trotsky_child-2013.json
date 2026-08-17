@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encounters_with_your_inner_trotsky_child_2013",
+  "title": "Encounters With Your Inner Trotsky Child",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64995901",
+    "imdb": "tt3121114",
+    "tmdb": 1540979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 21
+}

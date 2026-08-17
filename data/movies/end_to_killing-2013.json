@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_to_killing_2013",
+  "title": "An End to Killing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41715126",
+    "imdb": "tt3176304",
+    "tmdb": 265629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}

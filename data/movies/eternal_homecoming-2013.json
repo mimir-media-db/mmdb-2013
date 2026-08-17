@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_homecoming_2013",
+  "title": "Eternal Homecoming",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270520",
+    "imdb": "tt2536310",
+    "tmdb": 180969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-03",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_entretien_avec_romeo_castellucci_2013",
+  "title": "Entretien avec Romeo Castellucci",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61068605"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 24
+}

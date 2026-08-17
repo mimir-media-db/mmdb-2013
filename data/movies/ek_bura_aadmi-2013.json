@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_bura_aadmi_2013",
+  "title": "Ek Bura Aadmi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248194",
+    "imdb": "tt2287717"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-26"
+}

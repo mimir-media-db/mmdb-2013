@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_return_of_antonis_paraskevas_2013",
+  "title": "The Eternal Return of Antonis Paraskevas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16975149",
+    "imdb": "tt2655938",
+    "tmdb": 205864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-11",
+  "runtime_minutes": 88
+}

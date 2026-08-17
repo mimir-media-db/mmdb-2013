@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_is_like_sunday_2013",
+  "title": "Everyday Is Like Sunday",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17101791",
+    "imdb": "tt2378100",
+    "tmdb": 214130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-16"
+}

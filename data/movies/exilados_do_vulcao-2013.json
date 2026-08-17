@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exilados_do_vulcao_2013",
+  "title": "Exilados do Vulcão",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889652",
+    "imdb": "tt3129920",
+    "tmdb": 229059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

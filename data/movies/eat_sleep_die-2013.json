@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eat_sleep_die_2013",
+  "title": "Eat Sleep Die",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4145359",
+    "imdb": "tt2085002",
+    "tmdb": 127901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-05",
+  "runtime_minutes": 104
+}

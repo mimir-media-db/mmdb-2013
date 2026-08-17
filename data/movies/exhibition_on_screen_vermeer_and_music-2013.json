@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_vermeer_and_music_2013",
+  "title": "Exhibition on Screen: Vermeer and Music",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48251256",
+    "imdb": "tt3525412",
+    "tmdb": 350660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10"
+}

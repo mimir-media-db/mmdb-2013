@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eve_teasing_2013",
+  "title": "Eve Teasing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131108384",
+    "imdb": "tt34527832"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06"
+}

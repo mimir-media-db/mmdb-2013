@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_zero_2013",
+  "title": "The Eternal Zero",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11550375",
+    "imdb": "tt2404217",
+    "tmdb": 248087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-21",
+  "runtime_minutes": 137
+}

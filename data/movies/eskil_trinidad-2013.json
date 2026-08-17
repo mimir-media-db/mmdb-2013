@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eskil_trinidad_2013",
+  "title": "Eskil & Trinidad",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955332",
+    "imdb": "tt2368817",
+    "tmdb": 168112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-29",
+  "runtime_minutes": 98
+}

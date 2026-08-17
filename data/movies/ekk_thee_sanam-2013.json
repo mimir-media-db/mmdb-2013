@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ekk_thee_sanam_2013",
+  "title": "Ekk Thee Sanam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891414",
+    "imdb": "tt14619774",
+    "tmdb": 1537007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emperor_2013",
+  "title": "Emperor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3724802",
+    "imdb": "tt2103264",
+    "tmdb": 127372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 102
+}

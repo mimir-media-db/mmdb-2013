@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ego_2013",
+  "title": "Ego",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10478816",
+    "imdb": "tt2287715",
+    "tmdb": 163431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-14"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_angel_de_los_sicarios_2013",
+  "title": "El ángel de los sicarios",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962250"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

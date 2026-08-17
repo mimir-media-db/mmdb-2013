@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_europa_report_2013",
+  "title": "Europa Report",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3060692",
+    "imdb": "tt2051879",
+    "tmdb": 174772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-15",
+  "runtime_minutes": 90
+}

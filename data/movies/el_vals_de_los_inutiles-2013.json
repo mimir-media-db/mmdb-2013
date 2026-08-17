@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_vals_de_los_inutiles_2013",
+  "title": "El vals de los inútiles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35957126",
+    "imdb": "tt3611354",
+    "tmdb": 284362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 80
+}

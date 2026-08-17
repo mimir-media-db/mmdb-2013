@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_essex_boys_retribution_2013",
+  "title": "Essex Boys Retribution",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123699157",
+    "imdb": "tt3339624",
+    "tmdb": 245522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etre_vivant_2013",
+  "title": "Être vivant",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109024176",
+    "imdb": "tt3355308",
+    "tmdb": 458169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 16
+}

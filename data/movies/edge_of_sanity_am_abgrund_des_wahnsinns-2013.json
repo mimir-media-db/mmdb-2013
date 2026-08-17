@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_sanity_am_abgrund_des_wahnsinns_2013",
+  "title": "The Edge of Sanity – Am Abgrund des Wahnsinns",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20111544",
+    "imdb": "tt2345721",
+    "tmdb": 290789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}
