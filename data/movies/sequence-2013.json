@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sequence_2013",
+  "title": "Sequence",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23767840",
+    "imdb": "tt2821104",
+    "tmdb": 267025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sdu_sex_duties_unit_2013",
+  "title": "SDU: Sex Duties Unit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14156180",
+    "imdb": "tt3044248",
+    "tmdb": 210498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-25"
+}

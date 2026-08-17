@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_zhou_enlai_2013",
+  "title": "The Story of Zhou Enlai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635566",
+    "imdb": "tt5051224",
+    "tmdb": 258439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-16",
+  "runtime_minutes": 106
+}

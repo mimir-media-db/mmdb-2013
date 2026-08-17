@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_torture_2013",
+  "title": "Sound of Torture",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961536",
+    "imdb": "tt3392412",
+    "tmdb": 649264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_selanne_2013",
+  "title": "Selänne",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14804591",
+    "imdb": "tt2704212",
+    "tmdb": 224659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-27"
+}

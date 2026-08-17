@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_warriors_2013",
+  "title": "Sunday Warriors",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19845289",
+    "imdb": "tt2736328",
+    "tmdb": 275024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stigma_2013",
+  "title": "Stigma",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25219021",
+    "imdb": "tt3726730",
+    "tmdb": 527073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-01",
+  "runtime_minutes": 96
+}

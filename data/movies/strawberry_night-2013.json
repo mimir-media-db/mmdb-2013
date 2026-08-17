@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_night_2013",
+  "title": "Strawberry Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4268578",
+    "imdb": "tt2322601",
+    "tmdb": 208430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-26"
+}

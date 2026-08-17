@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sobre_las_brasas_2013",
+  "title": "Sobre las brasas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412683",
+    "imdb": "tt4138428",
+    "tmdb": 600868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

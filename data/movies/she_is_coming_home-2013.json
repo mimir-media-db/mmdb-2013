@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_is_coming_home_2013",
+  "title": "She Is Coming Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52950702",
+    "imdb": "tt2965510",
+    "tmdb": 259480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_single_ladies_2013",
+  "title": "Single Ladies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20609457",
+    "imdb": "tt14148216"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

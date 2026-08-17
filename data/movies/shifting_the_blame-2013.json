@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shifting_the_blame_2013",
+  "title": "Shifting the Blame",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17733019",
+    "imdb": "tt2069985",
+    "tmdb": 130748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28",
+  "runtime_minutes": 93
+}

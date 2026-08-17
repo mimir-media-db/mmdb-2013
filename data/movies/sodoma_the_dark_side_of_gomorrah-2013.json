@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sodoma_the_dark_side_of_gomorrah_2013",
+  "title": "Sodoma: The Dark Side of Gomorrah",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18552509",
+    "imdb": "tt2821444",
+    "tmdb": 182422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

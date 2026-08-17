@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexpionage_the_drake_chronicles_2013",
+  "title": "Sexpionage: The Drake Chronicles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140441852",
+    "imdb": "tt3242384",
+    "tmdb": 560478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-21",
+  "runtime_minutes": 141
+}

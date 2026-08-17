@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saare_jahaan_se_mehnga_2013",
+  "title": "Saare Jahaan Se Mehnga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7395689",
+    "imdb": "tt2857500",
+    "tmdb": 247472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08"
+}

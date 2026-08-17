@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_of_45_2013",
+  "title": "The Spirit of '45",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14783948",
+    "imdb": "tt2332801",
+    "tmdb": 164580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-17",
+  "runtime_minutes": 94
+}

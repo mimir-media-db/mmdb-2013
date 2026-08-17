@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somos_tao_jovens_2013",
+  "title": "Somos tão Jovens",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10373271",
+    "imdb": "tt2215537",
+    "tmdb": 191034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-03",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_with_the_fishes_2013",
+  "title": "Sleeping with the Fishes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002463",
+    "imdb": "tt2286988",
+    "tmdb": 291375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

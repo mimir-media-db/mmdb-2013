@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spanish_chainsaw_massacre_2013",
+  "title": "The Spanish Chainsaw Massacre",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18285684",
+    "imdb": "tt3624446",
+    "tmdb": 308419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_much_water_2013",
+  "title": "So Much Water",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17191833",
+    "imdb": "tt1826876",
+    "tmdb": 167935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-28",
+  "runtime_minutes": 102
+}

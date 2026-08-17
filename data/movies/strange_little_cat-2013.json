@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_little_cat_2013",
+  "title": "The Strange Little Cat",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106378885",
+    "imdb": "tt2586000",
+    "tmdb": 164328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexual_tension_violetas_2013",
+  "title": "Sexual Tension: Violetas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21031044",
+    "imdb": "tt2861478",
+    "tmdb": 244401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

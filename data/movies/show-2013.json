@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_show_2013",
+  "title": "Show!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896872",
+    "imdb": "tt3613416",
+    "tmdb": 259173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 69
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sta_per_piovere_2013",
+  "title": "Sta per piovere",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62030126",
+    "imdb": "tt2554722",
+    "tmdb": 914891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 91
+}

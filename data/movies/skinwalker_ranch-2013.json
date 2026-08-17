@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skinwalker_ranch_2013",
+  "title": "Skinwalker Ranch",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081106",
+    "imdb": "tt2881698",
+    "tmdb": 224815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-30",
+  "runtime_minutes": 86
+}

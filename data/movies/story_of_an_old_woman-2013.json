@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_an_old_woman_2013",
+  "title": "The Story of an Old Woman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55731865",
+    "imdb": "tt2899428",
+    "tmdb": 374914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

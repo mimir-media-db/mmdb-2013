@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shame_2013",
+  "title": "Shame",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55632994",
+    "imdb": "tt3009444",
+    "tmdb": 228199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

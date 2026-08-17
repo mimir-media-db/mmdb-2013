@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_splendid_but_sad_days_2013",
+  "title": "Splendid but Sad Days",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65265584",
+    "tmdb": 379017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

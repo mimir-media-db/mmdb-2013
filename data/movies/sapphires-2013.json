@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sapphires_2013",
+  "title": "The Sapphires",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2715076",
+    "imdb": "tt1673697",
+    "tmdb": 110146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20",
+  "runtime_minutes": 99
+}

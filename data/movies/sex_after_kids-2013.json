@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_after_kids_2013",
+  "title": "Sex After Kids",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17011725",
+    "imdb": "tt2301147",
+    "tmdb": 251266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-26",
+  "runtime_minutes": 105
+}

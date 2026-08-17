@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_cold_winter_2013",
+  "title": "Steel Cold Winter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18566878",
+    "imdb": "tt3180652",
+    "tmdb": 230722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 110
+}

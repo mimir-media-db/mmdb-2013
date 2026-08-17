@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_senoritas_2013",
+  "title": "Señoritas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63960696",
+    "imdb": "tt5786872",
+    "tmdb": 203878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

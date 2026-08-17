@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexual_chronicles_of_a_french_family_2013",
+  "title": "Sexual Chronicles of a French Family",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2966815",
+    "imdb": "tt1753584",
+    "tmdb": 112160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27",
+  "runtime_minutes": 79
+}

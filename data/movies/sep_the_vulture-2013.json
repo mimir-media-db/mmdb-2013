@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sep_the_vulture_2013",
+  "title": "Sep: The Vulture",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9353001",
+    "imdb": "tt2627146",
+    "tmdb": 157072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-11",
+  "runtime_minutes": 133
+}

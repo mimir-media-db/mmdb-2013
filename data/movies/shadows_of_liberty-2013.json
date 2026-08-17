@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadows_of_liberty_2013",
+  "title": "Shadows of Liberty",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18788522",
+    "imdb": "tt1543807",
+    "tmdb": 104880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-08",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_queen_2013",
+  "title": "The Snow Queen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27819322",
+    "imdb": "tt3117746",
+    "tmdb": 237413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

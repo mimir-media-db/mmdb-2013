@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sapanara_nayika_2013",
+  "title": "Sapanara Nayika",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43226562",
+    "imdb": "tt2941816"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24"
+}

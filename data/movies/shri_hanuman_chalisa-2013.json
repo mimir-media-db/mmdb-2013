@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shri_hanuman_chalisa_2013",
+  "title": "Shri Hanuman Chalisa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25217950",
+    "imdb": "tt2661798"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

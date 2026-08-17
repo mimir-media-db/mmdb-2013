@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunlight_jr_2013",
+  "title": "Sunlight Jr.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12128536",
+    "imdb": "tt1517249",
+    "tmdb": 173908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-20",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_short_game_2013",
+  "title": "The Short Game",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128000",
+    "imdb": "tt2466830",
+    "tmdb": 169864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20"
+}

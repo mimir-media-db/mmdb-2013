@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shoulders_to_stand_on_2013",
+  "title": "Shoulders to stand on",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136651348",
+    "tmdb": 1100377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

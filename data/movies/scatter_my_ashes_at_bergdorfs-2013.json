@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scatter_my_ashes_at_bergdorfs_2013",
+  "title": "Scatter My Ashes at Bergdorf's",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961528",
+    "imdb": "tt1893326",
+    "tmdb": 168051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shooter_2013",
+  "title": "The Shooter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12335915",
+    "imdb": "tt2381989",
+    "tmdb": 173603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28",
+  "runtime_minutes": 94
+}

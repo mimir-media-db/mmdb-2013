@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_something_crunchy_crunchy_2013",
+  "title": "Something, Crunchy Crunchy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119139452",
+    "imdb": "tt4856780",
+    "tmdb": 756072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

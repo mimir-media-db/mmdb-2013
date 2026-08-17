@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_undercover_operation_2013",
+  "title": "The Spy: Undercover Operation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6880158",
+    "imdb": "tt3025712",
+    "tmdb": 221518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-05",
+  "runtime_minutes": 121
+}

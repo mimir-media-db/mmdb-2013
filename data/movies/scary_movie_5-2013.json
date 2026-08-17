@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_movie_5_2013",
+  "title": "Scary Movie 5",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q867294",
+    "imdb": "tt0795461",
+    "tmdb": 4258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-11",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_on_the_pines_2013",
+  "title": "The Snow on the pines",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5911537",
+    "imdb": "tt2357790",
+    "tmdb": 228407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-09"
+}

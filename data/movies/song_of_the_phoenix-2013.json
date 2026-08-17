@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_the_phoenix_2013",
+  "title": "Song of the Phoenix",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24255150",
+    "imdb": "tt3214392",
+    "tmdb": 308924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-25",
+  "runtime_minutes": 110
+}

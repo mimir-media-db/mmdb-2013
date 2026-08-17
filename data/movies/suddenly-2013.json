@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suddenly_2013",
+  "title": "Suddenly",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17355852",
+    "imdb": "tt2569236",
+    "tmdb": 217896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-03"
+}

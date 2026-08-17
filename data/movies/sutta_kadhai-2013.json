@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sutta_kadhai_2013",
+  "title": "Sutta Kadhai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12980911",
+    "imdb": "tt3264238",
+    "tmdb": 230525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-25"
+}

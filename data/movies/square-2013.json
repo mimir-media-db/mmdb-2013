@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_square_2013",
+  "title": "The Square",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052352",
+    "imdb": "tt2486682",
+    "tmdb": 159037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 108
+}
