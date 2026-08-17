@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_manifesto_2013",
+  "title": "The Joe Manifesto",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600216",
+    "imdb": "tt1347524",
+    "tmdb": 271541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

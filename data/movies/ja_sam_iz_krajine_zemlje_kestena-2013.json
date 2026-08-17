@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ja_sam_iz_krajine_zemlje_kestena_2013",
+  "title": "Ja sam iz Krajine, zemlje kestena",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892814",
+    "imdb": "tt2224108",
+    "tmdb": 391079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

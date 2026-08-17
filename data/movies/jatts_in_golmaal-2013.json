@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatts_in_golmaal_2013",
+  "title": "Jatts In Golmaal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6164719",
+    "imdb": "tt2805974",
+    "tmdb": 195737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juoigan_2013",
+  "title": "Juoigan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19977845",
+    "imdb": "tt4400706",
+    "tmdb": 251604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-22",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatta_2013",
+  "title": "Jatta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249612",
+    "imdb": "tt3281912",
+    "tmdb": 1093463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11"
+}

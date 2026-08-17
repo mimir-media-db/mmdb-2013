@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jsem_slavna_tak_akorat_2013",
+  "title": "Jsem slavná, tak akorát",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12027144",
+    "imdb": "tt3674704",
+    "tmdb": 509748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-29",
+  "runtime_minutes": 94
+}

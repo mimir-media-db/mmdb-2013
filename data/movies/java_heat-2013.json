@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_java_heat_2013",
+  "title": "Java Heat",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163102",
+    "imdb": "tt2083231",
+    "tmdb": 174645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-11",
+  "runtime_minutes": 103
+}

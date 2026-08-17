@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jodorowskys_dune_2013",
+  "title": "Jodorowsky's Dune",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052318",
+    "imdb": "tt1935156",
+    "tmdb": 191720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-18",
+  "runtime_minutes": 90
+}

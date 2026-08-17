@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_2013",
+  "title": "A Journey",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30741055",
+    "imdb": "tt3019714",
+    "tmdb": 212750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-27",
+  "runtime_minutes": 85
+}
