@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_job_lot",
+  "title": "The Job Lot",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13360187",
+    "imdb": "tt2885556",
+    "tmdb": 59541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

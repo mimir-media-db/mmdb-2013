@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_juan_direction",
+  "title": "Juan Direction",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15718865"
+  },
+  "last_updated": "2026-08-17"
+}

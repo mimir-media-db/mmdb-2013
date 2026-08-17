@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joe_rogan_questions_everything",
+  "title": "Joe Rogan Questions Everything",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16997783",
+    "imdb": "tt3076938",
+    "tmdb": 56066
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

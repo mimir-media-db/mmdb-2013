@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jv_the_extraordinary_adventures_of_jules_verne",
+  "title": "JV- The Extraordinary Adventures of Jules Verne",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16571588",
+    "imdb": "tt3232518",
+    "tmdb": 257832
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

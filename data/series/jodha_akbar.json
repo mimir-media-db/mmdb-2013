@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jodha_akbar",
+  "title": "Jodha Akbar",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15920409",
+    "imdb": "tt3426342",
+    "tmdb": 60580
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 566
+}

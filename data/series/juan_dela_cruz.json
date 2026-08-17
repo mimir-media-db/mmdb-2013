@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_juan_dela_cruz",
+  "title": "Juan dela Cruz",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6301396",
+    "imdb": "tt3666228",
+    "tmdb": 58183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 188
+}
