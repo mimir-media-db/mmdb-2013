@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kartun_el_ano_de_salome_2013",
+  "title": "Kartun, el año de Salomé",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16586371",
+    "imdb": "tt2521084",
+    "tmdb": 1021837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

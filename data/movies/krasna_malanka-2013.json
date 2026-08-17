@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krasna_malanka_2013",
+  "title": "Krasna Malanka",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16703178",
+    "imdb": "tt5940526",
+    "tmdb": 955834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

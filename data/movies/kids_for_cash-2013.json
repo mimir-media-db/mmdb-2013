@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_for_cash_2013",
+  "title": "Kids for Cash",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252215",
+    "imdb": "tt2925642",
+    "tmdb": 245158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

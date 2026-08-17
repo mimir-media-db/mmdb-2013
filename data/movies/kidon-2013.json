@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidon_2013",
+  "title": "Kidon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16864749",
+    "imdb": "tt2991008",
+    "tmdb": 268207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

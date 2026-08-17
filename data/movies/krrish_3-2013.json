@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krrish_3_2013",
+  "title": "Krrish 3",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6439145",
+    "imdb": "tt1029231",
+    "tmdb": 204435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 152
+}

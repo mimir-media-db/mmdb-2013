@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kutteem_kolum_2013",
+  "title": "Kutteem Kolum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250629",
+    "imdb": "tt2866842",
+    "tmdb": 257152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

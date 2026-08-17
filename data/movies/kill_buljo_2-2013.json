@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_buljo_2_2013",
+  "title": "Kill Buljo 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15987821",
+    "imdb": "tt2366131",
+    "tmdb": 247290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

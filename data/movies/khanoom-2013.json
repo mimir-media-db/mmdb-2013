@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khanoom_2013",
+  "title": "Khanoom",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16045550",
+    "imdb": "tt3744092",
+    "tmdb": 553727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
