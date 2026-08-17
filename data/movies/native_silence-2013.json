@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_native_silence_2013",
+  "title": "Native Silence",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18391620",
+    "imdb": "tt2828548",
+    "tmdb": 332611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

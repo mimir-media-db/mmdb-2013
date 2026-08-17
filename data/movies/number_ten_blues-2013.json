@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_number_ten_blues_2013",
+  "title": "Number Ten Blues",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17224179",
+    "imdb": "tt3096178",
+    "tmdb": 336143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natholi_oru_cheriya_meenalla_2013",
+  "title": "Natholi Oru Cheriya Meenalla",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4267308",
+    "imdb": "tt2679530",
+    "tmdb": 168793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08"
+}

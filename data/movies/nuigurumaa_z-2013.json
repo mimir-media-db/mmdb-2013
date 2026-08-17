@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuigurumaa_z_2013",
+  "title": "Nuigurumaa Z",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15284428",
+    "imdb": "tt2849348",
+    "tmdb": 234088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20",
+  "runtime_minutes": 101
+}

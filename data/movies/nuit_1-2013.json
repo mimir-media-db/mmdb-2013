@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuit_1_2013",
+  "title": "Nuit 1",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3346105",
+    "imdb": "tt2016955",
+    "tmdb": 103502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-15",
+  "runtime_minutes": 91
+}

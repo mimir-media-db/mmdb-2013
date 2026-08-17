@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_breathing_2013",
+  "title": "No Breathing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13534211",
+    "imdb": "tt2917646",
+    "tmdb": 230726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-30",
+  "runtime_minutes": 118
+}

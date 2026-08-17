@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nee_ko_njaa_cha_2013",
+  "title": "Nee Ko Njaa Cha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6986430",
+    "imdb": "tt2631098",
+    "tmdb": 158744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-04"
+}

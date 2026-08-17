@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_moves_2013",
+  "title": "Night Moves",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126557",
+    "imdb": "tt2043933",
+    "tmdb": 157823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-31",
+  "runtime_minutes": 113
+}

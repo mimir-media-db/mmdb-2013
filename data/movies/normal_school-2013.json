@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_school_2013",
+  "title": "Normal School",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5838792",
+    "imdb": "tt2224175",
+    "tmdb": 137077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-03",
+  "runtime_minutes": 88
+}

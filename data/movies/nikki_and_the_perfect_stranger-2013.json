@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nikki_and_the_perfect_stranger_2013",
+  "title": "Nikki and the Perfect Stranger",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19866246",
+    "imdb": "tt2395353",
+    "tmdb": 387967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-05"
+}

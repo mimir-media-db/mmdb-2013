@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_namte_namte_2013",
+  "title": "Namte Namte",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6962097",
+    "imdb": "tt5281646",
+    "tmdb": 732327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-02"
+}

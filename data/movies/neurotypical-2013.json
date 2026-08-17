@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neurotypical_2013",
+  "title": "Neurotypical",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869668",
+    "imdb": "tt1760416",
+    "tmdb": 360925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

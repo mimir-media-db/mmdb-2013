@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nanbargal_kavanathirku_2013",
+  "title": "Nanbargal Kavanathirku",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16309983",
+    "imdb": "tt13070380"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-04",
+  "runtime_minutes": 128
+}

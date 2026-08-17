@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ncr_not_criminally_responsible_2013",
+  "title": "NCR: Not Criminally Responsible",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126467",
+    "imdb": "tt3464378",
+    "tmdb": 476036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-28"
+}

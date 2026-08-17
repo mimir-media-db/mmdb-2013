@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_south_park_xxx_2013",
+  "title": "Not South Park XXX",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50413283",
+    "imdb": "tt2836254",
+    "tmdb": 282053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-16",
+  "runtime_minutes": 110
+}
