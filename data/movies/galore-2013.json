@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_galore_2013",
+  "title": "Galore",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67098007",
+    "imdb": "tt2263640",
+    "tmdb": 199573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

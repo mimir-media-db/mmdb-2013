@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_daughter_2013",
+  "title": "The good daughter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20492332",
+    "imdb": "tt3330372",
+    "tmdb": 230689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-29"
+}

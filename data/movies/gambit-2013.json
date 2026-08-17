@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gambit_2013",
+  "title": "Gambit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q276778",
+    "imdb": "tt0404978",
+    "tmdb": 97434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-14",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goliyon_ki_rasleela_ramleela_2013",
+  "title": "Goliyon Ki Rasleela Ram-Leela",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15037029",
+    "imdb": "tt2215477",
+    "tmdb": 235984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-14",
+  "runtime_minutes": 159
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_galus_galus_2013",
+  "title": "Galus Galus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132302425",
+    "imdb": "tt2899450",
+    "tmdb": 271671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

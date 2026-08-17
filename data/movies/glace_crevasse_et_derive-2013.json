@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glace_crevasse_et_derive_2013",
+  "title": "Glace, crevasse et dérive",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055410",
+    "imdb": "tt12221010",
+    "tmdb": 1121032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 9
+}

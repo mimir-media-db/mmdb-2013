@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_friends_2013",
+  "title": "Good Friends",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060304",
+    "imdb": "tt3004748",
+    "tmdb": 288322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28"
+}

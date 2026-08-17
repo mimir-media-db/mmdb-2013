@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_2013",
+  "title": "Gold",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4200793",
+    "imdb": "tt2338846",
+    "tmdb": 159344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-15",
+  "runtime_minutes": 101
+}

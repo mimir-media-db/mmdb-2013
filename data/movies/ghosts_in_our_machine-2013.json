@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosts_in_our_machine_2013",
+  "title": "The Ghosts in Our Machine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22001032",
+    "imdb": "tt2654562",
+    "tmdb": 181454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_ol_freda_2013",
+  "title": "Good Ol’ Freda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13107958",
+    "imdb": "tt2505938",
+    "tmdb": 173301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-09",
+  "runtime_minutes": 86
+}

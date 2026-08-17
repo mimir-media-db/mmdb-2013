@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grease_xxx_a_parody_2013",
+  "title": "Grease XXX – A Parody",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15857836",
+    "imdb": "tt3268042",
+    "tmdb": 261050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11"
+}

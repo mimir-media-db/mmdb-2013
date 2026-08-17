@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_a_ring_2013",
+  "title": "A Gun & a Ring",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949722",
+    "imdb": "tt2748544",
+    "tmdb": 191751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-28"
+}

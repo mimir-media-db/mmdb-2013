@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_for_sisters_2013",
+  "title": "Go for Sisters",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16948216",
+    "imdb": "tt2247432",
+    "tmdb": 172542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-11",
+  "runtime_minutes": 123
+}

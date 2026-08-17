@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_for_sale_2013",
+  "title": "God for Sale",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5576012",
+    "imdb": "tt3708828",
+    "tmdb": 234844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-28"
+}

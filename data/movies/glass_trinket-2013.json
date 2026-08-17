@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_trinket_2013",
+  "title": "The Glass Trinket",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21209799",
+    "imdb": "tt4779550"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

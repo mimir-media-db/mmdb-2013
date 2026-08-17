@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garo_gaiden_tougen_no_fue_2013",
+  "title": "Garo Gaiden: Tougen no Fue",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17049172",
+    "imdb": "tt3852414",
+    "tmdb": 259390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-20"
+}

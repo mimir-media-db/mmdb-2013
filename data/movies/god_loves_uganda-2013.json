@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_loves_uganda_2013",
+  "title": "God Loves Uganda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5575922",
+    "imdb": "tt1874513",
+    "tmdb": 159006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 83
+}

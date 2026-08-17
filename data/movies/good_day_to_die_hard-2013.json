@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_day_to_die_hard_2013",
+  "title": "A Good Day to Die Hard",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72276",
+    "imdb": "tt1606378",
+    "tmdb": 47964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-14",
+  "runtime_minutes": 98
+}

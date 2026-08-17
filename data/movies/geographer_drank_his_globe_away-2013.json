@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geographer_drank_his_globe_away_2013",
+  "title": "The Geographer Drank His Globe Away",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13557525",
+    "imdb": "tt3155604",
+    "tmdb": 225235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-01",
+  "runtime_minutes": 124
+}

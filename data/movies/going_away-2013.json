@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_away_2013",
+  "title": "Going Away",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949803",
+    "imdb": "tt2289526",
+    "tmdb": 209357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-08",
+  "runtime_minutes": 95
+}

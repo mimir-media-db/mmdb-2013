@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greeku_veerudu_2013",
+  "title": "Greeku Veerudu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4166240",
+    "imdb": "tt2653804",
+    "tmdb": 181930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-19",
+  "runtime_minutes": 155
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_the_gringo_2013",
+  "title": "Get the Gringo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q403442",
+    "imdb": "tt1567609",
+    "tmdb": 80389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28",
+  "runtime_minutes": 96
+}

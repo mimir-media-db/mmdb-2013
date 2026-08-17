@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_expectations_2013",
+  "title": "Great Expectations",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123616248",
+    "imdb": "tt2736822",
+    "tmdb": 182514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 145
+}
