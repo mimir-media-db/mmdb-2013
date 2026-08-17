@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nirbhoya_2013",
+  "title": "Nirbhoya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252471",
+    "imdb": "tt8983136"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

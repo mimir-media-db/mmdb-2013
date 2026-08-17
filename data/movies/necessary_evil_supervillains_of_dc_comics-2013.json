@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_necessary_evil_supervillains_of_dc_comics_2013",
+  "title": "Necessary Evil: Super-Villains of DC Comics",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052335",
+    "imdb": "tt3033478",
+    "tmdb": 229979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_labor_2013",
+  "title": "Night Labor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16709564",
+    "imdb": "tt2766354",
+    "tmdb": 339672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

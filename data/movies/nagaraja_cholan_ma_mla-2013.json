@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagaraja_cholan_ma_mla_2013",
+  "title": "Nagaraja Cholan MA, MLA",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6958526",
+    "imdb": "tt2907434",
+    "tmdb": 192473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

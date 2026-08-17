@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_fire_zone_2013",
+  "title": "No Fire Zone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7044185",
+    "imdb": "tt2910328",
+    "tmdb": 203604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

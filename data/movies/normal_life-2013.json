@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_life_2013",
+  "title": "A NORMAL LIFE",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16681371",
+    "imdb": "tt1544996",
+    "tmdb": 176402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
