@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yossi_2013",
+  "title": "Yossi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3572712",
+    "imdb": "tt1934269",
+    "tmdb": 117629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24",
+  "runtime_minutes": 84
+}

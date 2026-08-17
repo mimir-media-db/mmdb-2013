@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_your_time_is_up_2013",
+  "title": "Your Time Is Up",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651701",
+    "tmdb": 790039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-14"
+}

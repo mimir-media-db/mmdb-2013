@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_will_love_me_2013",
+  "title": "You Will Love Me",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46390474",
+    "imdb": "tt2609326",
+    "tmdb": 339345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

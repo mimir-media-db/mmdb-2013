@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_gonna_be_a_legend_man_2013",
+  "title": "You're Gonna Be a Legend, Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9183104",
+    "imdb": "tt2856272",
+    "tmdb": 320486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-15",
+  "runtime_minutes": 78
+}

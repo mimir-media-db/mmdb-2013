@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yozgat_blues_2013",
+  "title": "Yozgat Blues",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17434122",
+    "imdb": "tt2388819",
+    "tmdb": 215653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-06",
+  "runtime_minutes": 93
+}

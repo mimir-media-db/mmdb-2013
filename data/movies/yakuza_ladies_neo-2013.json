@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yakuza_ladies_neo_2013",
+  "title": "Yakuza Ladies Neo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109600358",
+    "imdb": "tt2756816",
+    "tmdb": 475482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-08"
+}

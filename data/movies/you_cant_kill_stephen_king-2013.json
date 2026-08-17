@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_cant_kill_stephen_king_2013",
+  "title": "You Can't Kill Stephen King",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18708866",
+    "imdb": "tt1691452",
+    "tmdb": 137528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-11",
+  "runtime_minutes": 86
+}

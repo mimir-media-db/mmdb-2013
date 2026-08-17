@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yokomichi_yonosuke_2013",
+  "title": "Yokomichi Yonosuke",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8054659",
+    "imdb": "tt2151915",
+    "tmdb": 200145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-23",
+  "runtime_minutes": 160
+}

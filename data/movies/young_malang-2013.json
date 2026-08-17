@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_young_malang_2013",
+  "title": "Young Malang",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983454",
+    "imdb": "tt3041778",
+    "tmdb": 222420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20"
+}
