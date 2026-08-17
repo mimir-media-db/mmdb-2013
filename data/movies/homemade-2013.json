@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_homemade_2013",
+  "title": "Homemade",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24451301",
+    "imdb": "tt2977720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

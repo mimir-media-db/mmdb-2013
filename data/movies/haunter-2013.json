@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunter_2013",
+  "title": "Haunter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124716",
+    "imdb": "tt2345567",
+    "tmdb": 166271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-09",
+  "runtime_minutes": 97
+}

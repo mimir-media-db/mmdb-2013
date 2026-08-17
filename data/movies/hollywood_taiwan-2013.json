@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_taiwan_2013",
+  "title": "Hollywood Taiwan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15900920",
+    "imdb": "tt3068650",
+    "tmdb": 176565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-22",
+  "runtime_minutes": 124
+}

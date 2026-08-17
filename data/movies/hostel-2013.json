@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hostel_2013",
+  "title": "Hostel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649646",
+    "imdb": "tt6501192",
+    "tmdb": 490767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

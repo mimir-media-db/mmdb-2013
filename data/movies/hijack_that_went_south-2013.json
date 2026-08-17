@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hijack_that_went_south_2013",
+  "title": "The Hijack That Went South",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17381324",
+    "imdb": "tt2088871",
+    "tmdb": 211233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 93
+}

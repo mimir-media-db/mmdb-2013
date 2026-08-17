@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haytarma_2013",
+  "title": "Haytarma",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14896899",
+    "imdb": "tt2871482",
+    "tmdb": 238299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-18",
+  "runtime_minutes": 87
+}

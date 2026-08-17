@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_2013",
+  "title": "The Hunt",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32303",
+    "imdb": "tt2106476",
+    "tmdb": 103663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-10",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_last_things_2013",
+  "title": "House of Last Things",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18425279",
+    "imdb": "tt1464539",
+    "tmdb": 204904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

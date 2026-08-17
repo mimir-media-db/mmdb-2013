@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_selfish_i_am_2013",
+  "title": "How Selfish I Am!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48755015",
+    "imdb": "tt3259920",
+    "tmdb": 297064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-26"
+}

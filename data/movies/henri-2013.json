@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_henri_2013",
+  "title": "Henri",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13380371",
+    "imdb": "tt2865688",
+    "tmdb": 190845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24",
+  "runtime_minutes": 103
+}

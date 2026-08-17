@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hush_girls_dont_scream_2013",
+  "title": "Hush! Girls Don't Scream",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755291",
+    "imdb": "tt2440036",
+    "tmdb": 202580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-31"
+}

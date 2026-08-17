@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homesick_2013",
+  "title": "Homesick",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17231593",
+    "imdb": "tt2988068",
+    "tmdb": 487515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-10"
+}

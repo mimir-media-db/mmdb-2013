@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hue_a_matter_of_colour_2013",
+  "title": "Hue: A Matter of Colour",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110442694",
+    "imdb": "tt1516545",
+    "tmdb": 245755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

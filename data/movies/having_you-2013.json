@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_having_you_2013",
+  "title": "Having You",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124719",
+    "imdb": "tt2343549",
+    "tmdb": 190950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-04",
+  "runtime_minutes": 92
+}

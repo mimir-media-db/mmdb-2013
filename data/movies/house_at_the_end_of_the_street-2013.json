@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_at_the_end_of_the_street_2013",
+  "title": "House at the End of the Street",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498297",
+    "imdb": "tt1582507",
+    "tmdb": 82505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-17",
+  "runtime_minutes": 101
+}

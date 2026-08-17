@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_han_gongju_2013",
+  "title": "Han Gong-ju",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255731",
+    "imdb": "tt3265462",
+    "tmdb": 229304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 112
+}

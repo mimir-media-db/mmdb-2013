@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holly_2013",
+  "title": "Holly",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19603902",
+    "imdb": "tt11890680",
+    "tmdb": 221885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20"
+}

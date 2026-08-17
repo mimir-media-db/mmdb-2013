@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hour_2013",
+  "title": "The Hour",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123424243",
+    "imdb": "tt30476372",
+    "tmdb": 1219578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huk_aum_lum_2013",
+  "title": "Huk Aum Lum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136756421",
+    "imdb": "tt3318546",
+    "tmdb": 234763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27"
+}
