@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willbot_friend_or_foe_2013",
+  "title": "Will-Bot - friend or foe?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20757454",
+    "imdb": "tt3143894",
+    "tmdb": 453374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 6
+}

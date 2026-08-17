@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_2013",
+  "title": "Wer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17087335",
+    "imdb": "tt2229511",
+    "tmdb": 222461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-16",
+  "runtime_minutes": 89
+}

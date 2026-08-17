@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_angels_sing_2013",
+  "title": "When Angels Sing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992421",
+    "imdb": "tt1833888",
+    "tmdb": 57210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-10",
+  "runtime_minutes": 87
+}

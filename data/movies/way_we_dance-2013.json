@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_we_dance_2013",
+  "title": "The Way We Dance",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15044290",
+    "imdb": "tt3003996",
+    "tmdb": 213478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-31",
+  "runtime_minutes": 110
+}

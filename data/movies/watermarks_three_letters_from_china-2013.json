@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_watermarks_three_letters_from_china_2013",
+  "title": "Watermarks - Three letters from China",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140183510",
+    "imdb": "tt3089840",
+    "tmdb": 420206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 73
+}

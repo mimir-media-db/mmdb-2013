@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wawa_semput_2013",
+  "title": "Wawa semput",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25483994",
+    "imdb": "tt2981718",
+    "tmdb": 168592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

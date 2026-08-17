@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_westerland_2013",
+  "title": "Westerland",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19947774",
+    "imdb": "tt2154739",
+    "tmdb": 199310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-21",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_windstorm_2013",
+  "title": "Windstorm",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15837829",
+    "imdb": "tt2356464",
+    "tmdb": 233639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-21",
+  "runtime_minutes": 105
+}

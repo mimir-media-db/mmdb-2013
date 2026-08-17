@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wheres_the_beer_and_when_do_we_get_paid_2013",
+  "title": "Where’s the Beer and When Do We Get Paid?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19845305",
+    "imdb": "tt3091056",
+    "tmdb": 300181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-29"
+}

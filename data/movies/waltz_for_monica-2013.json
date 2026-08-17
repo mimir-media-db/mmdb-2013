@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waltz_for_monica_2013",
+  "title": "Waltz for Monica",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10588224",
+    "imdb": "tt2112206",
+    "tmdb": 168806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wine_of_summer_2013",
+  "title": "The Wine of Summer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4403815",
+    "imdb": "tt2066133",
+    "tmdb": 357110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_the_freaks_2013",
+  "title": "We Are the Freaks",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17128232",
+    "imdb": "tt2302969",
+    "tmdb": 204255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-22",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_willow_creek_2013",
+  "title": "Willow Creek",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16964043",
+    "imdb": "tt2885364",
+    "tmdb": 185460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-29"
+}

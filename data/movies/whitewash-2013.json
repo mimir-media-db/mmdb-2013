@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whitewash_2013",
+  "title": "Whitewash",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17011424",
+    "imdb": "tt2297063",
+    "tmdb": 174344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-19"
+}

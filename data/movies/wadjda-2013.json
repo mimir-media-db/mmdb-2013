@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wadjda_2013",
+  "title": "Wadjda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5474120",
+    "imdb": "tt2258858",
+    "tmdb": 129112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-05",
+  "runtime_minutes": 98
+}

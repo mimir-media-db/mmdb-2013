@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wildes_berlin_2013",
+  "title": "Wildes Berlin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48141418",
+    "imdb": "tt3947466",
+    "tmdb": 354768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

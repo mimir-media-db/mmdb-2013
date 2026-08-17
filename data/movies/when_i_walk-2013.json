@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_walk_2013",
+  "title": "When I Walk",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21034406",
+    "imdb": "tt1395808",
+    "tmdb": 159160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

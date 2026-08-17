@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_word_2013",
+  "title": "The Word",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106071737",
+    "imdb": "tt2338341",
+    "tmdb": 283271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
