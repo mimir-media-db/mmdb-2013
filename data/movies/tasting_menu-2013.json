@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tasting_menu_2013",
+  "title": "Tasting Menu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20078138",
+    "imdb": "tt1826753",
+    "tmdb": 166085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thallana_2013",
+  "title": "Thallana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130385351",
+    "imdb": "tt2720170",
+    "tmdb": 1111455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-06"
+}

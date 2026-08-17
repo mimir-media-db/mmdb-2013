@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trapped_2013",
+  "title": "Trapped",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755347",
+    "imdb": "tt3269074",
+    "tmdb": 224458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tad_the_lost_explorer_2013",
+  "title": "Tad, The Lost Explorer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1707921",
+    "imdb": "tt1764625",
+    "tmdb": 121734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_from_the_dark_2_2013",
+  "title": "Tales from the Dark 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18387758",
+    "imdb": "tt3105008",
+    "tmdb": 222832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

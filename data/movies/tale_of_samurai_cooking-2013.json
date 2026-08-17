@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_samurai_cooking_2013",
+  "title": "A Tale of Samurai Cooking",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15962213",
+    "imdb": "tt2653264",
+    "tmdb": 208986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-21",
+  "runtime_minutes": 122
+}

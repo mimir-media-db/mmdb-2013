@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_burning_feeling_2013",
+  "title": "That Burning Feeling",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25447620",
+    "imdb": "tt1854580",
+    "tmdb": 267457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tragedy_in_a_country_churchyard_2013",
+  "title": "Tragedy in a Country Churchyard",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19977915",
+    "imdb": "tt2621118",
+    "tmdb": 237863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

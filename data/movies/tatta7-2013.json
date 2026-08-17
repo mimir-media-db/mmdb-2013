@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tatta7_2013",
+  "title": "Tatta7",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16127496",
+    "imdb": "tt2965820",
+    "tmdb": 189017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-05",
+  "runtime_minutes": 115
+}

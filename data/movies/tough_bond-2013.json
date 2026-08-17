@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tough_bond_2013",
+  "title": "Tough Bond",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23661381",
+    "imdb": "tt2555386",
+    "tmdb": 168163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-13",
+  "runtime_minutes": 83
+}

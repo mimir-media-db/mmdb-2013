@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_this_waltz_2013",
+  "title": "Take This Waltz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113149",
+    "imdb": "tt1592281",
+    "tmdb": 86555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 116
+}

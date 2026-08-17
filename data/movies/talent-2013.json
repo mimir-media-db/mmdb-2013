@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_talent_2013",
+  "title": "The Talent",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49081386",
+    "imdb": "tt5231420",
+    "tmdb": 390398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

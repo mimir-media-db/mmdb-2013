@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tehran_2121_ad_2013",
+  "title": "Tehran 2121 AD",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5944029",
+    "imdb": "tt3422716",
+    "tmdb": 369238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-13",
+  "runtime_minutes": 80
+}

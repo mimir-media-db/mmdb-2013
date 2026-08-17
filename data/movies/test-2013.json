@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_test_2013",
+  "title": "Test",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15527686",
+    "imdb": "tt2407380",
+    "tmdb": 226979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-07",
+  "runtime_minutes": 89
+}

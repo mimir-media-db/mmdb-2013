@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touchy_feely_2013",
+  "title": "Touchy Feely",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7828747",
+    "imdb": "tt2364949",
+    "tmdb": 154282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 88
+}
