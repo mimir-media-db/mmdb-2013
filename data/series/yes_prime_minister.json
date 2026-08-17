@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yes_prime_minister",
+  "title": "Yes, Prime Minister",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q98839091",
+    "imdb": "tt2612376",
+    "tmdb": 92256
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
