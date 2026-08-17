@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_days_in_havana_2013",
+  "title": "7 Days in Havana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2616152",
+    "imdb": "tt1797348",
+    "tmdb": 94904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-11",
+  "runtime_minutes": 129
+}
