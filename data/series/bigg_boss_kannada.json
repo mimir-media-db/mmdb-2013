@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bigg_boss_kannada",
+  "title": "Bigg Boss Kannada",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16951672",
+    "imdb": "tt2911448",
+    "tmdb": 80386
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 728
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_canada",
+  "title": "Big Brother Canada",
+  "start_year": 2013,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q4905347",
+    "imdb": "tt2776888",
+    "tmdb": 59960
+  },
+  "last_updated": "2026-08-17"
+}

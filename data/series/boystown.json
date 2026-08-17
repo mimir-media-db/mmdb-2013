@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boystown",
+  "title": "BoysTown",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q113502986",
+    "imdb": "tt0421782",
+    "tmdb": 124612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_belles",
+  "title": "Belle's",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4120983",
+    "imdb": "tt2215052",
+    "tmdb": 46644
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

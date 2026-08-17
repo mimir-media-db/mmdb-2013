@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_black_ink_crew_new_york",
+  "title": "Black Ink Crew New York",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q4921033",
+    "imdb": "tt2738096",
+    "tmdb": 58796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 142
+}

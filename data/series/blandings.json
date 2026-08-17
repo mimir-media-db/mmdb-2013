@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blandings",
+  "title": "Blandings",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4925032",
+    "imdb": "tt2211457",
+    "tmdb": 59440
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

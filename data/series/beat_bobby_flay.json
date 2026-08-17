@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beat_bobby_flay",
+  "title": "Beat Bobby Flay",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q26812634",
+    "imdb": "tt3205302",
+    "tmdb": 62481
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 104
+}

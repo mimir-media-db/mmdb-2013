@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bluestone_42",
+  "title": "Bluestone 42",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13377829",
+    "imdb": "tt2708572",
+    "tmdb": 46844
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

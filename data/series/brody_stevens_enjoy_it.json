@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brody_stevens_enjoy_it",
+  "title": "Brody Stevens: Enjoy It!",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16155325",
+    "imdb": "tt2646374",
+    "tmdb": 64988
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_school",
+  "title": "Big School",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14830393",
+    "imdb": "tt2827534",
+    "tmdb": 57760
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

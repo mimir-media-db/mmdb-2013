@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_rig_bounty_hunters",
+  "title": "Big Rig Bounty Hunters",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15427747",
+    "imdb": "tt2724846",
+    "tmdb": 58332
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

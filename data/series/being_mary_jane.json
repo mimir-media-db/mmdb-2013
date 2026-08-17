@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_being_mary_jane",
+  "title": "Being Mary Jane",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q4881303",
+    "imdb": "tt2345481",
+    "tmdb": 54511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 52
+}

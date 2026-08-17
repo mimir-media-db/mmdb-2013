@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blacklist",
+  "title": "The Blacklist",
+  "start_year": 2013,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q13148212",
+    "imdb": "tt2741602",
+    "tmdb": 46952
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 218
+}

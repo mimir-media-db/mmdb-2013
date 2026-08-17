@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_buddha",
+  "title": "Buddha",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16954312",
+    "imdb": "tt3433480",
+    "tmdb": 58420
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

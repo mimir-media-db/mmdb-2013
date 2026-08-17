@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brooklyn_ninenine",
+  "title": "Brooklyn Nine-Nine",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q13417244",
+    "imdb": "tt2467372",
+    "tmdb": 48891
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 153
+}

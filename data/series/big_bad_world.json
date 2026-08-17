@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_bad_world",
+  "title": "Big Bad World",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16841643",
+    "imdb": "tt2662356",
+    "tmdb": 130057
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bel_ami",
+  "title": "Bel Ami",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15051771",
+    "imdb": "tt3350766",
+    "tmdb": 61136
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

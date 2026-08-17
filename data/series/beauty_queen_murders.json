@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_queen_murders",
+  "title": "Beauty Queen Murders",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q55524914",
+    "imdb": "tt3078774",
+    "tmdb": 78188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

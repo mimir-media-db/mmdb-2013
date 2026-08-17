@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barnwood_builders",
+  "title": "Barnwood Builders",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48976825",
+    "imdb": "tt3286608",
+    "tmdb": 66766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 160
+}

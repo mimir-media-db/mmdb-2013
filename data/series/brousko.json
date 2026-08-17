@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brousko",
+  "title": "Brousko",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16245505",
+    "imdb": "tt3253748",
+    "tmdb": 102106
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 772
+}

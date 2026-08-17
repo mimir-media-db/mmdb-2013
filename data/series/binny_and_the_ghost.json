@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_binny_and_the_ghost",
+  "title": "Binny and the Ghost",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17457631",
+    "imdb": "tt2886428",
+    "tmdb": 61851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

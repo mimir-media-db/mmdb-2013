@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_benim_hala_umudum_var",
+  "title": "Benim Hala Umudum Var",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18085396",
+    "imdb": "tt8438442",
+    "tmdb": 84213
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 33
+}

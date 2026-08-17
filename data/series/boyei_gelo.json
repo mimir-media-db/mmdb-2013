@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boyei_gelo",
+  "title": "Boyei Gelo",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16345892",
+    "imdb": "tt3215226",
+    "tmdb": 200883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 439
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_by_any_means",
+  "title": "By Any Means",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16954717",
+    "imdb": "tt2904568",
+    "tmdb": 60245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
