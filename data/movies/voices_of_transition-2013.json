@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voices_of_transition_2013",
+  "title": "Voices of Transition",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2530405",
+    "imdb": "tt1920884",
+    "tmdb": 427335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02",
+  "runtime_minutes": 65
+}

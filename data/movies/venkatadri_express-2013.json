@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_venkatadri_express_2013",
+  "title": "Venkatadri Express",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16346585",
+    "imdb": "tt3573040",
+    "tmdb": 242301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-29"
+}

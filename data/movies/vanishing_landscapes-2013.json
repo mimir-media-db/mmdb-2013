@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_landscapes_2013",
+  "title": "Vanishing Landscapes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101566",
+    "imdb": "tt2327459",
+    "tmdb": 563770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 74
+}

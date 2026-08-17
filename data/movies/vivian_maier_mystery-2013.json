@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vivian_maier_mystery_2013",
+  "title": "The Vivian Maier Mystery",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51121324",
+    "imdb": "tt3252208",
+    "tmdb": 271295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 50
+}

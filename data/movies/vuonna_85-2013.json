@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vuonna_85_2013",
+  "title": "Vuonna 85",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17384961",
+    "imdb": "tt2088974",
+    "tmdb": 201124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25",
+  "runtime_minutes": 100
+}

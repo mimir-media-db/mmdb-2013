@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vicious_winter_2013",
+  "title": "Vicious Winter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107293431",
+    "imdb": "tt2218984",
+    "tmdb": 974582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-01"
+}
