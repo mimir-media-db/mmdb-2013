@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ice_cold_gold",
+  "title": "Ice Cold Gold",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16996494",
+    "imdb": "tt2812850",
+    "tmdb": 54410
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

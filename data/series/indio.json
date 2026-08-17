@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_indio",
+  "title": "Indio",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6024887",
+    "imdb": "tt2946490",
+    "tmdb": 222229
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 97
+}

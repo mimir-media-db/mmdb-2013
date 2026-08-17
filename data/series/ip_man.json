@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ip_man",
+  "title": "Ip Man",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13426720",
+    "imdb": "tt3969094",
+    "tmdb": 53135
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

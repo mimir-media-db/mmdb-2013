@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ice_cream_girls",
+  "title": "The Ice Cream Girls",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7777031",
+    "imdb": "tt2372806",
+    "tmdb": 69073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

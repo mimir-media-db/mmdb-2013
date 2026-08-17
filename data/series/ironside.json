@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ironside",
+  "title": "Ironside",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6073242",
+    "imdb": "tt2787278",
+    "tmdb": 46694
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

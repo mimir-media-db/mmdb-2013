@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_instant_mom",
+  "title": "Instant Mom",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q14914651",
+    "imdb": "tt2545498",
+    "tmdb": 58188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

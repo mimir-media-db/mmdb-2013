@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_inbound_troubles",
+  "title": "Inbound Troubles",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3565553",
+    "imdb": "tt4173352",
+    "tmdb": 48152
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}
