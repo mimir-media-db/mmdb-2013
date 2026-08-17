@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_suis_supporter_du_standard_2013",
+  "title": "Je suis supporter du Standard",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16645132",
+    "imdb": "tt2559122",
+    "tmdb": 160821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jayantabhai_ki_luv_story_2013",
+  "title": "Jayantabhai Ki Luv Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249628",
+    "imdb": "tt2622130",
+    "tmdb": 189542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 130
+}

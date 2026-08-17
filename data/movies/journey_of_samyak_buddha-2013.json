@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_samyak_buddha_2013",
+  "title": "A Journey of Samyak Buddha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15059369",
+    "imdb": "tt3056820",
+    "tmdb": 1265765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

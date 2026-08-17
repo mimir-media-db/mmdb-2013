@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jagadguru_adi_shankara_2013",
+  "title": "Jagadguru Adi Shankara",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15059368",
+    "imdb": "tt3129396",
+    "tmdb": 244025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 130
+}

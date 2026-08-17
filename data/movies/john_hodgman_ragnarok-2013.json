@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_hodgman_ragnarok_2013",
+  "title": "John Hodgman: Ragnarok",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16158443",
+    "imdb": "tt3014262",
+    "tmdb": 203059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 68
+}
