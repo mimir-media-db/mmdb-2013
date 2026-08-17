@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_presidents_staff_2013",
+  "title": "The President's Staff",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8990821",
+    "imdb": "tt2577652",
+    "tmdb": 219723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 104
+}

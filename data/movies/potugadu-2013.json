@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_potugadu_2013",
+  "title": "Potugadu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14914918",
+    "imdb": "tt3187080",
+    "tmdb": 240823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

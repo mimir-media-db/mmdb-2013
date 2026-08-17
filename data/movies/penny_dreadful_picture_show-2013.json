@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penny_dreadful_picture_show_2013",
+  "title": "The Penny Dreadful Picture Show",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479459",
+    "imdb": "tt2317484",
+    "tmdb": 254174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paatti_2013",
+  "title": "Paatti",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121492",
+    "imdb": "tt2392066",
+    "tmdb": 269814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

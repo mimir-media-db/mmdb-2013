@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_trojan_2013",
+  "title": "Piano Trojan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15919995",
+    "imdb": "tt6447358"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

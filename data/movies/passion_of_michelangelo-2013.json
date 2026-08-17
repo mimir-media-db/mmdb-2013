@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_of_michelangelo_2013",
+  "title": "The Passion of Michelangelo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16588539",
+    "imdb": "tt2354157",
+    "tmdb": 249753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

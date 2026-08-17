@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_on_earth_2013",
+  "title": "A Place on Earth",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16681928",
+    "imdb": "tt2403991",
+    "tmdb": 203145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_powder_room_2013",
+  "title": "Powder Room",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7235999",
+    "imdb": "tt2608726",
+    "tmdb": 226363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

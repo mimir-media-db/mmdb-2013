@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phata_poster_nikla_hero_2013",
+  "title": "Phata Poster Nikla Hero",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7181086",
+    "imdb": "tt2615584",
+    "tmdb": 222430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

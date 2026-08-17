@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_paludiers_de_la_baie_2013",
+  "title": "Paludiers de la Baie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16668715"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

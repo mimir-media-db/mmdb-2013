@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattathu_yaanai_2013",
+  "title": "Pattathu Yaanai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7148333",
+    "imdb": "tt4197476",
+    "tmdb": 209305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puthiya_thiruppangal_2013",
+  "title": "Puthiya Thiruppangal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262238",
+    "imdb": "tt7943466",
+    "tmdb": 280097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

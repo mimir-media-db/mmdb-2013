@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_prima_la_trama_poi_il_fondo_2013",
+  "title": "Prima la trama, poi il fondo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3921622"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 65
+}

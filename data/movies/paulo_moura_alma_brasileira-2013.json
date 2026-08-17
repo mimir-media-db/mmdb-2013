@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paulo_moura_alma_brasileira_2013",
+  "title": "Paulo Moura - Alma Brasileira",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052340",
+    "imdb": "tt6447654",
+    "tmdb": 259887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

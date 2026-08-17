@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_profe_por_accidente_2013",
+  "title": "Profe por accidente",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11135305",
+    "imdb": "tt3177116",
+    "tmdb": 426066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

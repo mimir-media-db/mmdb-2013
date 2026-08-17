@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pieces_of_easter_2013",
+  "title": "Pieces of Easter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7191399",
+    "imdb": "tt2379460",
+    "tmdb": 287863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
