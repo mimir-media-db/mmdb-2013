@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frau_ella_2013",
+  "title": "Frau Ella",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15810368",
+    "imdb": "tt2669766",
+    "tmdb": 227262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

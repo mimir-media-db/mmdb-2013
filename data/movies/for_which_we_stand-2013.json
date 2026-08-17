@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_which_we_stand_2013",
+  "title": "For Which We Stand",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16993621",
+    "imdb": "tt3469348",
+    "tmdb": 602046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

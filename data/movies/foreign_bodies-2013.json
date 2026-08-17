@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foreign_bodies_2013",
+  "title": "Foreign Bodies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16564398",
+    "imdb": "tt3107708",
+    "tmdb": 262785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fading_west_2013",
+  "title": "Fading West",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16156094",
+    "imdb": "tt3300954",
+    "tmdb": 248065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

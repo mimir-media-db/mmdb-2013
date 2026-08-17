@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fox_lover_2013",
+  "title": "The Fox Lover",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14946895",
+    "imdb": "tt4960930",
+    "tmdb": 246942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

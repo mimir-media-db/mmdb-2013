@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freunde_von_freunden_2013",
+  "title": "Freunde von Freunden",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15616106",
+    "imdb": "tt3386042",
+    "tmdb": 252180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 91
+}

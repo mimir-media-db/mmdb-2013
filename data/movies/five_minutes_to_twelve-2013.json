@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_five_minutes_to_twelve_2013",
+  "title": "Five Minutes to Twelve",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15593210",
+    "imdb": "tt3421924"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

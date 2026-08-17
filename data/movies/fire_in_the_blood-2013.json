@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_in_the_blood_2013",
+  "title": "Fire in the Blood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248389",
+    "imdb": "tt1787067",
+    "tmdb": 156284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

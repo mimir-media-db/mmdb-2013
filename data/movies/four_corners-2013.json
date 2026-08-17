@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_corners_2013",
+  "title": "Four Corners",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15310299",
+    "imdb": "tt3243554",
+    "tmdb": 222934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 119
+}

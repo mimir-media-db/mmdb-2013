@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuga_di_cervelli_2013",
+  "title": "Fuga di cervelli",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15103382",
+    "imdb": "tt3040510",
+    "tmdb": 238930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faroeste_caboclo_2013",
+  "title": "Faroeste Caboclo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4356286",
+    "imdb": "tt1869416",
+    "tmdb": 195423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}
