@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lenny_cooke_2013",
+  "title": "Lenny Cooke",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73545048",
+    "imdb": "tt2606924",
+    "tmdb": 174374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

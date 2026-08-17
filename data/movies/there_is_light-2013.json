@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_light_2013",
+  "title": "There Is Light",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24902439",
+    "imdb": "tt2720908",
+    "tmdb": 209022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-23"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mischange_2013",
+  "title": "Mischange",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17564507",
+    "imdb": "tt3582678",
+    "tmdb": 254531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-05"
+}

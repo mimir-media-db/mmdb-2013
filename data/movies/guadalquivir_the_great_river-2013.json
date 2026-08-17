@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guadalquivir_the_great_river_2013",
+  "title": "Guadalquivir: The Great River",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97929042",
+    "imdb": "tt3313740",
+    "tmdb": 227705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-13",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attorney_2013",
+  "title": "The Attorney",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15283831",
+    "imdb": "tt3404140",
+    "tmdb": 242452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-18",
+  "runtime_minutes": 127
+}

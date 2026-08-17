@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bosteri_unterm_rad_2013",
+  "title": "Bosteri unterm Rad",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66317613",
+    "imdb": "tt3464886",
+    "tmdb": 256110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_pouvoir_ne_se_partage_pas_2013",
+  "title": "Le pouvoir ne se partage pas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742577",
+    "imdb": "tt2926520",
+    "tmdb": 1732779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

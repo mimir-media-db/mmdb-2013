@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tete_en_bas_2013",
+  "title": "La Tête en bas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77998898"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 28
+}

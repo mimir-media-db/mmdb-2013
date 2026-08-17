@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_left_to_fear_2013",
+  "title": "Nothing Left to Fear",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16548530",
+    "imdb": "tt1662293",
+    "tmdb": 209901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 100
+}

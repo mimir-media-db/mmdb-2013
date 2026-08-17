@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fulmaya_devcatko_s_tenkyma_nohama_2013",
+  "title": "Fulmaya, děvčátko s tenkýma nohama",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13411282",
+    "imdb": "tt3098570",
+    "tmdb": 649949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_fabre_will_cure_you_2013",
+  "title": "Doctor Fabre Will Cure You",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131450930",
+    "imdb": "tt4937892",
+    "tmdb": 930431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 61
+}

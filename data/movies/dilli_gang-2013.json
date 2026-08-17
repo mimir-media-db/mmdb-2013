@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dilli_gang_2013",
+  "title": "Dilli Gang",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891346",
+    "imdb": "tt6923514",
+    "tmdb": 509909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-25"
+}

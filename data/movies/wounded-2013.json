@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wounded_2013",
+  "title": "Wounded",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18517239",
+    "imdb": "tt2721712",
+    "tmdb": 209418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

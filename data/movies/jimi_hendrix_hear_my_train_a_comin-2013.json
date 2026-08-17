@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimi_hendrix_hear_my_train_a_comin_2013",
+  "title": "Jimi Hendrix: Hear My Train a Comin'",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107740021",
+    "imdb": "tt3181314",
+    "tmdb": 233863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-05",
+  "runtime_minutes": 90
+}

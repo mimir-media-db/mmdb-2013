@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theatre_of_the_deranged_ii_2013",
+  "title": "Theatre of the Deranged II",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116692042",
+    "imdb": "tt2262325",
+    "tmdb": 359062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

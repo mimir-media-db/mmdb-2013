@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steal_my_heart_2013",
+  "title": "Steal My Heart",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15712385",
+    "imdb": "tt3694790",
+    "tmdb": 245597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-18",
+  "runtime_minutes": 115
+}

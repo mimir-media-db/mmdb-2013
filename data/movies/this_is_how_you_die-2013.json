@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_how_you_die_2013",
+  "title": "This Is How You Die",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138411042",
+    "imdb": "tt3145542",
+    "tmdb": 885101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karma_ke_rati_2013",
+  "title": "Karma Ke Rati",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64860490",
+    "imdb": "tt10107250",
+    "tmdb": 629141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-12",
+  "runtime_minutes": 130
+}

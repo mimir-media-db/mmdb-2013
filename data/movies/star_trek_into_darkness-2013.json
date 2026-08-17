@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_into_darkness_2013",
+  "title": "Star Trek Into Darkness",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q171711",
+    "imdb": "tt1408101",
+    "tmdb": 54138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-23",
+  "runtime_minutes": 120
+}

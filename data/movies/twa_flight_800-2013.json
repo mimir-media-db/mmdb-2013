@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twa_flight_800_2013",
+  "title": "TWA Flight 800",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56034501",
+    "imdb": "tt3040528",
+    "tmdb": 210624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

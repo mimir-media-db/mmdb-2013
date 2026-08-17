@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rincon_de_darwin_2013",
+  "title": "Rincón de Darwin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18709374",
+    "imdb": "tt2954740",
+    "tmdb": 256594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

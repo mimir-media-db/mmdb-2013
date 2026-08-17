@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tengo_ganas_de_ti_2013",
+  "title": "Tengo ganas de ti",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2983218",
+    "imdb": "tt1797504",
+    "tmdb": 109689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-06",
+  "runtime_minutes": 119
+}

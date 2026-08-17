@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beware_of_mr_baker_2013",
+  "title": "Beware of Mr. Baker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16155155",
+    "imdb": "tt1931388",
+    "tmdb": 97610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-01",
+  "runtime_minutes": 100
+}

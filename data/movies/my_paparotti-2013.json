@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_paparotti_2013",
+  "title": "My Paparotti",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946250",
+    "imdb": "tt2958712",
+    "tmdb": 189081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-14",
+  "runtime_minutes": 127
+}

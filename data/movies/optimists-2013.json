@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_optimists_2013",
+  "title": "The Optimists",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19463470",
+    "imdb": "tt3115910",
+    "tmdb": 260089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-22",
+  "runtime_minutes": 92
+}

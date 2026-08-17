@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lagos_cougars_2013",
+  "title": "Lagos Cougars",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17109132",
+    "imdb": "tt6731490",
+    "tmdb": 390099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-03"
+}

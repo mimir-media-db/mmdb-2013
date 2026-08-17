@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_president_2013",
+  "title": "Le Président",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132776513",
+    "imdb": "tt2904646",
+    "tmdb": 259207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

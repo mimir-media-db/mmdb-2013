@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_strap_some_boyz_2013",
+  "title": "Strap Some Boyz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60052934",
+    "imdb": "tt3128466"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

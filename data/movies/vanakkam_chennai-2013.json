@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanakkam_chennai_2013",
+  "title": "Vanakkam Chennai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6416292",
+    "imdb": "tt3215356",
+    "tmdb": 227062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11"
+}

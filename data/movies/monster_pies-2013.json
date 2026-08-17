@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_pies_2013",
+  "title": "Monster Pies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21286447",
+    "imdb": "tt2379082",
+    "tmdb": 168022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

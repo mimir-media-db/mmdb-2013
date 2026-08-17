@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babymakers_2013",
+  "title": "The Babymakers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3381890",
+    "imdb": "tt0835418",
+    "tmdb": 98066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-05",
+  "runtime_minutes": 98
+}

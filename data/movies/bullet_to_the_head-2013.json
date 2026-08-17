@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullet_to_the_head_2013",
+  "title": "Bullet to the Head",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135230",
+    "imdb": "tt1308729",
+    "tmdb": 70074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-29",
+  "runtime_minutes": 91
+}

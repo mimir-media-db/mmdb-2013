@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siete_anos_de_matrimonio_2013",
+  "title": "Siete años de matrimonio",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649211",
+    "imdb": "tt2425542",
+    "tmdb": 164300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25",
+  "runtime_minutes": 100
+}

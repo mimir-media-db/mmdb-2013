@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ashchorjyo_prodeep_2013",
+  "title": "Ashchorjyo Prodeep",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16242689",
+    "imdb": "tt3329526",
+    "tmdb": 265702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-15"
+}

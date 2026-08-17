@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruce_willis_why_the_legend_never_dies_2013",
+  "title": "Bruce Willis: Why the Legend Never Dies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64759466",
+    "imdb": "tt2900708",
+    "tmdb": 234158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-21",
+  "runtime_minutes": 90
+}

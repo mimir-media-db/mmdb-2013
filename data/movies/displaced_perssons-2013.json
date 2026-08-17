@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_displaced_perssons_2013",
+  "title": "Displaced Perssons",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289725",
+    "imdb": "tt3168794",
+    "tmdb": 279027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

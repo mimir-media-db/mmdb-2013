@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attacks_of_2611_2013",
+  "title": "The Attacks of 26/11",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12989733",
+    "imdb": "tt2635622",
+    "tmdb": 171879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28",
+  "runtime_minutes": 116
+}

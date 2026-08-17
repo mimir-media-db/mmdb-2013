@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salvation_army_2013",
+  "title": "Salvation Army",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19947312",
+    "imdb": "tt3016266",
+    "tmdb": 215960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-03"
+}

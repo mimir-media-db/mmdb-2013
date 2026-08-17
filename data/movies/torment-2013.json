@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torment_2013",
+  "title": "Torment",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17143528",
+    "imdb": "tt2900822",
+    "tmdb": 227877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11",
+  "runtime_minutes": 80
+}

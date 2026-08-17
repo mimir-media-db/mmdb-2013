@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horses_of_god_2013",
+  "title": "Horses of God",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5274248",
+    "imdb": "tt2369047",
+    "tmdb": 134908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08",
+  "runtime_minutes": 115
+}

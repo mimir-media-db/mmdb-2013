@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_and_let_live_2013",
+  "title": "Live and Let Live",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427414",
+    "imdb": "tt3408558",
+    "tmdb": 277528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 80
+}

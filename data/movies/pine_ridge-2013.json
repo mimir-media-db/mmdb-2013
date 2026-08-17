@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pine_ridge_2013",
+  "title": "Pine Ridge",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729364",
+    "imdb": "tt2958050",
+    "tmdb": 219613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 77
+}

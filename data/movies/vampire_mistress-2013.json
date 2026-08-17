@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_mistress_2013",
+  "title": "The Vampire Mistress",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140285201",
+    "imdb": "tt3121678",
+    "tmdb": 575071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-05",
+  "runtime_minutes": 78
+}

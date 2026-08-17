@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jumalainen_valo_leonardo_da_vilhu_2013_2013",
+  "title": "Jumalainen valo - Leonardo da Vilhu (2013)",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113382411",
+    "imdb": "tt2823680",
+    "tmdb": 1378844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-03",
+  "runtime_minutes": 86
+}

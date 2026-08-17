@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_direttore_2013",
+  "title": "Il direttore",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14911940",
+    "imdb": "tt3148468",
+    "tmdb": 223202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-27",
+  "runtime_minutes": 90
+}

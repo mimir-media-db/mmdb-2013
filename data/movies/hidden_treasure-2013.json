@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_treasure_2013",
+  "title": "The Hidden Treasure",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131552350",
+    "tmdb": 1150227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

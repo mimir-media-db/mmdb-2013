@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narbachi_wadi_2013",
+  "title": "Narbachi Wadi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15813560",
+    "imdb": "tt3410654",
+    "tmdb": 228914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20"
+}

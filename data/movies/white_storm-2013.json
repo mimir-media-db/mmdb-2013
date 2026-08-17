@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_storm_2013",
+  "title": "The White Storm",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553850",
+    "imdb": "tt2957774",
+    "tmdb": 233112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-25",
+  "runtime_minutes": 140
+}

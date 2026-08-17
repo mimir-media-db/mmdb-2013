@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_viaggio_con_cecilia_2013",
+  "title": "In viaggio con Cecilia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20005166",
+    "imdb": "tt3138010",
+    "tmdb": 318960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 80
+}

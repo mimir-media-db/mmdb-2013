@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charlies_country_2013",
+  "title": "Charlie's Country",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736456",
+    "imdb": "tt3244512",
+    "tmdb": 265349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-12",
+  "runtime_minutes": 108
+}

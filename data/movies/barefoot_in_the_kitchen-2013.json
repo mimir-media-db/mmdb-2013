@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barefoot_in_the_kitchen_2013",
+  "title": "Barefoot in the Kitchen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96385116",
+    "imdb": "tt2896952",
+    "tmdb": 218681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14",
+  "runtime_minutes": 82
+}

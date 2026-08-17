@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behzat_c_ankara_yaniyor_2013",
+  "title": "Behzat Ç. Ankara Yaniyor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450811",
+    "imdb": "tt3283714",
+    "tmdb": 255161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-01",
+  "runtime_minutes": 97
+}

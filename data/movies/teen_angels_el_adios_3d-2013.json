@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_angels_el_adios_3d_2013",
+  "title": "Teen Angels: el Adios 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18462865",
+    "imdb": "tt3528654",
+    "tmdb": 406069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-30",
+  "runtime_minutes": 92
+}

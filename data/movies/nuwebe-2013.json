@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuwebe_2013",
+  "title": "Nuwebe",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25561869",
+    "imdb": "tt3030976",
+    "tmdb": 210984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-27"
+}

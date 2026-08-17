@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cockneys_vs_zombies_2013",
+  "title": "Cockneys vs Zombies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414796",
+    "imdb": "tt1362058",
+    "tmdb": 114606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-12",
+  "runtime_minutes": 88
+}

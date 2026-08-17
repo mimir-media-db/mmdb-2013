@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jay_silent_bobs_super_groovy_cartoon_movie_2013",
+  "title": "Jay & Silent Bob's Super Groovy Cartoon Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252003",
+    "imdb": "tt2783020",
+    "tmdb": 179267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-20",
+  "runtime_minutes": 64
+}

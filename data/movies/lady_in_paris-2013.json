@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_in_paris_2013",
+  "title": "A Lady in Paris",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549295",
+    "imdb": "tt1472464",
+    "tmdb": 136670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 94
+}

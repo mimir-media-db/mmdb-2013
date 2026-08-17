@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_poisson_elevage_en_eaux_troubles_2013",
+  "title": "Poisson : élevage en eaux troubles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494588"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

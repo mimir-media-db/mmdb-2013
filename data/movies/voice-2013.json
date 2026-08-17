@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_2013",
+  "title": "The Voice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64798841",
+    "imdb": "tt3577588",
+    "tmdb": 339194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

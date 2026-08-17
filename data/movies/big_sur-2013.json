@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_sur_2013",
+  "title": "Big Sur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1826435",
+    "imdb": "tt1462411",
+    "tmdb": 156277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-23"
+}

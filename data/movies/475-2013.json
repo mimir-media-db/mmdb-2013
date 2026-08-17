@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_475_2013",
+  "title": "475",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160007",
+    "imdb": "tt2726922",
+    "tmdb": 197882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_white_2013",
+  "title": "Into the White",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q763615",
+    "imdb": "tt1876277",
+    "tmdb": 78215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-31",
+  "runtime_minutes": 100
+}

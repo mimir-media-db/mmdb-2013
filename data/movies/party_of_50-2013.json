@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_party_of_50_2013",
+  "title": "Party of 50",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116486981",
+    "imdb": "tt3396306"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

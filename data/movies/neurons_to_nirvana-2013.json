@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neurons_to_nirvana_2013",
+  "title": "Neurons to Nirvana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703211",
+    "imdb": "tt2195566",
+    "tmdb": 228813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

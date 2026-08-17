@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_star_trek_3_xxx_this_is_a_parody_2013",
+  "title": "This Ain’t Star Trek 3 XXX: This Is a Parody",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137363358",
+    "imdb": "tt3019264",
+    "tmdb": 208678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-24",
+  "runtime_minutes": 104
+}

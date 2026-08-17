@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sacrifice_2013",
+  "title": "Sacrifice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4392565",
+    "imdb": "tt1726738",
+    "tmdb": 55741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-11",
+  "runtime_minutes": 122
+}

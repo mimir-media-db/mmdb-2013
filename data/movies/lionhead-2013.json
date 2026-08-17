@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lionhead_2013",
+  "title": "Lionhead",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082568",
+    "imdb": "tt2016229",
+    "tmdb": 318839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

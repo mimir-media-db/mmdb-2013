@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ashok_samrat_2013",
+  "title": "Ashok Samrat",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50825286",
+    "imdb": "tt3113008",
+    "tmdb": 493940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-11"
+}

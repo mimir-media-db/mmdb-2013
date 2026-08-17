@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_237_2013",
+  "title": "Room 237",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4020673",
+    "imdb": "tt2085910",
+    "tmdb": 84330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-19",
+  "runtime_minutes": 102
+}

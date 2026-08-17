@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_was_a_boy_i_was_a_girl_2013",
+  "title": "When I Was a Boy, I Was a Girl",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60516204",
+    "imdb": "tt2464788",
+    "tmdb": 183864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08"
+}

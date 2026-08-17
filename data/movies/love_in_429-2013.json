@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_429_2013",
+  "title": "Love in 42.9",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739415",
+    "imdb": "tt3236444",
+    "tmdb": 462616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-12"
+}

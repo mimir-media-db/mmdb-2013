@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hijacking_2013",
+  "title": "A Hijacking",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657304",
+    "imdb": "tt2216240",
+    "tmdb": 127846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-16",
+  "runtime_minutes": 103
+}

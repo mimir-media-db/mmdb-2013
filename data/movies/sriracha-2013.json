@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sriracha_2013",
+  "title": "Sriracha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672775",
+    "imdb": "tt2992302",
+    "tmdb": 240268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

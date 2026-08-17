@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_begrave_en_hund_2013",
+  "title": "Å begrave en hund",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19399049",
+    "imdb": "tt2917044",
+    "tmdb": 229263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 78
+}

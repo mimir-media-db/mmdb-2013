@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attila_2013",
+  "title": "Attila",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111132458",
+    "imdb": "tt3184096",
+    "tmdb": 232731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

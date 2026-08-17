@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoners_2013",
+  "title": "Prisoners",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3404003",
+    "imdb": "tt1392214",
+    "tmdb": 146233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-30",
+  "runtime_minutes": 153
+}

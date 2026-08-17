@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ferocious_2013",
+  "title": "Ferocious",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58814547",
+    "imdb": "tt1753821",
+    "tmdb": 175245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07"
+}

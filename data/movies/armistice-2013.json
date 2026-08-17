@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armistice_2013",
+  "title": "Armistice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17013151",
+    "imdb": "tt2112331",
+    "tmdb": 233208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-29",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bilocation_2013",
+  "title": "Bilocation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132747102",
+    "imdb": "tt3029570",
+    "tmdb": 264216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-21",
+  "runtime_minutes": 119
+}

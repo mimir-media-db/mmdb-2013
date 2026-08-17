@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purge_2013",
+  "title": "The Purge",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758789",
+    "imdb": "tt2184339",
+    "tmdb": 158015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02",
+  "runtime_minutes": 85
+}

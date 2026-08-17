@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_titans_of_the_ice_age_3d_2013",
+  "title": "Titans of the Ice Age 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27961236",
+    "imdb": "tt2653370",
+    "tmdb": 258667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-15",
+  "runtime_minutes": 45
+}

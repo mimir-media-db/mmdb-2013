@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimes_of_passion_death_of_a_loved_one_2013",
+  "title": "Crimes of Passion: Death of a Loved One",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55444755",
+    "imdb": "tt2504308",
+    "tmdb": 171413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rangbaaz_2013",
+  "title": "Rangbaaz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15075359",
+    "imdb": "tt4771796",
+    "tmdb": 578366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11",
+  "runtime_minutes": 135
+}

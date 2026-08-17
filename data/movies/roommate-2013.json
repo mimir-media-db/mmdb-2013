@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roommate_2013",
+  "title": "Roommate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646939",
+    "imdb": "tt2998364",
+    "tmdb": 269136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

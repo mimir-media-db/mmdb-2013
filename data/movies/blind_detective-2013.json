@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_detective_2013",
+  "title": "Blind Detective",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11699344",
+    "imdb": "tt2332707",
+    "tmdb": 194523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-19",
+  "runtime_minutes": 130
+}

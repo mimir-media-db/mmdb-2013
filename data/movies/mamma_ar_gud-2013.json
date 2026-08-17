@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamma_ar_gud_2013",
+  "title": "Mamma är Gud",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729138",
+    "imdb": "tt3238112"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-19",
+  "runtime_minutes": 30
+}

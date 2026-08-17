@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_cool_disco_dan_2013",
+  "title": "The Legend of Cool \"Disco\" Dan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28869531",
+    "imdb": "tt3118302",
+    "tmdb": 222259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_highland_park_2013",
+  "title": "Highland Park",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999619",
+    "imdb": "tt1506998",
+    "tmdb": 200725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

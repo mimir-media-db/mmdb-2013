@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tula_the_revolt_2013",
+  "title": "Tula: The Revolt",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961546",
+    "imdb": "tt2409418",
+    "tmdb": 204002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

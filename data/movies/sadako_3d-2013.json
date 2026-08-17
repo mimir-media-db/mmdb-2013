@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sadako_3d_2013",
+  "title": "Sadako 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058489",
+    "imdb": "tt1844025",
+    "tmdb": 140441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 96
+}

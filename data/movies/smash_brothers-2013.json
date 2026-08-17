@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_smash_brothers_2013",
+  "title": "The Smash Brothers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363840",
+    "imdb": "tt4513022",
+    "tmdb": 1570240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

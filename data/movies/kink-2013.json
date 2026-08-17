@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kink_2013",
+  "title": "Kink",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15823545",
+    "imdb": "tt2017634",
+    "tmdb": 159100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 80
+}

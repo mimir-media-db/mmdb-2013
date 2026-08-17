@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_give_it_my_all_tomorrow_2013",
+  "title": "Ill Give It My All Tomorrow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135005692",
+    "imdb": "tt2401037",
+    "tmdb": 225831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-15",
+  "runtime_minutes": 105
+}

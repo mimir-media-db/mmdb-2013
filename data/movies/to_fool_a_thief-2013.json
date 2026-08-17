@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_fool_a_thief_2013",
+  "title": "To Fool a Thief",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11073595",
+    "imdb": "tt2625270",
+    "tmdb": 235478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01",
+  "runtime_minutes": 103
+}

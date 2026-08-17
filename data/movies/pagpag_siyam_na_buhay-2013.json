@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pagpag_siyam_na_buhay_2013",
+  "title": "Pagpag: Siyam na Buhay",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040711",
+    "imdb": "tt2996950",
+    "tmdb": 256577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-25"
+}

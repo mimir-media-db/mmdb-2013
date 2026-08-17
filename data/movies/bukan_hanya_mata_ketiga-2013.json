@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bukan_hanya_mata_ketiga_2013",
+  "title": "Bukan Hanya Mata Ketiga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19724430",
+    "tmdb": 971362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 124
+}

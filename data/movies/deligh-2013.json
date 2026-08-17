@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deligh_2013",
+  "title": "Deligh",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12049993",
+    "imdb": "tt3025780",
+    "tmdb": 275160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-05",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upstream_color_2013",
+  "title": "Upstream Color",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7899323",
+    "imdb": "tt2084989",
+    "tmdb": 145197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-21",
+  "runtime_minutes": 96
+}

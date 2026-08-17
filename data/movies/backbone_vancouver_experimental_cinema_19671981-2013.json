@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_backbone_vancouver_experimental_cinema_19671981_2013",
+  "title": "Backbone: Vancouver Experimental Cinema 1967-1981",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61066598"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 58
+}

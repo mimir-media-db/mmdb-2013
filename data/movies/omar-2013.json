@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omar_2013",
+  "title": "Omar",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13475554",
+    "imdb": "tt2852406",
+    "tmdb": 187028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-20",
+  "runtime_minutes": 96
+}

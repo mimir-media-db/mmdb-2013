@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_8_2013",
+  "title": "Room 8",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19018852",
+    "imdb": "tt2949338",
+    "tmdb": 191850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-24",
+  "runtime_minutes": 7
+}

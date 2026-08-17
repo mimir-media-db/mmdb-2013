@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trollhunter_2013",
+  "title": "Trollhunter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q633131",
+    "imdb": "tt1740707",
+    "tmdb": 46146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-27",
+  "runtime_minutes": 103
+}

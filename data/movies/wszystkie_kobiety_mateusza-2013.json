@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wszystkie_kobiety_mateusza_2013",
+  "title": "Wszystkie kobiety Mateusza",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001876",
+    "imdb": "tt2235682",
+    "tmdb": 217603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-30"
+}

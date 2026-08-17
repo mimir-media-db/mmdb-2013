@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monsters_wanted_2013",
+  "title": "Monsters Wanted",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865097",
+    "imdb": "tt2245218",
+    "tmdb": 220639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saadi_love_story_2013",
+  "title": "Saadi Love Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7395602",
+    "imdb": "tt2746136",
+    "tmdb": 156990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-11"
+}

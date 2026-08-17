@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shudhu_tomari_2013",
+  "title": "Shudhu Tomari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112666209",
+    "imdb": "tt6342842",
+    "tmdb": 1327420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-27"
+}

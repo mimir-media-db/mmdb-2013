@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaperone_2013",
+  "title": "The Chaperone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61968375",
+    "imdb": "tt3069670",
+    "tmdb": 215939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 13
+}

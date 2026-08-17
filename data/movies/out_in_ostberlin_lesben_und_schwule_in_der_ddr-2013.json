@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_in_ostberlin_lesben_und_schwule_in_der_ddr_2013",
+  "title": "Out in Ost-Berlin: Lesben und Schwule in der DDR",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23719157",
+    "imdb": "tt2647472",
+    "tmdb": 183869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 94
+}

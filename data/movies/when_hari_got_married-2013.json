@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_hari_got_married_2013",
+  "title": "When Hari Got Married",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50331079",
+    "imdb": "tt2271771",
+    "tmdb": 362092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 75
+}

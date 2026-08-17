@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sokola_rimba_2013",
+  "title": "Sokola Rimba",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19740421",
+    "imdb": "tt4597234",
+    "tmdb": 504229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

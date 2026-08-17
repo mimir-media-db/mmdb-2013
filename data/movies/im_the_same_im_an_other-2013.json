@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_the_same_im_an_other_2013",
+  "title": "I'm the Same, I'm an Other",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001667",
+    "imdb": "tt3052278",
+    "tmdb": 214475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_lore_curse_of_the_shadow_2013",
+  "title": "Dragon Lore: Curse of the Shadow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16599424",
+    "imdb": "tt2250234",
+    "tmdb": 198677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-12",
+  "runtime_minutes": 111
+}

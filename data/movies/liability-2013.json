@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liability_2013",
+  "title": "The Liability",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14655414",
+    "imdb": "tt2081437",
+    "tmdb": 162145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-18",
+  "runtime_minutes": 82
+}

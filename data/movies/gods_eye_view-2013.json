@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_eye_view_2013",
+  "title": "God's Eye View",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349567",
+    "imdb": "tt3069086",
+    "tmdb": 276695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04"
+}

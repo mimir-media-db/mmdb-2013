@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latinos_beyond_reel_2013",
+  "title": "Latinos Beyond Reel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28407055",
+    "imdb": "tt2331298",
+    "tmdb": 444175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 75
+}

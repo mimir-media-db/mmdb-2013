@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paranormal_diaries_clophill_2013",
+  "title": "Paranormal Diaries: Clophill",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703901",
+    "imdb": "tt1852137",
+    "tmdb": 207770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tinker_ticker_2013",
+  "title": "Tinker Ticker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18444173",
+    "imdb": "tt3450112",
+    "tmdb": 264746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-21",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_master_2013",
+  "title": "The Master",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q283586",
+    "imdb": "tt1560747",
+    "tmdb": 68722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-20",
+  "runtime_minutes": 138
+}

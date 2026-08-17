@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_langs_helsingegatan_2013_2013",
+  "title": "Längs Helsingegatan (2013)",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111854540",
+    "imdb": "tt9348206",
+    "tmdb": 983395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-17",
+  "runtime_minutes": 59
+}

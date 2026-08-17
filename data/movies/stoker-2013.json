@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stoker_2013",
+  "title": "Stoker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q487271",
+    "imdb": "tt1682180",
+    "tmdb": 86825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-20",
+  "runtime_minutes": 99
+}

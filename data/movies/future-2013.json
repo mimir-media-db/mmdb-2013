@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_2013",
+  "title": "The Future",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86447636",
+    "imdb": "tt2764478",
+    "tmdb": 250328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 68
+}

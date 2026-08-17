@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isanmaallinen_mies_2013",
+  "title": "Isänmaallinen mies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11865277",
+    "imdb": "tt2343585",
+    "tmdb": 264048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-04",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lunchbox_2013",
+  "title": "The Lunchbox",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13423399",
+    "imdb": "tt2350496",
+    "tmdb": 191714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-19",
+  "runtime_minutes": 105
+}

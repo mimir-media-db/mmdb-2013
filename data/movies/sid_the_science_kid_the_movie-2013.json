@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sid_the_science_kid_the_movie_2013",
+  "title": "Sid the Science Kid: The Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61357694",
+    "imdb": "tt2400433",
+    "tmdb": 180831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-25"
+}

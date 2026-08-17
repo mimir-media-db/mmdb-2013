@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_guns_2013",
+  "title": "2 Guns",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3598715",
+    "imdb": "tt1272878",
+    "tmdb": 136400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-30",
+  "runtime_minutes": 109
+}

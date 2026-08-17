@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tourist_home_2013",
+  "title": "Tourist Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254874",
+    "imdb": "tt12833264",
+    "tmdb": 306283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-05"
+}

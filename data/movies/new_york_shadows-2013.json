@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_york_shadows_2013",
+  "title": "New York Shadows",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98059817",
+    "imdb": "tt2441218",
+    "tmdb": 197858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14",
+  "runtime_minutes": 105
+}

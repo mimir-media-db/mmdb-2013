@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_minutes_2013",
+  "title": "10 Minutes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17003003",
+    "imdb": "tt3180640",
+    "tmdb": 244046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 93
+}

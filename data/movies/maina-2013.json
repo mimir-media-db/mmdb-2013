@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maina_2013",
+  "title": "Maïna",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16212948",
+    "imdb": "tt2600730",
+    "tmdb": 230235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-15",
+  "runtime_minutes": 102
+}

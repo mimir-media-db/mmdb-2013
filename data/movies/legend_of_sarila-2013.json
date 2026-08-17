@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_sarila_2013",
+  "title": "The Legend of Sarila",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7746767",
+    "imdb": "tt2296935",
+    "tmdb": 233423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01",
+  "runtime_minutes": 82
+}

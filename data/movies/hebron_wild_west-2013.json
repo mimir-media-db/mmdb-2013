@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hebron_wild_west_2013",
+  "title": "Hebron Wild West",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52064158",
+    "imdb": "tt3285850",
+    "tmdb": 1221495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_lilies_2013",
+  "title": "Innocent Lilies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17216902",
+    "imdb": "tt3213570",
+    "tmdb": 353183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-21",
+  "runtime_minutes": 99
+}

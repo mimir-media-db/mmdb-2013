@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_betoniera_2013",
+  "title": "Betoniera",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29580912",
+    "imdb": "tt2705474",
+    "tmdb": 1385771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

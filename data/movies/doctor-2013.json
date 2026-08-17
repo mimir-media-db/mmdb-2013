@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_2013",
+  "title": "DOCTOR",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483699",
+    "imdb": "tt2466708",
+    "tmdb": 258936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20"
+}

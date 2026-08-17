@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_christmas_story_2013",
+  "title": "A Little Christmas Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306792",
+    "imdb": "tt0220616",
+    "tmdb": 292169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-15",
+  "runtime_minutes": 58
+}

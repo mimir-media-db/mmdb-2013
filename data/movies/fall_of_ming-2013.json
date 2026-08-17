@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_ming_2013",
+  "title": "Fall of Ming",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15922662",
+    "imdb": "tt3336934",
+    "tmdb": 244971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-25",
+  "runtime_minutes": 110
+}

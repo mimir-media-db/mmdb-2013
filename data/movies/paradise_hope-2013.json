@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_hope_2013",
+  "title": "Paradise: Hope",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4411720",
+    "imdb": "tt2371834",
+    "tmdb": 150897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08",
+  "runtime_minutes": 91
+}

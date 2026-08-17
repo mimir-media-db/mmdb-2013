@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_lungula_2013",
+  "title": "House of Lungula",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20926194",
+    "imdb": "tt3393422"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

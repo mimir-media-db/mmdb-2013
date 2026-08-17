@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_novel_meets_movie_2013",
+  "title": "Novel Meets Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18156384",
+    "imdb": "tt3420684",
+    "tmdb": 207044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

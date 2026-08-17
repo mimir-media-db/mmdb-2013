@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_pellikoduku_2013",
+  "title": "Mr. Pellikoduku",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986621",
+    "imdb": "tt2738958",
+    "tmdb": 226073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28"
+}

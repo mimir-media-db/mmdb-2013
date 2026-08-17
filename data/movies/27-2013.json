@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_27_2013",
+  "title": "2,7",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20652972",
+    "imdb": "tt3382230"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-19",
+  "runtime_minutes": 28
+}

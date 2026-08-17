@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_of_the_zone_2013",
+  "title": "Girls of the Zone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59737643",
+    "imdb": "tt5146016",
+    "tmdb": 235959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-14",
+  "runtime_minutes": 90
+}

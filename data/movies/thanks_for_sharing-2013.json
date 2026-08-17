@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thanks_for_sharing_2013",
+  "title": "Thanks for Sharing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13557451",
+    "imdb": "tt1932718",
+    "tmdb": 112200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-19",
+  "runtime_minutes": 112
+}

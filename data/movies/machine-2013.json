@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machine_2013",
+  "title": "The Machine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16746066",
+    "imdb": "tt2317225",
+    "tmdb": 174675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-20",
+  "runtime_minutes": 91
+}

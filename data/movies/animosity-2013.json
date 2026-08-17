@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_animosity_2013",
+  "title": "Animosity",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18162121",
+    "imdb": "tt2464822",
+    "tmdb": 255291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

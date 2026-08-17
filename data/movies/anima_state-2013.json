@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anima_state_2013",
+  "title": "Anima State",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30632751",
+    "imdb": "tt3579932",
+    "tmdb": 241886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

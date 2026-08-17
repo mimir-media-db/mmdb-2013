@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_la_danza_del_zorzal_2013",
+  "title": "La danza del zorzal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412648"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

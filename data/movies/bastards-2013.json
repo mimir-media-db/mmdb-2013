@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastards_2013",
+  "title": "Bastards",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3235299",
+    "imdb": "tt2821088",
+    "tmdb": 179109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-21",
+  "runtime_minutes": 100
+}

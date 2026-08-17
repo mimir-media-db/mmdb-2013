@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firestorm_2013",
+  "title": "Firestorm",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8563321",
+    "imdb": "tt3341072",
+    "tmdb": 244114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-12",
+  "runtime_minutes": 118
+}

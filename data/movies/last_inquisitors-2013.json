@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_inquisitors_2013",
+  "title": "The Last Inquisitors",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14479664",
+    "imdb": "tt2838406"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-04"
+}

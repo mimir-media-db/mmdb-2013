@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koln_5_uhr_30_13_uhr_30_21_uhr_30_2013",
+  "title": "Köln 5 Uhr 30 / 13 Uhr 30 / 21 Uhr 30",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30162777",
+    "imdb": "tt3034428",
+    "tmdb": 1543548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20"
+}

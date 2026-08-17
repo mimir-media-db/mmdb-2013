@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_shadows_2013",
+  "title": "From the Shadows",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528054",
+    "imdb": "tt1895368",
+    "tmdb": 684207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

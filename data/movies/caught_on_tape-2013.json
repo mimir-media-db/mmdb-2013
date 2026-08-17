@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caught_on_tape_2013",
+  "title": "Caught on Tape",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60851798",
+    "imdb": "tt2633114",
+    "tmdb": 171485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 66
+}

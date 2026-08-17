@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cirque_du_holea_2013",
+  "title": "Cirque du Hole-A",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140795205",
+    "imdb": "tt2851190"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-10",
+  "runtime_minutes": 159
+}

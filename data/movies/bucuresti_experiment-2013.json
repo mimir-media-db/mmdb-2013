@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bucuresti_experiment_2013",
+  "title": "The București Experiment",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25345240",
+    "imdb": "tt2817136",
+    "tmdb": 199120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

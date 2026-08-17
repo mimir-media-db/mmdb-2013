@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hero_2013",
+  "title": "Hero",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18425208",
+    "imdb": "tt1753900",
+    "tmdb": 1099458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01"
+}

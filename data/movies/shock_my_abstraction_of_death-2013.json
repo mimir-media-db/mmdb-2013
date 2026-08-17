@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shock_my_abstraction_of_death_2013",
+  "title": "Shock: My Abstraction of Death",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19819472",
+    "imdb": "tt2806988",
+    "tmdb": 292506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

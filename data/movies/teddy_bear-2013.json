@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teddy_bear_2013",
+  "title": "Teddy Bear",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7693982",
+    "imdb": "tt1729226",
+    "tmdb": 84344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-11",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crisis_point_2013",
+  "title": "Crisis Point",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16608687",
+    "imdb": "tt2120750",
+    "tmdb": 120409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-15",
+  "runtime_minutes": 87
+}

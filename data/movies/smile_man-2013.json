@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smile_man_2013",
+  "title": "The Smile Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111362324",
+    "imdb": "tt2987342",
+    "tmdb": 210293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-15",
+  "runtime_minutes": 10
+}

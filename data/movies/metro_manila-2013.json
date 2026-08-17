@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metro_manila_2013",
+  "title": "Metro Manila",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14640617",
+    "imdb": "tt1845838",
+    "tmdb": 158091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-20",
+  "runtime_minutes": 114
+}

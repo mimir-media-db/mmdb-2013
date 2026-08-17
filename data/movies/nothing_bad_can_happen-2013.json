@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_bad_can_happen_2013",
+  "title": "Nothing Bad Can Happen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13229520",
+    "imdb": "tt2822400",
+    "tmdb": 188758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sono_un_pirata_sono_un_signore_2013",
+  "title": "Sono un pirata, sono un signore",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25409885",
+    "imdb": "tt3266942",
+    "tmdb": 186983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 116
+}

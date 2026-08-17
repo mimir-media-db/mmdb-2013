@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhayamoy_2013",
+  "title": "Chhayamoy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247526",
+    "imdb": "tt4300302",
+    "tmdb": 320654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_paga_la_cuenta_2013",
+  "title": "¿Quién paga la cuenta?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21857995",
+    "imdb": "tt3206586",
+    "tmdb": 249276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

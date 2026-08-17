@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_panther_2013",
+  "title": "White Panther",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52835974",
+    "imdb": "tt2614342",
+    "tmdb": 240135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

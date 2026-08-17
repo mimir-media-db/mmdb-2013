@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_auf_den_zweiten_blick_2013",
+  "title": "Auf den zweiten Blick",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59616367",
+    "imdb": "tt2006059",
+    "tmdb": 417336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10"
+}

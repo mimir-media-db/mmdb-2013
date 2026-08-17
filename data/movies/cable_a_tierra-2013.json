@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cable_a_tierra_2013",
+  "title": "Cable a tierra",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412706",
+    "tmdb": 589907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

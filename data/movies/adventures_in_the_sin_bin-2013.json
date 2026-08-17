@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_in_the_sin_bin_2013",
+  "title": "Adventures in the Sin Bin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109140982",
+    "imdb": "tt1621432",
+    "tmdb": 113693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-18",
+  "runtime_minutes": 106
+}

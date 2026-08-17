@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demented_2013",
+  "title": "The Demented",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20093309",
+    "imdb": "tt2113792",
+    "tmdb": 205891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

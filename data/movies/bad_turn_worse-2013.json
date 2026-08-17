@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_turn_worse_2013",
+  "title": "Bad Turn Worse",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363546",
+    "imdb": "tt2873214",
+    "tmdb": 211076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

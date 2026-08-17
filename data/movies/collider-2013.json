@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_collider_2013",
+  "title": "Collider",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949935",
+    "imdb": "tt2185374",
+    "tmdb": 226540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-14",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_will_be_murdered_2013",
+  "title": "I will be murdered",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98385818",
+    "imdb": "tt2837866",
+    "tmdb": 170783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-25"
+}

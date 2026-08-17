@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_computer_chess_2013",
+  "title": "Computer Chess",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13512523",
+    "imdb": "tt2007360",
+    "tmdb": 158743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-21",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizens_against_basswood_2013",
+  "title": "Citizens Against Basswood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52394713",
+    "imdb": "tt2836582",
+    "tmdb": 585203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 3
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_directors_special_2013",
+  "title": "Director's Special",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15515267",
+    "imdb": "tt2995838",
+    "tmdb": 691728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-31"
+}

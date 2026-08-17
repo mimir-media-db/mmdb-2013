@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_shot_2013",
+  "title": "Blood Shot",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20078278",
+    "imdb": "tt1196124",
+    "tmdb": 211587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

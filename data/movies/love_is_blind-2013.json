@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_blind_2013",
+  "title": "Love Is Blind",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15359509",
+    "imdb": "tt2534648",
+    "tmdb": 227261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-11",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_up_to_me_2013",
+  "title": "Open Up to Me",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8710749",
+    "imdb": "tt2325909",
+    "tmdb": 203060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08",
+  "runtime_minutes": 95
+}

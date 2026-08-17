@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraction_2013",
+  "title": "Extraction",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117006845",
+    "imdb": "tt2823574",
+    "tmdb": 218381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 106
+}

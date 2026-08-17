@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roffa_2013",
+  "title": "Roffa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15881378",
+    "imdb": "tt3144938",
+    "tmdb": 231728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_umbra_de_nor_2013",
+  "title": "O umbra de nor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44870131",
+    "imdb": "tt2362502",
+    "tmdb": 267527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 30
+}

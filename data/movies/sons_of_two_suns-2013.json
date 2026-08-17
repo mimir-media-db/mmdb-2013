@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_two_suns_2013",
+  "title": "The Sons of Two Suns",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22948285",
+    "imdb": "tt3173494",
+    "tmdb": 1287228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_son_the_life_of_ray_boom_boom_mancini_2013",
+  "title": "The Good Son: The Life of Ray Boom Boom Mancini",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160141",
+    "imdb": "tt1954925",
+    "tmdb": 153786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

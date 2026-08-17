@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_promise_2013",
+  "title": "Land of Promise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20641745",
+    "tmdb": 248067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

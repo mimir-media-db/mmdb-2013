@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chair_de_ma_chair_2013",
+  "title": "La Chair de ma chair",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65153998",
+    "imdb": "tt3005786",
+    "tmdb": 203805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 76
+}

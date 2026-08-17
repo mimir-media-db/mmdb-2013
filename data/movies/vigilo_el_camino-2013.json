@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vigilo_el_camino_2013",
+  "title": "Vigilo el camino",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30749178",
+    "imdb": "tt3313632",
+    "tmdb": 285617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

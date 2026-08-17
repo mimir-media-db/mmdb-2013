@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_as_milk_red_as_blood_2013",
+  "title": "White as Milk, Red as Blood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8822707",
+    "imdb": "tt2447934",
+    "tmdb": 182415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_candelabra_2013",
+  "title": "Behind the Candelabra",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893887",
+    "imdb": "tt1291580",
+    "tmdb": 119675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-21",
+  "runtime_minutes": 118
+}

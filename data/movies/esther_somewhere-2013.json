@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_esther_somewhere_2013",
+  "title": "Esther Somewhere",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117468525",
+    "imdb": "tt3125494",
+    "tmdb": 305352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

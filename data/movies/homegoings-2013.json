@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homegoings_2013",
+  "title": "Homegoings",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19560754",
+    "imdb": "tt2231110",
+    "tmdb": 245581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

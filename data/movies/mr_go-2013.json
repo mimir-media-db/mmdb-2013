@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_go_2013",
+  "title": "Mr. Go",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13765567",
+    "imdb": "tt2969458",
+    "tmdb": 207052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-17",
+  "runtime_minutes": 132
+}

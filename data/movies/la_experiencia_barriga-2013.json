@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_experiencia_barriga_2013",
+  "title": "La experiencia Barriga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412652",
+    "imdb": "tt2366886",
+    "tmdb": 1313655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

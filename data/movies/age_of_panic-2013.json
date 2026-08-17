@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_panic_2013",
+  "title": "Age of Panic",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14901494",
+    "imdb": "tt2846996",
+    "tmdb": 195173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-20",
+  "runtime_minutes": 94
+}

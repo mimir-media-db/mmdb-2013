@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_in_madras_2013",
+  "title": "An American in Madras",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703058",
+    "imdb": "tt3279468",
+    "tmdb": 362512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

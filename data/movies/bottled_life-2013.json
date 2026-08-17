@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bottled_life_2013",
+  "title": "Bottled Life",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q894892",
+    "imdb": "tt2072910",
+    "tmdb": 86063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-12",
+  "runtime_minutes": 90
+}

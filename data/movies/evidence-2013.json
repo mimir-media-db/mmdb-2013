@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evidence_2013",
+  "title": "Evidence",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17377030",
+    "imdb": "tt1828970",
+    "tmdb": 198210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02",
+  "runtime_minutes": 94
+}

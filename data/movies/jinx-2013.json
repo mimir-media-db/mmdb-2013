@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jinx_2013",
+  "title": "Jinx!!!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15631598",
+    "imdb": "tt2691040",
+    "tmdb": 273850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-20",
+  "runtime_minutes": 122
+}

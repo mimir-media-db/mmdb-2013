@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ass_backwards_2013",
+  "title": "Ass Backwards",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4808286",
+    "imdb": "tt1509788",
+    "tmdb": 159024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-21",
+  "runtime_minutes": 86
+}

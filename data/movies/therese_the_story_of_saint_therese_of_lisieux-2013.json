@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_therese_the_story_of_saint_therese_of_lisieux_2013",
+  "title": "Thérèse: The Story of Saint Thérèse of Lisieux",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3990996",
+    "imdb": "tt0286218",
+    "tmdb": 110351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-01",
+  "runtime_minutes": 96
+}

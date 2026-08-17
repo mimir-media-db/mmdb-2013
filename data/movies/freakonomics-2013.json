@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freakonomics_2013",
+  "title": "Freakonomics",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5494257",
+    "imdb": "tt1152822",
+    "tmdb": 43942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_newman_2013",
+  "title": "Arthur Newman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4799826",
+    "imdb": "tt1930546",
+    "tmdb": 127374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_wederopstanding_van_een_klootzak_2013",
+  "title": "De wederopstanding van een klootzak",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16155729",
+    "imdb": "tt2317102",
+    "tmdb": 153864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-23",
+  "runtime_minutes": 90
+}

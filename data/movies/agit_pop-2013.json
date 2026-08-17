@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agit_pop_2013",
+  "title": "Agit Pop",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494231",
+    "imdb": "tt2881498",
+    "tmdb": 197616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

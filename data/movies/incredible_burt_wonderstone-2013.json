@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_burt_wonderstone_2013",
+  "title": "The Incredible Burt Wonderstone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1444108",
+    "imdb": "tt0790628",
+    "tmdb": 124459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08",
+  "runtime_minutes": 101
+}

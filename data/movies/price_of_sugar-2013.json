@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_sugar_2013",
+  "title": "The Price of Sugar",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16069782",
+    "imdb": "tt2691498",
+    "tmdb": 217011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-25",
+  "runtime_minutes": 120
+}

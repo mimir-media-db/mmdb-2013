@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barcelona_summer_night_2013",
+  "title": "Barcelona Summer Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16857411",
+    "imdb": "tt2363564",
+    "tmdb": 215828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06",
+  "runtime_minutes": 95
+}

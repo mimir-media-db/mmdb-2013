@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cloud_in_a_glass_of_water_2013",
+  "title": "A Cloud in a Glass of Water",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18413686",
+    "imdb": "tt1754806",
+    "tmdb": 99019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

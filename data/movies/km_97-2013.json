@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_km_97_2013",
+  "title": "KM 97",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19727795",
+    "imdb": "tt2902594",
+    "tmdb": 395695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singende_frauen_women_2013",
+  "title": "Singende Frauen Women",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21000942",
+    "imdb": "tt3123140",
+    "tmdb": 215525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 120
+}

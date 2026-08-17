@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slingers_2013",
+  "title": "The Slingers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67175932",
+    "imdb": "tt3405932",
+    "tmdb": 669830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

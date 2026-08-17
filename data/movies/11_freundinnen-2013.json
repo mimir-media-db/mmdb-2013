@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_11_freundinnen_2013",
+  "title": "11 Freundinnen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28938435",
+    "imdb": "tt2674450",
+    "tmdb": 233635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23"
+}

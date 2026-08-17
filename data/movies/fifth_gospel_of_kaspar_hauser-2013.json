@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifth_gospel_of_kaspar_hauser_2013",
+  "title": "The Fifth Gospel of Kaspar Hauser",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31281111",
+    "imdb": "tt2713714",
+    "tmdb": 182507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 61
+}

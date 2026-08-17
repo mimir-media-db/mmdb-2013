@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_castaways_2013",
+  "title": "The Boy Castaways",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132636554",
+    "imdb": "tt2642912",
+    "tmdb": 227720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

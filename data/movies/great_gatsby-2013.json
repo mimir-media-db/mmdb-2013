@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_gatsby_2013",
+  "title": "The Great Gatsby",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q892735",
+    "imdb": "tt1343092",
+    "tmdb": 64682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-01",
+  "runtime_minutes": 142
+}

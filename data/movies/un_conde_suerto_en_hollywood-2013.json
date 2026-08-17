@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_conde_suerto_en_hollywood_2013",
+  "title": "Un conde suerto en Hollywood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16643757",
+    "imdb": "tt3543478",
+    "tmdb": 1602135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-15",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shunyo_awnko_2013",
+  "title": "Shunyo Awnko",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7505170",
+    "imdb": "tt2961236",
+    "tmdb": 943584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barbers_tales_2013",
+  "title": "Barber's Tales",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18162623",
+    "imdb": "tt3254578",
+    "tmdb": 223965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-18"
+}

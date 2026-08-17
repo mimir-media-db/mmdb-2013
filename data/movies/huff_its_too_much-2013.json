@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huff_its_too_much_2013",
+  "title": "Huff! It's Too Much",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814563",
+    "imdb": "tt3175440",
+    "tmdb": 938759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-08"
+}

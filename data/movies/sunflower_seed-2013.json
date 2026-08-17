@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunflower_seed_2013",
+  "title": "Sunflower Seed",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899821",
+    "imdb": "tt2731546",
+    "tmdb": 260036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

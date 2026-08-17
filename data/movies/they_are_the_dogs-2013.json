@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_are_the_dogs_2013",
+  "title": "They are the dogs",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16534738",
+    "imdb": "tt2914060",
+    "tmdb": 270569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-19",
+  "runtime_minutes": 85
+}

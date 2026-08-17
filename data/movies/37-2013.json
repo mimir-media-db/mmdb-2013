@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_37_2013",
+  "title": "37",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33525371",
+    "imdb": "tt2369962",
+    "tmdb": 356891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 8
+}

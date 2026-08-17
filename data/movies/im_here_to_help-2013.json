@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_here_to_help_2013",
+  "title": "I'm Here to Help",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15379045",
+    "imdb": "tt2523852",
+    "tmdb": 178946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-23",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arcana_2013",
+  "title": "Arcana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123513689",
+    "imdb": "tt2824006",
+    "tmdb": 267293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-19"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pee_mak_2013",
+  "title": "Pee Mak",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10858783",
+    "imdb": "tt2776344",
+    "tmdb": 184219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28",
+  "runtime_minutes": 113
+}

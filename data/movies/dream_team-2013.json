@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_team_2013",
+  "title": "The Dream Team",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943389",
+    "imdb": "tt1850394",
+    "tmdb": 133469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28",
+  "runtime_minutes": 97
+}

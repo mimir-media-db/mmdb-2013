@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tragedia_em_santa_maria_2013",
+  "title": "Tragédia em Santa Maria",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18465771",
+    "imdb": "tt6775026"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

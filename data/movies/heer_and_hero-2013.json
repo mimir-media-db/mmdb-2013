@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heer_and_hero_2013",
+  "title": "Heer and Hero",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248868",
+    "imdb": "tt3454070",
+    "tmdb": 228356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-16"
+}

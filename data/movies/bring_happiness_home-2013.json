@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_happiness_home_2013",
+  "title": "Bring Happiness Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4968248",
+    "imdb": "tt2764834",
+    "tmdb": 195933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-15"
+}

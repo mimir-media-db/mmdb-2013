@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vic_and_flo_saw_a_bear_2013",
+  "title": "Vic and Flo Saw a Bear",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5176715",
+    "imdb": "tt2385882",
+    "tmdb": 160160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-10",
+  "runtime_minutes": 95
+}

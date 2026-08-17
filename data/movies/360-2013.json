@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_360_2013",
+  "title": "360",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1653284",
+    "imdb": "tt1680045",
+    "tmdb": 89455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-14",
+  "runtime_minutes": 110
+}

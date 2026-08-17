@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arjun_kalimpong_e_sitaharan_2013",
+  "title": "Arjun – Kalimpong E Sitaharan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16243083",
+    "imdb": "tt6107292",
+    "tmdb": 646836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-03"
+}

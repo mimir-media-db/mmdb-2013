@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_guerra_del_fracking_2013",
+  "title": "La guerra del fracking",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24961822",
+    "imdb": "tt3258028",
+    "tmdb": 391377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10",
+  "runtime_minutes": 85
+}

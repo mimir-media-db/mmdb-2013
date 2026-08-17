@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ba_pass_2013",
+  "title": "B.A. Pass",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14433973",
+    "imdb": "tt2408040",
+    "tmdb": 222951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-02",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estrella_del_sur_2013",
+  "title": "Estrella del Sur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60968857",
+    "imdb": "tt3359518",
+    "tmdb": 522667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 111
+}

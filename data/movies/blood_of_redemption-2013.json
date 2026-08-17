@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_redemption_2013",
+  "title": "Blood of Redemption",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17510486",
+    "imdb": "tt2510268",
+    "tmdb": 220820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-24",
+  "runtime_minutes": 85
+}

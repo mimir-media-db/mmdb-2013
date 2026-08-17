@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_enfants_de_sourds_2013",
+  "title": "Enfants de sourds",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21127556",
+    "imdb": "tt2726324"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23"
+}

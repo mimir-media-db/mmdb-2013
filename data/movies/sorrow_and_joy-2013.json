@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorrow_and_joy_2013",
+  "title": "Sorrow and Joy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15266284",
+    "imdb": "tt3089978",
+    "tmdb": 191293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-14",
+  "runtime_minutes": 107
+}

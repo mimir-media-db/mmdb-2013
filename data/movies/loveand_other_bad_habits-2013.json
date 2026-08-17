@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loveand_other_bad_habits_2013",
+  "title": "Love...and Other Bad Habits",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61112976",
+    "imdb": "tt2715098",
+    "tmdb": 741033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-14",
+  "runtime_minutes": 81
+}

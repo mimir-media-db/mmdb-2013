@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_clear_of_the_closing_doors_2013",
+  "title": "Stand Clear of the Closing Doors",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17183596",
+    "imdb": "tt2405372",
+    "tmdb": 173917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-20",
+  "runtime_minutes": 102
+}

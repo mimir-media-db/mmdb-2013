@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_club_van_sinterklaas_de_pietenschool_2013",
+  "title": "De club van Sinterklaas & de Pietenschool",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15874265",
+    "imdb": "tt3005160",
+    "tmdb": 223552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-09",
+  "runtime_minutes": 71
+}

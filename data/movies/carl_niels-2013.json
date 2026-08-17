@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carl_niels_2013",
+  "title": "Carl & Niels",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728278",
+    "imdb": "tt3606702",
+    "tmdb": 239875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-19",
+  "runtime_minutes": 29
+}

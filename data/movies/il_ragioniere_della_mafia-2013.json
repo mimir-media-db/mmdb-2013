@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_ragioniere_della_mafia_2013",
+  "title": "Il ragioniere della mafia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16565175",
+    "imdb": "tt2403889",
+    "tmdb": 226937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-26",
+  "runtime_minutes": 75
+}

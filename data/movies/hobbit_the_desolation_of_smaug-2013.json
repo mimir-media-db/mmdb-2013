@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hobbit_the_desolation_of_smaug_2013",
+  "title": "The Hobbit: The Desolation of Smaug",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q719915",
+    "imdb": "tt1170358",
+    "tmdb": 57158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-02",
+  "runtime_minutes": 161
+}

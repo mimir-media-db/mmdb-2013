@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rough_play_2013",
+  "title": "Rough Play",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7370842",
+    "imdb": "tt2653262",
+    "tmdb": 227793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 98
+}

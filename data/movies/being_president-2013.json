@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_president_2013",
+  "title": "Being President",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111820969",
+    "imdb": "tt2916948",
+    "tmdb": 193077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

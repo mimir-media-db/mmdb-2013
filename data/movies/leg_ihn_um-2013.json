@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leg_ihn_um_2013",
+  "title": "Leg ihn um!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719096",
+    "imdb": "tt2248418",
+    "tmdb": 168258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 105
+}

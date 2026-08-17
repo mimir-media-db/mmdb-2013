@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_ames_de_papier_2013",
+  "title": "Les Âmes de papier",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15320806",
+    "imdb": "tt2571540",
+    "tmdb": 246502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-04",
+  "runtime_minutes": 90
+}

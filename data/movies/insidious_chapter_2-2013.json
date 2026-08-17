@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insidious_chapter_2_2013",
+  "title": "Insidious: Chapter 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13423790",
+    "imdb": "tt2226417",
+    "tmdb": 91586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 105
+}

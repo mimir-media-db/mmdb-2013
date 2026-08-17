@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_ketel_2013",
+  "title": "Dr. Ketel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719153",
+    "imdb": "tt1717153",
+    "tmdb": 159039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-22",
+  "runtime_minutes": 80
+}

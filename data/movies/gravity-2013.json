@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gravity_2013",
+  "title": "Gravity",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2579784",
+    "imdb": "tt1454468",
+    "tmdb": 49047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-28",
+  "runtime_minutes": 91
+}

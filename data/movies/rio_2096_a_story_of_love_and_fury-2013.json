@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rio_2096_a_story_of_love_and_fury_2013",
+  "title": "Rio 2096: A Story of Love and Fury",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4711987",
+    "imdb": "tt2231208",
+    "tmdb": 173443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 75
+}

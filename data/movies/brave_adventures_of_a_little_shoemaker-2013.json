@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brave_adventures_of_a_little_shoemaker_2013",
+  "title": "The Brave Adventures of a Little Shoemaker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21999962",
+    "imdb": "tt2590900",
+    "tmdb": 293002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-07",
+  "runtime_minutes": 102
+}

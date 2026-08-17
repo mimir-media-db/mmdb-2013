@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phobia_2013",
+  "title": "Phobia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703902",
+    "imdb": "tt1800240",
+    "tmdb": 307156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

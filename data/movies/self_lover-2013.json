@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_self_lover_2013",
+  "title": "The Self Lover",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896828",
+    "imdb": "tt3066962",
+    "tmdb": 301975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_love_2013",
+  "title": "One Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16643742",
+    "imdb": "tt1886740",
+    "tmdb": 138167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-21",
+  "runtime_minutes": 99
+}

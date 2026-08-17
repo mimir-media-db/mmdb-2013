@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guilt_trip_2013",
+  "title": "The Guilt Trip",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q961138",
+    "imdb": "tt1694020",
+    "tmdb": 82687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18",
+  "runtime_minutes": 96
+}

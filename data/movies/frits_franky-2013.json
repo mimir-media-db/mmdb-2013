@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frits_franky_2013",
+  "title": "Frits & Franky",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13638116",
+    "imdb": "tt2248805",
+    "tmdb": 164366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-06",
+  "runtime_minutes": 94
+}

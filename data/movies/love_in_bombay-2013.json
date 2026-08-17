@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_bombay_2013",
+  "title": "Love in Bombay",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250854",
+    "imdb": "tt2306635",
+    "tmdb": 819807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jin_2013",
+  "title": "Jîn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21526296",
+    "imdb": "tt2670226",
+    "tmdb": 165140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_marcheurs_chronique_des_annees_beurs_2013",
+  "title": "Les Marcheurs : chronique des années beurs",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64878007"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 52
+}

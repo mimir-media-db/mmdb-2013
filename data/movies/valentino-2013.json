@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valentino_2013",
+  "title": "Valentino",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3246351",
+    "imdb": "tt2170228",
+    "tmdb": 179036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-21",
+  "runtime_minutes": 89
+}

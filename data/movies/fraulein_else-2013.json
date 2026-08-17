@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fraulein_else_2013",
+  "title": "Fräulein Else",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106716368",
+    "imdb": "tt2800308",
+    "tmdb": 402938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

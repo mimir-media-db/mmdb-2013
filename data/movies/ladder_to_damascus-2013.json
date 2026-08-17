@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladder_to_damascus_2013",
+  "title": "Ladder to Damascus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14912874",
+    "imdb": "tt3119566",
+    "tmdb": 215524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-08",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belle_and_sebastian_2013",
+  "title": "Belle and Sebastian",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15176481",
+    "imdb": "tt3146360",
+    "tmdb": 204668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-18",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kili_poyi_2013",
+  "title": "Kili Poyi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6406891",
+    "imdb": "tt2780170",
+    "tmdb": 176496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-01",
+  "runtime_minutes": 84
+}

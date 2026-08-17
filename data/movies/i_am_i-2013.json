@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_i_2013",
+  "title": "I Am I",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65425508",
+    "imdb": "tt1825806",
+    "tmdb": 80327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-27",
+  "runtime_minutes": 87
+}

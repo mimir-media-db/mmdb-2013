@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jfk_the_final_hours_2013",
+  "title": "JFK: The Final Hours",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120920480",
+    "imdb": "tt3325170",
+    "tmdb": 345364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 120
+}

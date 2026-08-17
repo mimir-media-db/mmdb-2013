@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wind_gods_2013",
+  "title": "The Wind Gods",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54829046",
+    "imdb": "tt2820342",
+    "tmdb": 405786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

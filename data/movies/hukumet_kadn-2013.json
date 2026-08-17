@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hukumet_kadn_2013",
+  "title": "Hükümet Kadın",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6056642",
+    "imdb": "tt2645092",
+    "tmdb": 171158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-31"
+}

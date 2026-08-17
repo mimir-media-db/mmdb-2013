@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sensei_redenshon_2013",
+  "title": "Sensei Redenshon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160120",
+    "imdb": "tt3174620",
+    "tmdb": 468758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_defcon_the_documentary_2013",
+  "title": "DEFCON: The Documentary",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536853",
+    "imdb": "tt3010462",
+    "tmdb": 211830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

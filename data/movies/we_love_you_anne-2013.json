@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_love_you_anne_2013",
+  "title": "We love you Anne",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65324229",
+    "imdb": "tt5043292",
+    "tmdb": 1104959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rocio_case_2013",
+  "title": "The Rocío Case",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38941363",
+    "imdb": "tt21241248",
+    "tmdb": 277370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

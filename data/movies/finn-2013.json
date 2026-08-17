@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finn_2013",
+  "title": "Finn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15392164",
+    "imdb": "tt3386144",
+    "tmdb": 230213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-11",
+  "runtime_minutes": 88
+}

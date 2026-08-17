@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_napoli_2013",
+  "title": "Song of Napoli",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16607610",
+    "imdb": "tt3425772",
+    "tmdb": 236368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-10",
+  "runtime_minutes": 114
+}

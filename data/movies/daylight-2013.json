@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daylight_2013",
+  "title": "Daylight",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15874172",
+    "imdb": "tt2359002",
+    "tmdb": 184323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-08",
+  "runtime_minutes": 114
+}

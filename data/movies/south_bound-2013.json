@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_bound_2013",
+  "title": "South Bound",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12590050",
+    "imdb": "tt2969482",
+    "tmdb": 243767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-07",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_in_journalism_2013",
+  "title": "Truth in Journalism",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900060",
+    "imdb": "tt3083812"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 17
+}

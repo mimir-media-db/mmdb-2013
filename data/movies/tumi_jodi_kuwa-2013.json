@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tumi_jodi_kuwa_2013",
+  "title": "Tumi Jodi Kuwa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254903",
+    "imdb": "tt13840132"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_combustion_2013",
+  "title": "Combustion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15215566",
+    "imdb": "tt1899142",
+    "tmdb": 141015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-26",
+  "runtime_minutes": 103
+}

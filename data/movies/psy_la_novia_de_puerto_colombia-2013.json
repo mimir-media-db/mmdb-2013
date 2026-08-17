@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psy_la_novia_de_puerto_colombia_2013",
+  "title": "PSY, la novia de Puerto Colombia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111738968",
+    "imdb": "tt5348950"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strangers_on_the_field_2013",
+  "title": "Strangers on the Field",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739166",
+    "imdb": "tt4856826",
+    "tmdb": 415511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

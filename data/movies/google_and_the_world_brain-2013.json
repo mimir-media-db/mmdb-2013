@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_google_and_the_world_brain_2013",
+  "title": "Google and the World Brain",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18345395",
+    "imdb": "tt2551516",
+    "tmdb": 157005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18"
+}

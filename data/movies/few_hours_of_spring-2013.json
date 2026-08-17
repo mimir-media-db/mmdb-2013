@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_few_hours_of_spring_2013",
+  "title": "A Few Hours of Spring",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414137",
+    "imdb": "tt1899270",
+    "tmdb": 121702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-10",
+  "runtime_minutes": 108
+}

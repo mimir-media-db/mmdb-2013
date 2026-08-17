@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_tomorrow_2013",
+  "title": "Escape from Tomorrow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5397048",
+    "imdb": "tt2187884",
+    "tmdb": 158752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motivation_2013",
+  "title": "The Motivation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703194",
+    "imdb": "tt2755016",
+    "tmdb": 174334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

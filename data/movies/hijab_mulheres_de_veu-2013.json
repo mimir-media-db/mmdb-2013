@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hijab_mulheres_de_veu_2013",
+  "title": "Hijab - Mulheres de véu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17003055",
+    "imdb": "tt4552110",
+    "tmdb": 230718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outlawed_in_pakistan_2013",
+  "title": "Outlawed in Pakistan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21426190",
+    "imdb": "tt2462414",
+    "tmdb": 1038313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

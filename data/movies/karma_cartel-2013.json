@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karma_cartel_2013",
+  "title": "Karma Cartel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703159",
+    "imdb": "tt2606554",
+    "tmdb": 217581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_baby_jesus_2013",
+  "title": "Little Baby Jesus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12048112",
+    "imdb": "tt2559620",
+    "tmdb": 269584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-04",
+  "runtime_minutes": 82
+}

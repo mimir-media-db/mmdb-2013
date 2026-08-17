@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_dreams_in_china_2013",
+  "title": "American Dreams in China",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13822679",
+    "imdb": "tt2278392",
+    "tmdb": 196325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-17",
+  "runtime_minutes": 112
+}

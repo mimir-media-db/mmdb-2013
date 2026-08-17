@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_train_to_lisbon_2013",
+  "title": "Night Train to Lisbon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5177219",
+    "imdb": "tt1654523",
+    "tmdb": 160139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 110
+}

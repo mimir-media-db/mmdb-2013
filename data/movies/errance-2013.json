@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_errance_2013",
+  "title": "Errance",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61976828",
+    "imdb": "tt3006374"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phoebe_in_wonderland_2013",
+  "title": "Phoebe in Wonderland",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2088457",
+    "imdb": "tt1034325",
+    "tmdb": 19079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-02",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lil_bub_friendz_2013",
+  "title": "Lil Bub & Friendz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052322",
+    "imdb": "tt2877280",
+    "tmdb": 174332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18",
+  "runtime_minutes": 65
+}

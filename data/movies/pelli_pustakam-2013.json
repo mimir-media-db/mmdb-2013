@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pelli_pustakam_2013",
+  "title": "Pelli Pustakam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30599609",
+    "imdb": "tt8890144",
+    "tmdb": 429767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

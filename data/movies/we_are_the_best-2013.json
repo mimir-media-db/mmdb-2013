@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_the_best_2013",
+  "title": "We Are the Best!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14551360",
+    "imdb": "tt2364975",
+    "tmdb": 191294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-09",
+  "runtime_minutes": 102
+}

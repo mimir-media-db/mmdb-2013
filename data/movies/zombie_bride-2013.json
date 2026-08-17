@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_bride_2013",
+  "title": "Zombie Bride",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29568157",
+    "imdb": "tt2793516",
+    "tmdb": 660865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-03"
+}

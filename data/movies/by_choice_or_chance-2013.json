@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_by_choice_or_chance_2013",
+  "title": "By Choice or Chance",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14849606",
+    "imdb": "tt2940320",
+    "tmdb": 416984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08"
+}

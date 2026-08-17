@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_sweet_home_2013",
+  "title": "Home Sweet Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13460552",
+    "imdb": "tt2348394",
+    "tmdb": 195796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-31",
+  "runtime_minutes": 82
+}

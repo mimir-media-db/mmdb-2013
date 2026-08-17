@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confession_of_a_child_of_the_century_2013",
+  "title": "Confession of a Child of the Century",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2992430",
+    "imdb": "tt1865335",
+    "tmdb": 58559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_i_lay_dying_2013",
+  "title": "As I Lay Dying",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12101298",
+    "imdb": "tt1807944",
+    "tmdb": 152745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-20",
+  "runtime_minutes": 120
+}

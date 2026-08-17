@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cefurji_raus_2013",
+  "title": "Čefurji raus!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750077",
+    "imdb": "tt2383952",
+    "tmdb": 366318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-03",
+  "runtime_minutes": 100
+}

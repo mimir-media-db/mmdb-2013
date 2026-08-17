@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_the_right_amount_of_violence_2013",
+  "title": "Just the Right Amount of Violence",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728993",
+    "imdb": "tt2593270",
+    "tmdb": 258261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-05",
+  "runtime_minutes": 83
+}

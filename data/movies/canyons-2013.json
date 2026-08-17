@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canyons_2013",
+  "title": "The Canyons",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3014145",
+    "imdb": "tt2292959",
+    "tmdb": 109729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-29",
+  "runtime_minutes": 99
+}

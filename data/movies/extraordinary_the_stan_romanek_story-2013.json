@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_the_stan_romanek_story_2013",
+  "title": "Extraordinary: The Stan Romanek Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47642781",
+    "imdb": "tt3312748",
+    "tmdb": 451197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

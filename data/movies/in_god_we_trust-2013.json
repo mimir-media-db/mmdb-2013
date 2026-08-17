@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_god_we_trust_2013",
+  "title": "In God We Trust",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30610498",
+    "imdb": "tt2564156",
+    "tmdb": 174330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

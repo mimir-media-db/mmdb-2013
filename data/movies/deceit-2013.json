@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deceit_2013",
+  "title": "Deceit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132636561",
+    "imdb": "tt2447266",
+    "tmdb": 1455266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

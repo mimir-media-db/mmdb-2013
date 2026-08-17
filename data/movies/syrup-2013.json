@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_syrup_2013",
+  "title": "Syrup",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7663530",
+    "imdb": "tt0762138",
+    "tmdb": 72525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-07"
+}

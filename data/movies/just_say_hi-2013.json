@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_just_say_hi_2013",
+  "title": "Just Say Hi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869477",
+    "imdb": "tt3480952"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

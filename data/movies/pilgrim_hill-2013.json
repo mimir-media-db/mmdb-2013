@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pilgrim_hill_2013",
+  "title": "Pilgrim Hill",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17125180",
+    "imdb": "tt2083295",
+    "tmdb": 310499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_dances_2013",
+  "title": "Five Dances",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039846",
+    "imdb": "tt2186781",
+    "tmdb": 142115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01",
+  "runtime_minutes": 90
+}

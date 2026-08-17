@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_borders_2013",
+  "title": "Northern Borders",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996731",
+    "imdb": "tt2316810",
+    "tmdb": 306736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-09",
+  "runtime_minutes": 108
+}

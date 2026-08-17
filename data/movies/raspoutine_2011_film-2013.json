@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raspoutine_2011_film_2013",
+  "title": "Raspoutine (2011 film)",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3419870",
+    "imdb": "tt1886651",
+    "tmdb": 82123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 87
+}

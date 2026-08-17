@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_the_word_2013",
+  "title": "Love is the Word",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15876178",
+    "imdb": "tt2379995",
+    "tmdb": 242250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-19",
+  "runtime_minutes": 102
+}

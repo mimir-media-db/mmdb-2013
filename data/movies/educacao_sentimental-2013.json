@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_educacao_sentimental_2013",
+  "title": "Educação Sentimental",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703587",
+    "imdb": "tt3102382",
+    "tmdb": 225836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

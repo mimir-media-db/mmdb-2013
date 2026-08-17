@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skorecki_devient_producteur_2013",
+  "title": "Skorecki devient producteur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55599906",
+    "imdb": "tt3262436",
+    "tmdb": 631856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

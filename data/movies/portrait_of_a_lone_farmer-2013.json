@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_a_lone_farmer_2013",
+  "title": "Portrait of a Lone Farmer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17492603",
+    "imdb": "tt3256750",
+    "tmdb": 241900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-08"
+}

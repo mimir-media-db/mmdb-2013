@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crying_100_times_every_raindrop_falls_2013",
+  "title": "Crying 100 Times: Every Raindrop Falls",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62610168",
+    "imdb": "tt2345126",
+    "tmdb": 254875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 116
+}

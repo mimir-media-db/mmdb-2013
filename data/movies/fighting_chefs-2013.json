@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_chefs_2013",
+  "title": "The Fighting Chefs",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733819",
+    "imdb": "tt2752742",
+    "tmdb": 261982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-06"
+}

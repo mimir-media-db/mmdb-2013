@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_thoma_2013",
+  "title": "Sound Thoma",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7564725",
+    "imdb": "tt2866778",
+    "tmdb": 178546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-05"
+}

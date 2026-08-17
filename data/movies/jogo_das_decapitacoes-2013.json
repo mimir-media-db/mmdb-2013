@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jogo_das_decapitacoes_2013",
+  "title": "Jogo das Decapitações",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28677160",
+    "imdb": "tt2210527",
+    "tmdb": 227500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

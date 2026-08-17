@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heebie_jeebies_2013",
+  "title": "Heebie Jeebies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19059541",
+    "imdb": "tt2327319",
+    "tmdb": 168802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-09",
+  "runtime_minutes": 85
+}

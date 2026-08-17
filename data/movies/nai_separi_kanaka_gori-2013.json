@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nai_separi_kanaka_gori_2013",
+  "title": "Nai Separi Kanaka Gori",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21283042",
+    "imdb": "tt2941888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-01"
+}

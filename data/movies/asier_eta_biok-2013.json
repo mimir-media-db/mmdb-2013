@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asier_eta_biok_2013",
+  "title": "Asier ETA biok",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16488979",
+    "imdb": "tt3183716",
+    "tmdb": 234155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-22",
+  "runtime_minutes": 94
+}

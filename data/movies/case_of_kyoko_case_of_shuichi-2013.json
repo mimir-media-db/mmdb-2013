@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_of_kyoko_case_of_shuichi_2013",
+  "title": "Case of Kyoko, Case of Shuichi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38276674",
+    "imdb": "tt3148626",
+    "tmdb": 255950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 134
+}

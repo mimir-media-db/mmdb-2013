@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_sing_2013",
+  "title": "Born to Sing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12614992",
+    "imdb": "tt2969484",
+    "tmdb": 198618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-01"
+}

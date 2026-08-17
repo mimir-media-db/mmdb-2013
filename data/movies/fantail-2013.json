@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantail_2013",
+  "title": "Fantail",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67621358",
+    "imdb": "tt3074758",
+    "tmdb": 209557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aeon_the_last_vampyre_on_earth_2013",
+  "title": "Aeon: The Last Vampyre on Earth",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123065902",
+    "imdb": "tt2854990",
+    "tmdb": 261094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-17"
+}

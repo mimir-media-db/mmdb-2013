@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_ties_2013",
+  "title": "Blood Ties",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2906968",
+    "imdb": "tt1747958",
+    "tmdb": 190955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-20",
+  "runtime_minutes": 127
+}

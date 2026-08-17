@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fist_of_legend_2013",
+  "title": "Fist of Legend",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5455335",
+    "imdb": "tt2828840",
+    "tmdb": 180651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-10",
+  "runtime_minutes": 154
+}

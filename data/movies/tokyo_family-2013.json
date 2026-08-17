@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_family_2013",
+  "title": "Tokyo Family",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11524787",
+    "imdb": "tt1796652",
+    "tmdb": 187662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 146
+}

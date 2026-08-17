@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fille_du_14_juillet_2013",
+  "title": "La Fille du 14 juillet",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553877",
+    "imdb": "tt2846972",
+    "tmdb": 190817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_villa_in_los_angeles_2013",
+  "title": "A Villa in Los Angeles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15302998",
+    "imdb": "tt2952044",
+    "tmdb": 614119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

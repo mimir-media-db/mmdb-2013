@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ushi_must_marry_2013",
+  "title": "Ushi Must Marry",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18015314",
+    "imdb": "tt2404469",
+    "tmdb": 170279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_flower_train_2013",
+  "title": "Soul Flower Train",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805164",
+    "imdb": "tt3162406",
+    "tmdb": 269104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

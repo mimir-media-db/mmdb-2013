@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lejania_2013",
+  "title": "Lejanía",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672653",
+    "imdb": "tt3408058"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 69
+}

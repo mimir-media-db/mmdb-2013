@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnights_children_2013",
+  "title": "Midnight's Children",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1649787",
+    "imdb": "tt1714866",
+    "tmdb": 121598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28",
+  "runtime_minutes": 146
+}

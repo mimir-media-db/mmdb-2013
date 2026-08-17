@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_strange_to_be_named_federico_2013",
+  "title": "How Strange to Be Named Federico",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16539444",
+    "imdb": "tt2952634",
+    "tmdb": 215741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-12",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_passage_2013",
+  "title": "The Great Passage",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11613749",
+    "imdb": "tt2315226",
+    "tmdb": 182827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-25"
+}

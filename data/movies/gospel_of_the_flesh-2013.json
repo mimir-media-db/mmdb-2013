@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gospel_of_the_flesh_2013",
+  "title": "The Gospel of the Flesh",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16142409",
+    "imdb": "tt4077528",
+    "tmdb": 293121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-17",
+  "runtime_minutes": 110
+}

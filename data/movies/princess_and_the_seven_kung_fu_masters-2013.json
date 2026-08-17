@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_and_the_seven_kung_fu_masters_2013",
+  "title": "Princess and the Seven Kung Fu Masters",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7244883",
+    "imdb": "tt2927084",
+    "tmdb": 177499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-28",
+  "runtime_minutes": 94
+}

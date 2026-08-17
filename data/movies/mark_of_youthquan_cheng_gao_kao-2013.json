@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_of_youthquan_cheng_gao_kao_2013",
+  "title": "Mark of Youth；Quan Cheng Gao Kao",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123290982",
+    "imdb": "tt3311014",
+    "tmdb": 464131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-05",
+  "runtime_minutes": 93
+}

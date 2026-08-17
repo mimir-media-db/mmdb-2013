@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_to_jackie_kennedy_2013",
+  "title": "Letters to Jackie Kennedy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119976164",
+    "imdb": "tt2980332",
+    "tmdb": 224335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

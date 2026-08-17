@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shekinah_rising_2013",
+  "title": "Shekinah Rising",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405517",
+    "imdb": "tt8971244",
+    "tmdb": 1323515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

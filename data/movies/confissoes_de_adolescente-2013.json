@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confissoes_de_adolescente_2013",
+  "title": "Confissões de Adolescente",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15530999",
+    "imdb": "tt2836364",
+    "tmdb": 228208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-01",
+  "runtime_minutes": 100
+}

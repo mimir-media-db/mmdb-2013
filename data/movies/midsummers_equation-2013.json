@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midsummers_equation_2013",
+  "title": "Midsummer's Equation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2156801",
+    "imdb": "tt2412556",
+    "tmdb": 204702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-23",
+  "runtime_minutes": 129
+}

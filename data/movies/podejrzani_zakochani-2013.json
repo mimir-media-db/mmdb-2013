@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_podejrzani_zakochani_2013",
+  "title": "Podejrzani zakochani",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16588971",
+    "imdb": "tt2670824",
+    "tmdb": 209944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_international_criminal_court_2013",
+  "title": "The International Criminal Court",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23888160",
+    "imdb": "tt2819570",
+    "tmdb": 260709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02"
+}

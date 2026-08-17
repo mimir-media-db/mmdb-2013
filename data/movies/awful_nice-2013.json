@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awful_nice_2013",
+  "title": "Awful Nice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590381",
+    "imdb": "tt1414449",
+    "tmdb": 169790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08",
+  "runtime_minutes": 92
+}

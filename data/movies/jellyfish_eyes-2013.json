@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jellyfish_eyes_2013",
+  "title": "Jellyfish Eyes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14917908",
+    "imdb": "tt2006181",
+    "tmdb": 228426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-08",
+  "runtime_minutes": 101
+}

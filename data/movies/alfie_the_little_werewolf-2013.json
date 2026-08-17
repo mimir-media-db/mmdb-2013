@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alfie_the_little_werewolf_2013",
+  "title": "Alfie, the Little Werewolf",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2102753",
+    "imdb": "tt1931421",
+    "tmdb": 106629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-17",
+  "runtime_minutes": 89
+}

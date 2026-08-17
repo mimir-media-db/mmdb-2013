@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tots_els_camins_de_deu_2013",
+  "title": "Tots els camins de Déu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28541377",
+    "imdb": "tt2349548",
+    "tmdb": 385752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 70
+}

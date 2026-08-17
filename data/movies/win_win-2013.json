@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_win_win_2013",
+  "title": "Win Win",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17984045",
+    "imdb": "tt2877476",
+    "tmdb": 272376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

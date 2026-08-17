@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_fade_away_2013",
+  "title": "Not Fade Away",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878657",
+    "imdb": "tt1230215",
+    "tmdb": 128270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 112
+}

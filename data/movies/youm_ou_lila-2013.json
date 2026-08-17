@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youm_ou_lila_2013",
+  "title": "Youm ou Lila",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62026487",
+    "imdb": "tt2949552",
+    "tmdb": 257963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-16",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_with_bellies_2013",
+  "title": "Dancing with Bellies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67531538",
+    "imdb": "tt2622728",
+    "tmdb": 168635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-15"
+}

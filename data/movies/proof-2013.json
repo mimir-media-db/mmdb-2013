@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_proof_2013",
+  "title": "The Proof",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71309676",
+    "imdb": "tt3461658",
+    "tmdb": 371291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premachi_goshta_2013",
+  "title": "Premachi Goshta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3812265",
+    "imdb": "tt2878406",
+    "tmdb": 191112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oldboy_2013",
+  "title": "Oldboy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1529637",
+    "imdb": "tt1321511",
+    "tmdb": 87516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-11",
+  "runtime_minutes": 104
+}

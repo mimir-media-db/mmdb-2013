@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youll_be_a_man_2013",
+  "title": "You'll Be a Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16681372",
+    "imdb": "tt2914386",
+    "tmdb": 193086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-27",
+  "runtime_minutes": 87
+}

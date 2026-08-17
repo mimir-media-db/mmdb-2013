@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_2013",
+  "title": "Uma",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105730185",
+    "imdb": "tt2792440",
+    "tmdb": 495709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

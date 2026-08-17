@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_bande_annonce_pour_le_50e_anniversaire_de_la_cinematheque_quebecoise_2013",
+  "title": "bande annonce pour le 50e anniversaire de la Cinémathèque québécoise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55701263"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

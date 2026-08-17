@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wmd_2013",
+  "title": "W.M.D.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52715801",
+    "imdb": "tt1370312",
+    "tmdb": 323998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

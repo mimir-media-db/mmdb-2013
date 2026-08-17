@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lily_2013",
+  "title": "Lily",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122964839",
+    "imdb": "tt2707804",
+    "tmdb": 173916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

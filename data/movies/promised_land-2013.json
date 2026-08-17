@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_promised_land_2013",
+  "title": "Promised Land",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3017170",
+    "imdb": "tt2091473",
+    "tmdb": 133694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-21",
+  "runtime_minutes": 106
+}

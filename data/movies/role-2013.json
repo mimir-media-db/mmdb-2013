@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_role_2013",
+  "title": "The Role",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5410802",
+    "imdb": "tt2972828",
+    "tmdb": 199275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-25",
+  "runtime_minutes": 132
+}

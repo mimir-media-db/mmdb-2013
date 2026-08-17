@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lintrepido_2013",
+  "title": "L'intrepido",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14564881",
+    "imdb": "tt3074784",
+    "tmdb": 209413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-04",
+  "runtime_minutes": 104
+}

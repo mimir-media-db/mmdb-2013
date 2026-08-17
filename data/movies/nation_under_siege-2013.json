@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_nation_under_siege_2013",
+  "title": "Nation Under Siege",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28405076"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

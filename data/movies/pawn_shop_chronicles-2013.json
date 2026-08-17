@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pawn_shop_chronicles_2013",
+  "title": "Pawn Shop Chronicles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13472766",
+    "imdb": "tt1741243",
+    "tmdb": 199420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-12",
+  "runtime_minutes": 112
+}

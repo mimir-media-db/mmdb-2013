@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fille_du_martin_2013",
+  "title": "La Fille du Martin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127383513",
+    "imdb": "tt2117902",
+    "tmdb": 271769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-28",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_septic_man_2013",
+  "title": "Septic Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170416",
+    "imdb": "tt2574666",
+    "tmdb": 221444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-19",
+  "runtime_minutes": 83
+}

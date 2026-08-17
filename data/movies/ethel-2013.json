@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ethel_2013",
+  "title": "Ethel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5403060",
+    "imdb": "tt2076844",
+    "tmdb": 84193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-12",
+  "runtime_minutes": 97
+}

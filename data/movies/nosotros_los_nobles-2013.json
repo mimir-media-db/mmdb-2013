@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nosotros_los_nobles_2013",
+  "title": "Nosotros los Nobles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12155834",
+    "imdb": "tt2222394",
+    "tmdb": 180147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28",
+  "runtime_minutes": 108
+}

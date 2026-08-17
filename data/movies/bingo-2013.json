@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bingo_2013",
+  "title": "Bingo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18818678",
+    "imdb": "tt2572160",
+    "tmdb": 182545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roraima_climbers_of_the_lost_world_2013",
+  "title": "Roraima - Climbers of the Lost World",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16832327",
+    "imdb": "tt2163836",
+    "tmdb": 188855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-25",
+  "runtime_minutes": 102
+}

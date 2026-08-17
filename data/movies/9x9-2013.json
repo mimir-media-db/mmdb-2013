@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_9x9_2013",
+  "title": "9x9",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55707063",
+    "imdb": "tt2791034",
+    "tmdb": 1423776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 11
+}

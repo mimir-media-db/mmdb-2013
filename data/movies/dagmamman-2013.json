@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dagmamman_2013",
+  "title": "Dagmamman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113382456",
+    "imdb": "tt2421234",
+    "tmdb": 289336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-26",
+  "runtime_minutes": 88
+}

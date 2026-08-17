@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuoren_wertherin_jaljilla_2013",
+  "title": "Nuoren Wertherin jäljillä",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674927",
+    "imdb": "tt2571768",
+    "tmdb": 783530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-22"
+}

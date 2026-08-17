@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penguin_king_3d_2013",
+  "title": "The Penguin King 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7715225",
+    "imdb": "tt2076349",
+    "tmdb": 148686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-21"
+}

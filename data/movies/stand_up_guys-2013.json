@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_up_guys_2013",
+  "title": "Stand Up Guys",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q891678",
+    "imdb": "tt1389096",
+    "tmdb": 121824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twoseater_rocket_2013",
+  "title": "Two-Seater Rocket",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25834627",
+    "imdb": "tt2771924",
+    "tmdb": 245595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

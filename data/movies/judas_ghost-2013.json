@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_judas_ghost_2013",
+  "title": "Judas Ghost",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040719",
+    "imdb": "tt2338027",
+    "tmdb": 336453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-01",
+  "runtime_minutes": 75
+}

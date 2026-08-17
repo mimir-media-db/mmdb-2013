@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_thief_2013",
+  "title": "The Book Thief",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14511981",
+    "imdb": "tt0816442",
+    "tmdb": 203833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-03",
+  "runtime_minutes": 131
+}

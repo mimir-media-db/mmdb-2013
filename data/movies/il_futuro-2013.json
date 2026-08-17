@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_futuro_2013",
+  "title": "Il Futuro",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3148508",
+    "imdb": "tt1992156",
+    "tmdb": 153774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 94
+}

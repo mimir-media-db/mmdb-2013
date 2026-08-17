@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_stato_il_figlio_2013",
+  "title": "È stato il figlio",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3319990",
+    "imdb": "tt1891788",
+    "tmdb": 121998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-06",
+  "runtime_minutes": 90
+}

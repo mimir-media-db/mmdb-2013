@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candidate_2013",
+  "title": "Candidate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16956669",
+    "imdb": "tt3258080",
+    "tmdb": 268898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_the_great_legacy_2013",
+  "title": "Friend: The Great Legacy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052179",
+    "imdb": "tt3264494",
+    "tmdb": 238010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-14"
+}

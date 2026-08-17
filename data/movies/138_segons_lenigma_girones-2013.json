@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_138_segons_lenigma_girones_2013",
+  "title": "138 segons. L'enigma Gironès",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111680584",
+    "imdb": "tt2964334",
+    "tmdb": 674512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 72
+}

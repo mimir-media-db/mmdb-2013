@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_age_17_2013",
+  "title": "Age 17",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23758748",
+    "imdb": "tt3345716",
+    "tmdb": 323883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

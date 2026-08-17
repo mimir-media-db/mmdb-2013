@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yolki_3_2013",
+  "title": "Yolki 3",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4053737",
+    "imdb": "tt3121434",
+    "tmdb": 248747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-26",
+  "runtime_minutes": 100
+}

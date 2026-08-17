@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gdo_kara_kedi_2013",
+  "title": "G.D.O. Kara Kedi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6098281",
+    "imdb": "tt2573438",
+    "tmdb": 211715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25",
+  "runtime_minutes": 97
+}

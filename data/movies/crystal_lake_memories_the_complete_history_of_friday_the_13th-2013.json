@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crystal_lake_memories_the_complete_history_of_friday_the_13th_2013",
+  "title": "Crystal Lake Memories: The Complete History of Friday the 13th",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16537862",
+    "imdb": "tt2396421",
+    "tmdb": 222724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 400
+}

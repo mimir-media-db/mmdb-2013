@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_googly_2013",
+  "title": "Googly",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583914",
+    "imdb": "tt3075360",
+    "tmdb": 267618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19"
+}

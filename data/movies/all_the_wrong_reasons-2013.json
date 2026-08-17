@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_wrong_reasons_2013",
+  "title": "All the Wrong Reasons",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949716",
+    "imdb": "tt1568799",
+    "tmdb": 212747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-08",
+  "runtime_minutes": 118
+}

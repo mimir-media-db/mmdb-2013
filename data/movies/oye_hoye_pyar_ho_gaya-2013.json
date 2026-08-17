@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oye_hoye_pyar_ho_gaya_2013",
+  "title": "Oye Hoye Pyar Ho Gaya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037384",
+    "imdb": "tt3138532",
+    "tmdb": 270071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

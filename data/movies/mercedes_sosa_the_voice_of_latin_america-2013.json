@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercedes_sosa_the_voice_of_latin_america_2013",
+  "title": "Mercedes Sosa: The Voice of Latin America",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65054903",
+    "imdb": "tt2568472",
+    "tmdb": 238820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

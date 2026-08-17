@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sanitarium_2013",
+  "title": "Sanitarium",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17079197",
+    "imdb": "tt2449810",
+    "tmdb": 167960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-01",
+  "runtime_minutes": 112
+}

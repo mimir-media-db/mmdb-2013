@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_at_silver_falls_2013",
+  "title": "A Haunting at Silver Falls",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17110577",
+    "imdb": "tt1813609",
+    "tmdb": 197919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-28",
+  "runtime_minutes": 96
+}

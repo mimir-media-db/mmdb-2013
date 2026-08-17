@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_din_barndom_ska_aldrig_do_2013",
+  "title": "Din barndom ska aldrig dö",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289653",
+    "imdb": "tt2625548",
+    "tmdb": 161338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

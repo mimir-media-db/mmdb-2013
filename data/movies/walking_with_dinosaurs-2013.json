@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_with_dinosaurs_2013",
+  "title": "Walking with Dinosaurs",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12047658",
+    "imdb": "tt1762399",
+    "tmdb": 77951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-14",
+  "runtime_minutes": 87
+}

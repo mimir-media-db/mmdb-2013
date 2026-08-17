@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three60_2013",
+  "title": "Three-60",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16642500",
+    "imdb": "tt2390426",
+    "tmdb": 184680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-26",
+  "runtime_minutes": 97
+}

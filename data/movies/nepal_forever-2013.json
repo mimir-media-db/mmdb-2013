@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nepal_forever_2013",
+  "title": "Nepal Forever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4317271",
+    "imdb": "tt3342540",
+    "tmdb": 254395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-12",
+  "runtime_minutes": 90
+}

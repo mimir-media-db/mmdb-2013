@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_madrasa_2013",
+  "title": "Madrasa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572794",
+    "imdb": "tt4306488"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

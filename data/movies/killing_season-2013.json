@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_season_2013",
+  "title": "Killing Season",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3196650",
+    "imdb": "tt1480295",
+    "tmdb": 77663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-29",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geography_club_2013",
+  "title": "Geography Club",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8990497",
+    "imdb": "tt2235902",
+    "tmdb": 197033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-27",
+  "runtime_minutes": 83
+}

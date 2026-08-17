@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plimbare_2013",
+  "title": "Plimbare",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44871627",
+    "imdb": "tt2937322",
+    "tmdb": 272141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

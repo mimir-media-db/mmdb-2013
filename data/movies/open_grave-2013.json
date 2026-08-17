@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_grave_2013",
+  "title": "Open Grave",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3353162",
+    "imdb": "tt2071550",
+    "tmdb": 215830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-14",
+  "runtime_minutes": 102
+}

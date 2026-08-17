@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_byzantium_2013",
+  "title": "Byzantium",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2081750",
+    "imdb": "tt1531901",
+    "tmdb": 102780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01",
+  "runtime_minutes": 118
+}

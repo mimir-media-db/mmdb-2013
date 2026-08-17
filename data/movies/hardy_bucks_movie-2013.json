@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hardy_bucks_movie_2013",
+  "title": "The Hardy Bucks Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203805",
+    "imdb": "tt2645164",
+    "tmdb": 207402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crown_and_the_dragon_2013",
+  "title": "The Crown and the Dragon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65770228",
+    "imdb": "tt1913178",
+    "tmdb": 205939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-09",
+  "runtime_minutes": 91
+}

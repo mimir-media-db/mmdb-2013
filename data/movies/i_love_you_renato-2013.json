@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_renato_2013",
+  "title": "I Love You Renato",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048255",
+    "imdb": "tt3015458",
+    "tmdb": 198273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 77
+}

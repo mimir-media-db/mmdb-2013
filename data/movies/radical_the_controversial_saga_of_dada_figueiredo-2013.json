@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radical_the_controversial_saga_of_dada_figueiredo_2013",
+  "title": "Radical: the Controversial Saga of Dada Figueiredo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48222930",
+    "imdb": "tt3695154",
+    "tmdb": 451809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 71
+}

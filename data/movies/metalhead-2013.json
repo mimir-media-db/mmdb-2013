@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metalhead_2013",
+  "title": "Metalhead",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17013433",
+    "imdb": "tt2374902",
+    "tmdb": 215042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-07",
+  "runtime_minutes": 97
+}

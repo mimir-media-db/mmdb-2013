@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hooked_up_2013",
+  "title": "Hooked Up",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19787183",
+    "imdb": "tt3160020",
+    "tmdb": 255389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 79
+}

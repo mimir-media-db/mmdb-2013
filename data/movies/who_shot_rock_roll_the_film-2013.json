@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_shot_rock_roll_the_film_2013",
+  "title": "Who Shot Rock & Roll: The Film",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671232",
+    "imdb": "tt2211812",
+    "tmdb": 226977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-20"
+}

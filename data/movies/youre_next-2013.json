@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_next_2013",
+  "title": "You're Next",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3572721",
+    "imdb": "tt1853739",
+    "tmdb": 83899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-07",
+  "runtime_minutes": 94
+}

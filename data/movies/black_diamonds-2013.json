@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_diamonds_2013",
+  "title": "Black Diamonds",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25445086",
+    "imdb": "tt2362320",
+    "tmdb": 187098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 94
+}

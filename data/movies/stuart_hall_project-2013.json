@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stuart_hall_project_2013",
+  "title": "The Stuart Hall Project",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703916",
+    "imdb": "tt2578290",
+    "tmdb": 159040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18"
+}

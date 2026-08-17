@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_womans_lake_2013",
+  "title": "Woman's Lake",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61819219",
+    "imdb": "tt2332629",
+    "tmdb": 209115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24",
+  "runtime_minutes": 88
+}

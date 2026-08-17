@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_on_the_mesa_2013",
+  "title": "Shadow on the Mesa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136048328",
+    "imdb": "tt2195666",
+    "tmdb": 185457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

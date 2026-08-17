@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chammak_challo_2013",
+  "title": "Chammak Challo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4279476",
+    "imdb": "tt2837318",
+    "tmdb": 307722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_piger_1_kage_2013",
+  "title": "2 piger 1 kage",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20652974",
+    "imdb": "tt2963658",
+    "tmdb": 251820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_epicentres_2013",
+  "title": "Épicentres",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61977160",
+    "imdb": "tt2947456",
+    "tmdb": 205080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 15
+}

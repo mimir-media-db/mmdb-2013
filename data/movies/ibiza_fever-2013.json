@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ibiza_fever_2013",
+  "title": "Ibiza Fever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2454505",
+    "imdb": "tt2388805",
+    "tmdb": 164130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-28",
+  "runtime_minutes": 117
+}

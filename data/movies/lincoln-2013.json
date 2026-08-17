@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lincoln_2013",
+  "title": "Lincoln",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32433",
+    "imdb": "tt0443272",
+    "tmdb": 72976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-13",
+  "runtime_minutes": 150
+}

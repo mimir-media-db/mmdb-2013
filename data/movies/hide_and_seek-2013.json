@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hide_and_seek_2013",
+  "title": "Hide and Seek",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14723541",
+    "imdb": "tt3155654",
+    "tmdb": 214209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-14",
+  "runtime_minutes": 107
+}

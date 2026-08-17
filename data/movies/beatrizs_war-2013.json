@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beatrizs_war_2013",
+  "title": "Beatriz's War",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15043282",
+    "imdb": "tt3229248",
+    "tmdb": 275008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-18",
+  "runtime_minutes": 98
+}

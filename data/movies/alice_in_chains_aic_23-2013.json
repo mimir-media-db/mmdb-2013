@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_in_chains_aic_23_2013",
+  "title": "Alice in Chains: AIC 23",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55259013",
+    "imdb": "tt7153320",
+    "tmdb": 558985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

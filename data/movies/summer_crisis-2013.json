@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_crisis_2013",
+  "title": "Summer Crisis",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16652298",
+    "imdb": "tt2624626",
+    "tmdb": 216040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 97
+}

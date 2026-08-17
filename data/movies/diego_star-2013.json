@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diego_star_2013",
+  "title": "Diego Star",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18202462",
+    "imdb": "tt2665182",
+    "tmdb": 174099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25",
+  "runtime_minutes": 91
+}

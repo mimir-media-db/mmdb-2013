@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yoko_2013",
+  "title": "Yoko",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2600583",
+    "imdb": "tt1919207",
+    "tmdb": 129357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-09",
+  "runtime_minutes": 103
+}

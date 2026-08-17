@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_touring_talkies_2013",
+  "title": "Touring Talkies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19898664",
+    "imdb": "tt2471706",
+    "tmdb": 243904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

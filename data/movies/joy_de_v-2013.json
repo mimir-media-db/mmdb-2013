@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_de_v_2013",
+  "title": "Joy de V.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814589",
+    "imdb": "tt1826707",
+    "tmdb": 159678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-20",
+  "runtime_minutes": 84
+}

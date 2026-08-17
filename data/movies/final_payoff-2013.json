@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_payoff_2013",
+  "title": "The Final Payoff",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20741244",
+    "imdb": "tt2330748",
+    "tmdb": 373652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 118
+}

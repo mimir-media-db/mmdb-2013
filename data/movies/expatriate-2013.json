@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_expatriate_2013",
+  "title": "The Expatriate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4530547",
+    "imdb": "tt1645155",
+    "tmdb": 106021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-08",
+  "runtime_minutes": 103
+}

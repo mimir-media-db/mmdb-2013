@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whistle_2013",
+  "title": "Whistle",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7994011",
+    "imdb": "tt3046022",
+    "tmdb": 302241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-12"
+}

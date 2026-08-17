@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isabel_2013",
+  "title": "Isabel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896629",
+    "imdb": "tt2735524",
+    "tmdb": 235853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

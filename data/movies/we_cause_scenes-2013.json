@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_cause_scenes_2013",
+  "title": "We Cause Scenes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65049883",
+    "imdb": "tt2633014",
+    "tmdb": 173497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08",
+  "runtime_minutes": 86
+}

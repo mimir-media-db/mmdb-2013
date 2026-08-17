@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exposed_2013",
+  "title": "Exposed",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21531184",
+    "imdb": "tt2649370",
+    "tmdb": 168319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-24",
+  "runtime_minutes": 77
+}

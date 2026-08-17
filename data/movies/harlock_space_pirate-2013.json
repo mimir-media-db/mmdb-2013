@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harlock_space_pirate_2013",
+  "title": "Harlock: Space Pirate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7572454",
+    "imdb": "tt2668134",
+    "tmdb": 192577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-03",
+  "runtime_minutes": 115
+}

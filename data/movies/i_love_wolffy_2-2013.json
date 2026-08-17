@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_wolffy_2_2013",
+  "title": "I Love Wolffy 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160056",
+    "imdb": "tt2897368",
+    "tmdb": 807478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01"
+}

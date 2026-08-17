@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_workhorse_and_the_bigmouth_2013",
+  "title": "The Workhorse And The Bigmouth",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17217735",
+    "imdb": "tt2502144",
+    "tmdb": 341332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-02"
+}

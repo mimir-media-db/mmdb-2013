@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goynar_baksho_2013",
+  "title": "Goynar Baksho",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5590205",
+    "imdb": "tt2819358",
+    "tmdb": 213763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-12",
+  "runtime_minutes": 141
+}

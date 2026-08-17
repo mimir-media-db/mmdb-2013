@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_hall_2013",
+  "title": "City: hall",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81222900",
+    "imdb": "tt2960024",
+    "tmdb": 229269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

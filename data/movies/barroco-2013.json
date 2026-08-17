@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barroco_2013",
+  "title": "Barroco",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127943733",
+    "imdb": "tt2800986",
+    "tmdb": 596686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arnes_nachlass_2013",
+  "title": "Arnes Nachlass",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57616539",
+    "imdb": "tt2286220",
+    "tmdb": 236725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

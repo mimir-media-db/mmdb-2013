@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zeny_ktere_nenavidi_muze_2013",
+  "title": "Zeny, které nenávidí muze",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896619",
+    "imdb": "tt3591006",
+    "tmdb": 248132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 77
+}

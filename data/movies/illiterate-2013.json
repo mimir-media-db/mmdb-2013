@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_illiterate_2013",
+  "title": "Illiterate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47007019",
+    "imdb": "tt3256764",
+    "tmdb": 224837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06",
+  "runtime_minutes": 73
+}

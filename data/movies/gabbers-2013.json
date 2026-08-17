@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gabbers_2013",
+  "title": "Gabbers!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18400408",
+    "imdb": "tt3911560",
+    "tmdb": 328444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

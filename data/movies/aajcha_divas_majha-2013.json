@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aajcha_divas_majha_2013",
+  "title": "Aajcha Divas Majha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057852",
+    "imdb": "tt3345830",
+    "tmdb": 200342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-29"
+}

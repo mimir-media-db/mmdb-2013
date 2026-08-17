@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_left_foot_right_foot_2013",
+  "title": "Left Foot Right Foot",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21648753",
+    "imdb": "tt3170760",
+    "tmdb": 248692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_winter_screams_2013",
+  "title": "WHEN WINTER SCREAMS",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18013458",
+    "imdb": "tt2762490",
+    "tmdb": 204313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-14"
+}

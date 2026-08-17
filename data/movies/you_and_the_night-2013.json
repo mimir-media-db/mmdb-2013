@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_and_the_night_2013",
+  "title": "You and the Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553893",
+    "imdb": "tt2811878",
+    "tmdb": 191718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-20",
+  "runtime_minutes": 91
+}

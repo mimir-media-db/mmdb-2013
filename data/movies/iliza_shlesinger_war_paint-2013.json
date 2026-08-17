@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iliza_shlesinger_war_paint_2013",
+  "title": "Iliza Shlesinger: War Paint",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764385",
+    "imdb": "tt2836376",
+    "tmdb": 220153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-01",
+  "runtime_minutes": 75
+}

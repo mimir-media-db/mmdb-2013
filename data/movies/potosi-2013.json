@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_potosi_2013",
+  "title": "Potosí",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27577620",
+    "imdb": "tt3053424",
+    "tmdb": 217381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 120
+}

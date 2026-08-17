@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dramaconsult_2013",
+  "title": "DramaConsult",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19845325",
+    "imdb": "tt2782558",
+    "tmdb": 463107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-01"
+}

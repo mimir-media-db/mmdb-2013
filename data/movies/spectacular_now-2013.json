@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spectacular_now_2013",
+  "title": "The Spectacular Now",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522804",
+    "imdb": "tt1714206",
+    "tmdb": 157386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 95
+}

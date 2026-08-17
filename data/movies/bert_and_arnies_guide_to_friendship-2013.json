@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bert_and_arnies_guide_to_friendship_2013",
+  "title": "Bert and Arnie's Guide to Friendship",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85321113",
+    "imdb": "tt1990420",
+    "tmdb": 202176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

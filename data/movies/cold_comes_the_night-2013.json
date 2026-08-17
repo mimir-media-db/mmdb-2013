@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_comes_the_night_2013",
+  "title": "Cold Comes the Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14945820",
+    "imdb": "tt2511428",
+    "tmdb": 210047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20",
+  "runtime_minutes": 90
+}

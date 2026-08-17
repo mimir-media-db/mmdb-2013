@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_viaje_del_acordeon_2013",
+  "title": "El Viaje del Acordeón",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28126020",
+    "imdb": "tt2758062",
+    "tmdb": 180219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 79
+}

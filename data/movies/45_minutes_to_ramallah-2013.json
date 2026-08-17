@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_45_minutes_to_ramallah_2013",
+  "title": "45 Minutes to Ramallah",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15297593",
+    "imdb": "tt1562848",
+    "tmdb": 232082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23",
+  "runtime_minutes": 87
+}

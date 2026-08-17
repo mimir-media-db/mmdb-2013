@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solidoes_2013",
+  "title": "Solidões",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60846622",
+    "imdb": "tt3152736",
+    "tmdb": 235452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disinformation_2013",
+  "title": "Disinformation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536912",
+    "imdb": "tt3139952",
+    "tmdb": 221797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

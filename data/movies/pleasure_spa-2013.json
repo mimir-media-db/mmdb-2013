@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pleasure_spa_2013",
+  "title": "Pleasure Spa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30727712",
+    "imdb": "tt2706400",
+    "tmdb": 226074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

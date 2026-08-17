@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_model_behaviour_2013",
+  "title": "Model Behaviour",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29470138",
+    "imdb": "tt2391622",
+    "tmdb": 258073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

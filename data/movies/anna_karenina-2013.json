@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anna_karenina_2013",
+  "title": "Anna Karenina",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80204",
+    "imdb": "tt1781769",
+    "tmdb": 96724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24",
+  "runtime_minutes": 130
+}

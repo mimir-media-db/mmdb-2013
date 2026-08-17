@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_apple_seeds_2013",
+  "title": "The Taste of Apple Seeds",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18669624",
+    "imdb": "tt2158455",
+    "tmdb": 226371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 120
+}

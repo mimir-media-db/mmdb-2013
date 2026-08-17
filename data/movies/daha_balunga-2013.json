@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daha_balunga_2013",
+  "title": "Daha Balunga",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39075077",
+    "imdb": "tt3173928",
+    "tmdb": 1094233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-12"
+}

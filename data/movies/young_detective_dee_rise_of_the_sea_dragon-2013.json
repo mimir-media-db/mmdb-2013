@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_detective_dee_rise_of_the_sea_dragon_2013",
+  "title": "Young Detective Dee: Rise of the Sea Dragon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14326808",
+    "imdb": "tt2992146",
+    "tmdb": 217923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 134
+}

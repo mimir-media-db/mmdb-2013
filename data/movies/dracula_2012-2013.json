@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dracula_2012_2013",
+  "title": "Dracula 2012",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4325702",
+    "imdb": "tt2903778",
+    "tmdb": 192204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08",
+  "runtime_minutes": 137
+}

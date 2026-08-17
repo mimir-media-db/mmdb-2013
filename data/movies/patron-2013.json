@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patron_2013",
+  "title": "Patron",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107293419",
+    "imdb": "tt2922516",
+    "tmdb": 258998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

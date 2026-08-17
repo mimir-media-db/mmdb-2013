@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reggaeton_the_movie_2013",
+  "title": "Reggaeton The Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76483698",
+    "imdb": "tt3147164",
+    "tmdb": 399455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 106
+}

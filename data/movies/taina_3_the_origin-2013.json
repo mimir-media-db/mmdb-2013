@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taina_3_the_origin_2013",
+  "title": "Tainá 3: The Origin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6462046",
+    "imdb": "tt1708510",
+    "tmdb": 173214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-08",
+  "runtime_minutes": 80
+}

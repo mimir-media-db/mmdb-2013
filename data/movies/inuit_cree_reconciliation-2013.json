@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inuit_cree_reconciliation_2013",
+  "title": "Inuit Cree Reconciliation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032357",
+    "imdb": "tt5182352",
+    "tmdb": 1574028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 44
+}

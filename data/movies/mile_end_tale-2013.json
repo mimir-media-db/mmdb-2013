@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mile_end_tale_2013",
+  "title": "A Mile End Tale",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055289",
+    "imdb": "tt5778150",
+    "tmdb": 657006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-06",
+  "runtime_minutes": 68
+}

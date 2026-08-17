@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_inside_2013",
+  "title": "The Dead Inside",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869880",
+    "imdb": "tt1893415",
+    "tmdb": 234124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

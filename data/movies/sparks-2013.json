@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparks_2013",
+  "title": "Sparks",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18154200",
+    "imdb": "tt2234429",
+    "tmdb": 171776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_games_catching_fire_2013",
+  "title": "The Hunger Games: Catching Fire",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q574583",
+    "imdb": "tt1951264",
+    "tmdb": 101299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-11",
+  "runtime_minutes": 146
+}

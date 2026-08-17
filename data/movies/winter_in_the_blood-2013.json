@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_in_the_blood_2013",
+  "title": "Winter in the Blood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18156927",
+    "imdb": "tt1829057",
+    "tmdb": 157045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

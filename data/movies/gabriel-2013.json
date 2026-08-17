@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gabriel_2013",
+  "title": "Gabriel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16548592",
+    "imdb": "tt3150862",
+    "tmdb": 337812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-15"
+}

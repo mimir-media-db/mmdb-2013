@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foolish_age_2013",
+  "title": "Foolish Age",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671579",
+    "imdb": "tt2722150",
+    "tmdb": 273934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-31"
+}

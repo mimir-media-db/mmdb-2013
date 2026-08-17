@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangun_lagi_dong_lupus_2013",
+  "title": "Bangun Lagi Dong Lupus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12474262",
+    "imdb": "tt2902646",
+    "tmdb": 231292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04"
+}

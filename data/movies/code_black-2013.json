@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_code_black_2013",
+  "title": "Code Black",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57837662",
+    "imdb": "tt2759372",
+    "tmdb": 201419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 81
+}

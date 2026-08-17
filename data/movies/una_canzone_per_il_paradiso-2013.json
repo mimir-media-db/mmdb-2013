@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_una_canzone_per_il_paradiso_2013",
+  "title": "Una canzone per il paradiso",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123862921",
+    "tmdb": 1046209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

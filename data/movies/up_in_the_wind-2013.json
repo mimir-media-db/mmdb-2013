@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_in_the_wind_2013",
+  "title": "Up in the Wind",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15524952",
+    "imdb": "tt3467440",
+    "tmdb": 268522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-31"
+}

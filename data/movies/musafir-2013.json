@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_musafir_2013",
+  "title": "Musafir",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6940070",
+    "imdb": "tt8073332",
+    "tmdb": 1085230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-10"
+}

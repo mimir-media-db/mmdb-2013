@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tailgate_2013",
+  "title": "Tailgate",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543712",
+    "imdb": "tt3661522",
+    "tmdb": 365251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 83
+}

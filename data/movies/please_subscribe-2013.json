@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_please_subscribe_2013",
+  "title": "Please Subscribe",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27670884",
+    "imdb": "tt2368182",
+    "tmdb": 180935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 77
+}

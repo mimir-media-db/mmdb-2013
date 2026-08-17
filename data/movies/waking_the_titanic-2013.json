@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waking_the_titanic_2013",
+  "title": "Waking the Titanic",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115172939",
+    "imdb": "tt5829498",
+    "tmdb": 695800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 52
+}

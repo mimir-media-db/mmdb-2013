@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_tale_of_the_times_table_2013",
+  "title": "The Extraordinary Tale of the Times Table",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21567779",
+    "imdb": "tt2879028",
+    "tmdb": 259099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

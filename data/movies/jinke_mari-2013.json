@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jinke_mari_2013",
+  "title": "Jinke Mari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123752833",
+    "imdb": "tt38893247",
+    "tmdb": 1743279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24"
+}

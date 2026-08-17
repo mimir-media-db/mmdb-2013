@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sakkare_2013",
+  "title": "Sakkare",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7403023",
+    "imdb": "tt3105510"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-18"
+}

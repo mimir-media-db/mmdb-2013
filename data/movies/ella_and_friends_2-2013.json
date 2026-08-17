@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ella_and_friends_2_2013",
+  "title": "Ella and Friends 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674928",
+    "imdb": "tt2934340",
+    "tmdb": 289963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-27",
+  "runtime_minutes": 84
+}

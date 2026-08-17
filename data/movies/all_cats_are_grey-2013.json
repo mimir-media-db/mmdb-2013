@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_cats_are_grey_2013",
+  "title": "All cats are grey",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33525871",
+    "imdb": "tt2945816",
+    "tmdb": 321540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 20
+}

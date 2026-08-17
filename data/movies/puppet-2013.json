@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puppet_2013",
+  "title": "THE PUPPET",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18550381",
+    "imdb": "tt3342780",
+    "tmdb": 260085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20"
+}

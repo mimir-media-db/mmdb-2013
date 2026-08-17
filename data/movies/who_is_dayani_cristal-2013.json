@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_is_dayani_cristal_2013",
+  "title": "Who Is Dayani Cristal?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25646539",
+    "imdb": "tt1847750",
+    "tmdb": 159044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

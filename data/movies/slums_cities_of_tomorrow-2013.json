@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slums_cities_of_tomorrow_2013",
+  "title": "Slums: Cities of Tomorrow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055283",
+    "imdb": "tt3550768",
+    "tmdb": 278851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

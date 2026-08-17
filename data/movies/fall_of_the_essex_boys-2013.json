@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_the_essex_boys_2013",
+  "title": "The Fall of the Essex Boys",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733219",
+    "imdb": "tt2364659",
+    "tmdb": 160907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-18",
+  "runtime_minutes": 87
+}

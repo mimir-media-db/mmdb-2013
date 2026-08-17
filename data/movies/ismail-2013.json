@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ismail_2013",
+  "title": "Ismail",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17630550",
+    "imdb": "tt1710393",
+    "tmdb": 220620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-18"
+}

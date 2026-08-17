@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chimney_2013",
+  "title": "The Chimney",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56379405",
+    "imdb": "tt3773714",
+    "tmdb": 772298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

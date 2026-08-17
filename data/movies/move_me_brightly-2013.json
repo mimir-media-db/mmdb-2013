@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_move_me_brightly_2013",
+  "title": "Move Me Brightly",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814653",
+    "imdb": "tt3360626",
+    "tmdb": 252423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-29"
+}

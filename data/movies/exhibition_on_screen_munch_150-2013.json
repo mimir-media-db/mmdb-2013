@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_munch_150_2013",
+  "title": "Exhibition on Screen: Munch 150",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59438186",
+    "imdb": "tt3525384",
+    "tmdb": 579740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27"
+}

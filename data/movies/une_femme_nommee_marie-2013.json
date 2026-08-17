@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_femme_nommee_marie_2013",
+  "title": "Une femme nommée Marie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517494",
+    "imdb": "tt3044786",
+    "tmdb": 381607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 81
+}

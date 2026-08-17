@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_adieux_de_la_grise_2013",
+  "title": "Les Adieux de la grise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59691481",
+    "imdb": "tt2206294",
+    "tmdb": 285474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 14
+}

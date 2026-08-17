@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_triptych_2013",
+  "title": "Triptych",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17036214",
+    "imdb": "tt3106926",
+    "tmdb": 215745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06",
+  "runtime_minutes": 90
+}

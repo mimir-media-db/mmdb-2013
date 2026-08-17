@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_teo_2013",
+  "title": "Little Teo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16480592",
+    "imdb": "tt3265990",
+    "tmdb": 364809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-20",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_were_the_millers_2013",
+  "title": "We're the Millers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3566895",
+    "imdb": "tt1723121",
+    "tmdb": 138832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-03",
+  "runtime_minutes": 110
+}

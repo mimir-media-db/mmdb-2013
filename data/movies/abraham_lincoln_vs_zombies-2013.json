@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abraham_lincoln_vs_zombies_2013",
+  "title": "Abraham Lincoln vs. Zombies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q330247",
+    "imdb": "tt2246549",
+    "tmdb": 98948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-25",
+  "runtime_minutes": 92
+}

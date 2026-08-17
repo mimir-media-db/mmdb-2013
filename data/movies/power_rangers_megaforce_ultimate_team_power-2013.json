@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_rangers_megaforce_ultimate_team_power_2013",
+  "title": "Power Rangers Megaforce: Ultimate Team Power",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117740151",
+    "imdb": "tt3134066",
+    "tmdb": 253896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-03",
+  "runtime_minutes": 95
+}

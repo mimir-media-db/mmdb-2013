@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sababou_lespoir_2013",
+  "title": "Sababou, l'espoir",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94541773",
+    "imdb": "tt2747946",
+    "tmdb": 173791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

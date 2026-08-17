@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ssken_til_evig_tid_2013",
+  "title": "Søsken til evig tid",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97694113",
+    "imdb": "tt3116140",
+    "tmdb": 242713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-01",
+  "runtime_minutes": 75
+}

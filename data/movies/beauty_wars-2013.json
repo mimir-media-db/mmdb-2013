@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_wars_2013",
+  "title": "Beauty Wars",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651746",
+    "tmdb": 687895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-19"
+}

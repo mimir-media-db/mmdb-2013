@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antarctica_a_year_on_ice_2013",
+  "title": "Antarctica: A Year On Ice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16961661",
+    "imdb": "tt2361700",
+    "tmdb": 201132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-21"
+}

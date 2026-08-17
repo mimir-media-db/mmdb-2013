@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vinyl_2013",
+  "title": "Vinyl",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7932922",
+    "imdb": "tt1703923",
+    "tmdb": 177999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-15",
+  "runtime_minutes": 85
+}

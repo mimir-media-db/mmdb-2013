@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_let_me_go_2013",
+  "title": "Don't Let Me Go",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47417953",
+    "imdb": "tt1976629",
+    "tmdb": 187254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

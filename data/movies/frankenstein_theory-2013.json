@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frankenstein_theory_2013",
+  "title": "The Frankenstein Theory",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735160",
+    "imdb": "tt2646378",
+    "tmdb": 169865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-01"
+}

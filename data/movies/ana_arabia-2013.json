@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ana_arabia_2013",
+  "title": "Ana Arabia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16010685",
+    "imdb": "tt3092086",
+    "tmdb": 216789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-02",
+  "runtime_minutes": 85
+}

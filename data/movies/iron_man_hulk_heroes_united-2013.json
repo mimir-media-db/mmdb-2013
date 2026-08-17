@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_man_hulk_heroes_united_2013",
+  "title": "Iron Man & Hulk: Heroes United",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150641",
+    "imdb": "tt3221698",
+    "tmdb": 230896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-03",
+  "runtime_minutes": 71
+}

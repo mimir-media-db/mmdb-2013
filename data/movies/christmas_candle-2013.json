@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_candle_2013",
+  "title": "The Christmas Candle",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15105174",
+    "imdb": "tt2739338",
+    "tmdb": 226354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-19",
+  "runtime_minutes": 100
+}

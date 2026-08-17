@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grean_fictions_2013",
+  "title": "Grean Fictions",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14192643",
+    "imdb": "tt2776412",
+    "tmdb": 210905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18"
+}

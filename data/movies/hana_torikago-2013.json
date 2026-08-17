@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hana_torikago_2013",
+  "title": "Hana Torikago",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17224434",
+    "imdb": "tt7517706",
+    "tmdb": 435941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-23"
+}

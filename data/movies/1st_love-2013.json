@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1st_love_2013",
+  "title": "1st Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20017786",
+    "imdb": "tt2246520",
+    "tmdb": 232138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_in_the_wilderness_2013",
+  "title": "Go in the Wilderness",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114841251",
+    "imdb": "tt3121574",
+    "tmdb": 249652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 61
+}

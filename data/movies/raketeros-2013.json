@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raketeros_2013",
+  "title": "Raketeros",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17086632",
+    "imdb": "tt3106096",
+    "tmdb": 266629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-07"
+}

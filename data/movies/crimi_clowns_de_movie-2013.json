@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crimi_clowns_de_movie_2013",
+  "title": "Crimi Clowns: De Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15874106",
+    "imdb": "tt2833408",
+    "tmdb": 182528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-03"
+}

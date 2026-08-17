@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_top_star_2013",
+  "title": "Top Star",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15093771",
+    "imdb": "tt3163364",
+    "tmdb": 230029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-05",
+  "runtime_minutes": 107
+}

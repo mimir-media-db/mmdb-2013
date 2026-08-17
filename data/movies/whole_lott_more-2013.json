@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whole_lott_more_2013",
+  "title": "A Whole Lott More",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55603038",
+    "imdb": "tt1841495",
+    "tmdb": 525167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

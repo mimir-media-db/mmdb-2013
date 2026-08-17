@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_human_2013",
+  "title": "Almost Human",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16242772",
+    "imdb": "tt2325517",
+    "tmdb": 210910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-10",
+  "runtime_minutes": 80
+}

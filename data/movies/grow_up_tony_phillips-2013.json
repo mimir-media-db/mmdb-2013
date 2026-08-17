@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grow_up_tony_phillips_2013",
+  "title": "Grow Up, Tony Phillips",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16994572",
+    "imdb": "tt2630096",
+    "tmdb": 172566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31"
+}

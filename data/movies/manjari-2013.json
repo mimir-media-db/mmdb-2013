@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manjari_2013",
+  "title": "Manjari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206775",
+    "imdb": "tt6710486",
+    "tmdb": 494712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-03"
+}

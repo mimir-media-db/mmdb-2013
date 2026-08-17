@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabaddi_2013",
+  "title": "Kabaddi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25620285",
+    "imdb": "tt3696800",
+    "tmdb": 269414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

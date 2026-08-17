@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machete_kills_2013",
+  "title": "Machete Kills",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128187",
+    "imdb": "tt2002718",
+    "tmdb": 106747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-19",
+  "runtime_minutes": 107
+}

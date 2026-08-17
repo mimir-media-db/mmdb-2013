@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_2013",
+  "title": "Amazing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15949547",
+    "imdb": "tt3457380",
+    "tmdb": 259247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-30"
+}

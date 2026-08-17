@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jasmine_2013",
+  "title": "Jasmine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18198101",
+    "imdb": "tt3043848",
+    "tmdb": 234446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-10",
+  "runtime_minutes": 70
+}

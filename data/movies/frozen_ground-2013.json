@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frozen_ground_2013",
+  "title": "The Frozen Ground",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2613129",
+    "imdb": "tt2005374",
+    "tmdb": 199373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 105
+}

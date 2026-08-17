@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brotherhood_of_tears_2013",
+  "title": "Brotherhood of Tears",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15206595",
+    "imdb": "tt2522934",
+    "tmdb": 226788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-21",
+  "runtime_minutes": 100
+}

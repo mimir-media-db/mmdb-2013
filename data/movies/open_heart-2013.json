@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_heart_2013",
+  "title": "An Open Heart",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576654",
+    "imdb": "tt2088962",
+    "tmdb": 116377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-30",
+  "runtime_minutes": 87
+}
