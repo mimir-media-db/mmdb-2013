@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_detarame_hero",
+  "title": "Detarame Hero",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11272823",
+    "imdb": "tt2727312",
+    "tmdb": 48303
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

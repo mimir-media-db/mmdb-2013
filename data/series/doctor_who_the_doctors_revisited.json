@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_who_the_doctors_revisited",
+  "title": "Doctor Who: The Doctors Revisited",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15270599",
+    "imdb": "tt2795780",
+    "tmdb": 53071
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

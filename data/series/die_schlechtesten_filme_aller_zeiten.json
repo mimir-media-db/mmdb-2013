@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_schlechtesten_filme_aller_zeiten",
+  "title": "Die schlechtesten Filme aller Zeiten",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15805885",
+    "imdb": "tt3062428",
+    "tmdb": 57109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 148
+}

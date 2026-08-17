@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_kwis",
+  "title": "De Kwis",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q16070367",
+    "imdb": "tt5377814",
+    "tmdb": 65414
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

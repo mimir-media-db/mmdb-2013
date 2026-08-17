@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_after",
+  "title": "The Day After",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16272192",
+    "imdb": "tt3857398",
+    "tmdb": 65673
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

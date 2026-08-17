@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_rescuers",
+  "title": "The Dog Rescuers",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17151107",
+    "imdb": "tt4287982",
+    "tmdb": 127215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 112
+}

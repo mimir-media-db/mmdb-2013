@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dating_agency_cyrano",
+  "title": "Dating Agency: Cyrano",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12808087",
+    "imdb": "tt2828696",
+    "tmdb": 60385
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

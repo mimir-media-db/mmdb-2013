@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_drunk_history",
+  "title": "Drunk History",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q14650447",
+    "imdb": "tt2712612",
+    "tmdb": 56219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 87
+}

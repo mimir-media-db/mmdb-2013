@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dama_y_obrero",
+  "title": "Dama y Obrero",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5211866",
+    "imdb": "tt2968124"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 81
+}

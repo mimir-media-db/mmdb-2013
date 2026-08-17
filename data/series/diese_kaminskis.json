@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_diese_kaminskis",
+  "title": "Diese Kaminskis",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17101070",
+    "imdb": "tt3110288",
+    "tmdb": 118666
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

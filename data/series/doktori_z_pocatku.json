@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doktori_z_pocatku",
+  "title": "Doktori z Pocátku",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10855674",
+    "imdb": "tt3030178",
+    "tmdb": 94714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

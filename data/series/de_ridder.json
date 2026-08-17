@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_ridder",
+  "title": "De Ridder",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q13571381",
+    "imdb": "tt2613218",
+    "tmdb": 61554
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 47
+}

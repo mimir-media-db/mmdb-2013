@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dallas_car_sharks",
+  "title": "Dallas Car Sharks",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20715640",
+    "imdb": "tt3239336",
+    "tmdb": 56545
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

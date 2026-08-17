@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dracula",
+  "title": "Dracula",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1151570",
+    "imdb": "tt2296682",
+    "tmdb": 58928
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

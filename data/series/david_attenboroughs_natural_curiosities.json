@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_david_attenboroughs_natural_curiosities",
+  "title": "David Attenborough's Natural Curiosities",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5230906",
+    "imdb": "tt3629970",
+    "tmdb": 58703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dokushin_kizoku",
+  "title": "Dokushin Kizoku",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15059217",
+    "imdb": "tt3149036",
+    "tmdb": 58294
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

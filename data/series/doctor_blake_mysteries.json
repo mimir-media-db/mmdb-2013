@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_blake_mysteries",
+  "title": "The Doctor Blake Mysteries",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7730476",
+    "imdb": "tt2375720",
+    "tmdb": 59134
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}
