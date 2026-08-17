@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_relatively_bad_kids",
+  "title": "Relatively Bad Kids",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16050999",
+    "imdb": "tt27847236",
+    "tmdb": 329474
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 28
+}

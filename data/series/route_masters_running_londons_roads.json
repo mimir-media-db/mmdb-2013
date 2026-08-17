@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_route_masters_running_londons_roads",
+  "title": "The Route Masters: Running London's Roads",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14954407",
+    "imdb": "tt3061146",
+    "tmdb": 52336
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

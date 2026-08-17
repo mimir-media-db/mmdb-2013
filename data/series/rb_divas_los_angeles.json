@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rb_divas_los_angeles",
+  "title": "R&B Divas: Los Angeles",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17149822",
+    "imdb": "tt3042520",
+    "tmdb": 59326
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}
