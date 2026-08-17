@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_et_xxx_a_dreamzone_parody_2013",
+  "title": "E.T. XXX – A Dreamzone Parody",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15857417",
+    "imdb": "tt3236482",
+    "tmdb": 447676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

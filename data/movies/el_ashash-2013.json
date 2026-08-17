@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ashash_2013",
+  "title": "El Ashash",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15527049",
+    "imdb": "tt3353132",
+    "tmdb": 300947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

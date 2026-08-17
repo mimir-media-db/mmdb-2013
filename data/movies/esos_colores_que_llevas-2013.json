@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esos_colores_que_llevas_2013",
+  "title": "Esos colores que llevás",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16492798",
+    "imdb": "tt2806728",
+    "tmdb": 460581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 62
+}

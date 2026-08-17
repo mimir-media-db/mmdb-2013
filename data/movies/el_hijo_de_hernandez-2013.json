@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hijo_de_hernandez_2013",
+  "title": "El Hijo de Hernández",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16259187",
+    "imdb": "tt2917742"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

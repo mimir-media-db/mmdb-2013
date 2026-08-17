@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ela_cheppanu_2013",
+  "title": "Ela Cheppanu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5352539",
+    "imdb": "tt1248227",
+    "tmdb": 117086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

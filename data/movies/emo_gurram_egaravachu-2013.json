@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emo_gurram_egaravachu_2013",
+  "title": "Emo Gurram Egaravachu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15691262",
+    "imdb": "tt2747818",
+    "tmdb": 253172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
