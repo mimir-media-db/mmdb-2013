@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_semana_con_pocas_muertes_2013",
+  "title": "Una semana con pocas muertes",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56642045",
+    "imdb": "tt6074506",
+    "tmdb": 585034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

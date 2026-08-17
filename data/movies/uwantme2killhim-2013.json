@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uwantme2killhim_2013",
+  "title": "Uwantme2killhim?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3572768",
+    "imdb": "tt0485061",
+    "tmdb": 202960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-25",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unplugged_leben_guaia_guaia_2013",
+  "title": "Unplugged: Leben Guaia Guaia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1426023",
+    "imdb": "tt2214960",
+    "tmdb": 479891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-11",
+  "runtime_minutes": 93
+}

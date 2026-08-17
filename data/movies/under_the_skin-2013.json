@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_skin_2013",
+  "title": "Under the Skin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4366287",
+    "imdb": "tt1441395",
+    "tmdb": 97370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-29",
+  "runtime_minutes": 107
+}

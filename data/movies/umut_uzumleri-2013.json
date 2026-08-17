@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_umut_uzumleri_2013",
+  "title": "Umut Üzümleri",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450920",
+    "imdb": "tt2869768",
+    "tmdb": 234360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-17",
+  "runtime_minutes": 126
+}
