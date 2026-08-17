@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naan_rajavaga_pogiren_2013",
+  "title": "Naan Rajavaga Pogiren",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6956581",
+    "imdb": "tt2576666",
+    "tmdb": 116571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

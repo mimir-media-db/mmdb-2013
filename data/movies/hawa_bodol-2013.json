@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hawa_bodol_2013",
+  "title": "Hawa Bodol",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15043355",
+    "imdb": "tt2580150",
+    "tmdb": 349025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cooper_hemingway_the_true_gen_2013",
+  "title": "Cooper & Hemingway: The True Gen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249471",
+    "imdb": "tt0159369",
+    "tmdb": 224332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

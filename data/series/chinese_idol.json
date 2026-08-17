@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chinese_idol",
+  "title": "Chinese Idol",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13377495",
+    "tmdb": 312385
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

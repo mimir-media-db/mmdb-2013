@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vidiyum_munn_2013",
+  "title": "Vidiyum Munn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255207",
+    "imdb": "tt3209556",
+    "tmdb": 240074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

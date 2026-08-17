@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karaoglan_2013",
+  "title": "Karaoglan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450830",
+    "imdb": "tt2356860",
+    "tmdb": 245154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

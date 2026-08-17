@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_treehouse_masters",
+  "title": "Treehouse Masters",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q23021152",
+    "imdb": "tt2838492",
+    "tmdb": 49474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 97
+}

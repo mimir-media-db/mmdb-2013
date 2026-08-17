@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ostrov_vezeniya_2013",
+  "title": "Ostrov vezeniya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270893",
+    "imdb": "tt3338310",
+    "tmdb": 250251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

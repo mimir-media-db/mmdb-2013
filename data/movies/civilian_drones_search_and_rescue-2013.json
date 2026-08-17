@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_civilian_drones_search_and_rescue_2013",
+  "title": "Civilian Drones: Search and Rescue",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150886",
+    "imdb": "tt3088102"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

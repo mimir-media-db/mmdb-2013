@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_luc_et_leila_2013",
+  "title": "Luc et Leïla",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16661460",
+    "imdb": "tt3117048"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dugong_buhay",
+  "title": "Dugong Buhay",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13628176",
+    "imdb": "tt2938446",
+    "tmdb": 225953
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 135
+}

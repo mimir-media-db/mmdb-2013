@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_siberia",
+  "title": "Siberia",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13582312",
+    "imdb": "tt2935974",
+    "tmdb": 54653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

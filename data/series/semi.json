@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_semi",
+  "title": "Semi",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124545753",
+    "imdb": "tt29358673"
+  },
+  "last_updated": "2026-08-17"
+}

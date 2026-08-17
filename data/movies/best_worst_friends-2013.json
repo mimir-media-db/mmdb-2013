@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_worst_friends_2013",
+  "title": "Best Worst Friends",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16607971",
+    "imdb": "tt2637012",
+    "tmdb": 228273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

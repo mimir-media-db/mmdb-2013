@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_trash_2013",
+  "title": "Super Trash",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16678238",
+    "imdb": "tt2934868",
+    "tmdb": 315396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 74
+}

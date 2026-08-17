@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_of_the_philippines",
+  "title": "The Voice of the Philippines",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7773052",
+    "imdb": "tt2971694",
+    "tmdb": 44868
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

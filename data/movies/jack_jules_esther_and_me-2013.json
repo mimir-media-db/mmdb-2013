@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_jules_esther_and_me_2013",
+  "title": "Jack, Jules, Esther and Me",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152495",
+    "imdb": "tt2458820",
+    "tmdb": 230095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

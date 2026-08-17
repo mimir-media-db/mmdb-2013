@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_sinners_future_gospel_2013",
+  "title": "The Garden of Sinners: Future Gospel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17002320",
+    "imdb": "tt2983564",
+    "tmdb": 212156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

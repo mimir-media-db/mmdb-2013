@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anita_e_garibaldi_2013",
+  "title": "Anita e Garibaldi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16961618",
+    "imdb": "tt2428824",
+    "tmdb": 227952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

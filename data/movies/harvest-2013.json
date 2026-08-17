@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harvest_2013",
+  "title": "The Harvest",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16025049",
+    "imdb": "tt2543336",
+    "tmdb": 229182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 104
+}

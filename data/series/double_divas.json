@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_double_divas",
+  "title": "Double Divas",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5299734",
+    "imdb": "tt2578086",
+    "tmdb": 64871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanna_laddu_thinna_aasaiya_2013",
+  "title": "Kanna Laddu Thinna Aasaiya!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3625283",
+    "imdb": "tt2623460",
+    "tmdb": 149390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

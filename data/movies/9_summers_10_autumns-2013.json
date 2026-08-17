@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_9_summers_10_autumns_2013",
+  "title": "9 Summers 10 Autumns",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12470430",
+    "imdb": "tt2911900",
+    "tmdb": 458126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

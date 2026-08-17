@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vatthikuchi_2013",
+  "title": "Vatthikuchi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7917210",
+    "imdb": "tt2771926",
+    "tmdb": 148240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

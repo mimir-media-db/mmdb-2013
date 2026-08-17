@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_kirche_bleibt_im_dorf",
+  "title": "Die Kirche bleibt im Dorf",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15805758",
+    "imdb": "tt2844130",
+    "tmdb": 60872
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

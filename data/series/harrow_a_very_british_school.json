@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_harrow_a_very_british_school",
+  "title": "Harrow: A Very British School",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16938705",
+    "imdb": "tt3345300",
+    "tmdb": 58322
+  },
+  "last_updated": "2026-08-17"
+}

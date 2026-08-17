@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_marido_en_alquiler",
+  "title": "Marido En Alquiler",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q484851",
+    "imdb": "tt2877678",
+    "tmdb": 44949
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

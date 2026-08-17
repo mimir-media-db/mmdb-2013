@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_still_open_all_hours",
+  "title": "Still Open All Hours",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17021362",
+    "imdb": "tt3425318",
+    "tmdb": 61916
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 34
+}

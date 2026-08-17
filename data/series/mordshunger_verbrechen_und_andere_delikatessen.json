@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mordshunger_verbrechen_und_andere_delikatessen",
+  "title": "Mordshunger - Verbrechen und andere Delikatessen",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104759158",
+    "imdb": "tt3130420",
+    "tmdb": 63487
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resurrection_2013",
+  "title": "A Resurrection",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7247414",
+    "imdb": "tt1817276",
+    "tmdb": 177552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

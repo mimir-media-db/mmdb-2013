@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real",
+  "title": "The Real",
+  "start_year": 2013,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q14948168",
+    "imdb": "tt3004376",
+    "tmdb": 56761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 1000
+}

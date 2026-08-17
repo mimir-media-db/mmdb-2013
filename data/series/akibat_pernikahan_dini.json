@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_akibat_pernikahan_dini",
+  "title": "Akibat Pernikahan Dini",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12471259",
+    "tmdb": 51872
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

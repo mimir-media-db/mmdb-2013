@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_connie_clyde",
+  "title": "Connie & Clyde",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15874016",
+    "imdb": "tt2565808",
+    "tmdb": 92745
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

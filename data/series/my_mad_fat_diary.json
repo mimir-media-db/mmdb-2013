@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_mad_fat_diary",
+  "title": "My Mad Fat Diary",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6945992",
+    "imdb": "tt2407574",
+    "tmdb": 60616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 16
+}

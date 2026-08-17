@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_passionate_love",
+  "title": "Passionate Love",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q12607226",
+    "imdb": "tt3183432",
+    "tmdb": 57790
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 47
+}

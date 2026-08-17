@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tajne",
+  "title": "Tajne",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15791244",
+    "imdb": "tt3121684",
+    "tmdb": 329084
+  },
+  "last_updated": "2026-08-17"
+}

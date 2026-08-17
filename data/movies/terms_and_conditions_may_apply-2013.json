@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terms_and_conditions_may_apply_2013",
+  "title": "Terms and Conditions May Apply",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15048686",
+    "imdb": "tt2084953",
+    "tmdb": 159622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

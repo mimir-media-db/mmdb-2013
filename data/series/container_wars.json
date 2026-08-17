@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_container_wars",
+  "title": "Container Wars",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16951196",
+    "imdb": "tt2738100",
+    "tmdb": 55693
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

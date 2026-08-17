@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bath_salt_zombies_2013",
+  "title": "Bath Salt Zombies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248609",
+    "imdb": "tt2691554",
+    "tmdb": 180323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 70
+}

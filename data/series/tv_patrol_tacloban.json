@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tv_patrol_tacloban",
+  "title": "TV Patrol Tacloban",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7672398",
+    "tmdb": 7719
+  },
+  "last_updated": "2026-08-17"
+}

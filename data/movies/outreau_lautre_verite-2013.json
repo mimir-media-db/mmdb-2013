@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outreau_lautre_verite_2013",
+  "title": "Outreau, l'autre vérité",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16668543",
+    "imdb": "tt2747964",
+    "tmdb": 173786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

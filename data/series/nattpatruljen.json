@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nattpatruljen",
+  "title": "Nattpatruljen",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q65233989",
+    "imdb": "tt4461770",
+    "tmdb": 55640
+  },
+  "last_updated": "2026-08-17"
+}

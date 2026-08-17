@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yukon_gold",
+  "title": "Yukon Gold",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q8060824",
+    "imdb": "tt2758692",
+    "tmdb": 46875
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 42
+}

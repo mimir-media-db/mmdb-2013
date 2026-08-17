@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hemlock_grove",
+  "title": "Hemlock Grove",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5712285",
+    "imdb": "tt2309295",
+    "tmdb": 42295
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

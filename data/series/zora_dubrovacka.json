@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zora_dubrovacka",
+  "title": "Zora dubrovačka",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14256547",
+    "imdb": "tt3068588",
+    "tmdb": 244911
+  },
+  "last_updated": "2026-08-17"
+}

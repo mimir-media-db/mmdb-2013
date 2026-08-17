@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_john_day_2013",
+  "title": "John Day",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14913020",
+    "imdb": "tt2699840",
+    "tmdb": 223806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_next_please",
+  "title": "Next, Please!",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23775127",
+    "imdb": "tt2105701"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 135
+}

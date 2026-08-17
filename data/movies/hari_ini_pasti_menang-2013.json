@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hari_ini_pasti_menang_2013",
+  "title": "Hari Ini Pasti Menang",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12485284",
+    "imdb": "tt2404241",
+    "tmdb": 260232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_and_gentleman_2013",
+  "title": "Ladies and Gentleman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6469544",
+    "imdb": "tt2795414",
+    "tmdb": 229345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

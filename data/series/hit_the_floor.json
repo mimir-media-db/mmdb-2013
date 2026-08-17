@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_the_floor",
+  "title": "Hit the Floor",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q4949793",
+    "imdb": "tt2368645",
+    "tmdb": 45630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 32
+}

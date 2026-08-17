@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shortcut_romeo_2013",
+  "title": "Shortcut Romeo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7502136",
+    "imdb": "tt2066062",
+    "tmdb": 166217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

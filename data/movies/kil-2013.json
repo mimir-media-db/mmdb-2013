@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kil_2013",
+  "title": "KIL",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12688723",
+    "imdb": "tt3045760",
+    "tmdb": 203854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mole_song_undercover_agent_reiji_2013",
+  "title": "The Mole Song: Undercover Agent Reiji",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16162211",
+    "imdb": "tt2643394",
+    "tmdb": 199926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 130
+}

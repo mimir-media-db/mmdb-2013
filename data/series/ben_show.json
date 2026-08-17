@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ben_show",
+  "title": "The Ben Show",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7716501",
+    "imdb": "tt2740548",
+    "tmdb": 112471
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

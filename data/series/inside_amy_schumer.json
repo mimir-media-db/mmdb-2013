@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_amy_schumer",
+  "title": "Inside Amy Schumer",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16997000",
+    "imdb": "tt2578508",
+    "tmdb": 47562
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 44
+}

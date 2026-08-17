@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deewana_main_deewana_2013",
+  "title": "Deewana Main Deewana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5251025",
+    "imdb": "tt2361022",
+    "tmdb": 170241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

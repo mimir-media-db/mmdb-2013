@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haridas_2013",
+  "title": "Haridas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5657314",
+    "imdb": "tt3177080",
+    "tmdb": 179413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_gouffres_2013",
+  "title": "Les gouffres",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233006",
+    "imdb": "tt2258447",
+    "tmdb": 319921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 62
+}

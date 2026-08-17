@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_root_2013",
+  "title": "Root",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16624409",
+    "imdb": "tt3462146",
+    "tmdb": 217280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

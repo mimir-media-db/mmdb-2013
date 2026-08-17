@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spackovi_v_siti_casu",
+  "title": "Spackovi v síti casu",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102390769",
+    "imdb": "tt3174234",
+    "tmdb": 60126
+  },
+  "last_updated": "2026-08-17"
+}

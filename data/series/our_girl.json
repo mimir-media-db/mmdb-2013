@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_girl",
+  "title": "Our Girl",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q12126821",
+    "imdb": "tt3815412",
+    "tmdb": 61517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 28
+}

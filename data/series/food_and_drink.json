@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_food_and_drink",
+  "title": "Food and Drink",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5465423",
+    "imdb": "tt0406412",
+    "tmdb": 13456
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 25,
+  "total_episodes": 398
+}

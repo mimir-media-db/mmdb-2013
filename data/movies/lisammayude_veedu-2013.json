@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lisammayude_veedu_2013",
+  "title": "Lisammayude Veedu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2992342",
+    "imdb": "tt3188586",
+    "tmdb": 491420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

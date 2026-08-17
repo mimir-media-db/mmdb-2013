@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anwalte_im_einsatz",
+  "title": "Anwälte im Einsatz",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15490930",
+    "imdb": "tt3216834",
+    "tmdb": 92452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 475
+}

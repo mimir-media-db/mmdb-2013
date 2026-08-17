@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_panmama",
+  "title": "PanMáma",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14602133",
+    "imdb": "tt3395460",
+    "tmdb": 94770
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

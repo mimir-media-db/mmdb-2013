@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truckers",
+  "title": "Truckers",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15060000",
+    "imdb": "tt2938398",
+    "tmdb": 70574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

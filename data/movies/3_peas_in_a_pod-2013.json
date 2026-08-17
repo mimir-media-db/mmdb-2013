@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_peas_in_a_pod_2013",
+  "title": "3 Peas in a Pod",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15920950",
+    "imdb": "tt2713016",
+    "tmdb": 237525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

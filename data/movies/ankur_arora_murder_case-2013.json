@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ankur_arora_murder_case_2013",
+  "title": "Ankur Arora Murder Case",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4766103",
+    "imdb": "tt2912578",
+    "tmdb": 211990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

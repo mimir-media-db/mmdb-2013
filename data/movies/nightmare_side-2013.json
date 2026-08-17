@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_side_2013",
+  "title": "Nightmare Side",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12500733",
+    "imdb": "tt13876512",
+    "tmdb": 1008225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

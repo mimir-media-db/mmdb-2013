@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lighthouse",
+  "title": "The Lighthouse",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q111219588",
+    "imdb": "tt3259328",
+    "tmdb": 89746
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 510
+}

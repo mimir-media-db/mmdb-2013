@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angel_ili_demon",
+  "title": "Angel ili demon",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12861719",
+    "imdb": "tt3189138",
+    "tmdb": 241156
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

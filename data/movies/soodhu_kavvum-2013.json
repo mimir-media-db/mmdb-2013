@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soodhu_kavvum_2013",
+  "title": "Soodhu Kavvum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7562638",
+    "imdb": "tt2877108",
+    "tmdb": 189227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

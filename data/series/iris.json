@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_iris",
+  "title": "Iris Ⅱ",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q139403",
+    "imdb": "tt1757202",
+    "tmdb": 31505
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

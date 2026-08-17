@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_married_to_medicine",
+  "title": "Married to Medicine",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6772949",
+    "imdb": "tt2543378",
+    "tmdb": 46733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mom",
+  "title": "Mom",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q13417213",
+    "imdb": "tt2660806",
+    "tmdb": 49011
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 170
+}

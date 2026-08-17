@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mundo_moy_akin",
+  "title": "Mundo Mo'y Akin",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6935858",
+    "imdb": "tt3027944",
+    "tmdb": 222205
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 122
+}

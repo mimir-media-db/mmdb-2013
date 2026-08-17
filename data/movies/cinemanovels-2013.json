@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinemanovels_2013",
+  "title": "Cinemanovels",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949750",
+    "imdb": "tt2338062",
+    "tmdb": 212752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

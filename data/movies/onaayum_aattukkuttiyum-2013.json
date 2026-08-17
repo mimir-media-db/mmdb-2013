@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onaayum_aattukkuttiyum_2013",
+  "title": "Onaayum Aattukkuttiyum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7091657",
+    "imdb": "tt3185772",
+    "tmdb": 224339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

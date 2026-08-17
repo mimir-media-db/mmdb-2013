@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahapurush_o_kapurush_2013",
+  "title": "Mahapurush O Kapurush",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6733175",
+    "imdb": "tt3092096",
+    "tmdb": 437522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

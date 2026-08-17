@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_witch_hunt",
+  "title": "Witch Hunt",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16180807",
+    "imdb": "tt5643432",
+    "tmdb": 66725
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 123
+}

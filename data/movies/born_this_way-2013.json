@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_this_way_2013",
+  "title": "Born This Way",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15905692",
+    "imdb": "tt2555166",
+    "tmdb": 168305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mariyaan_2013",
+  "title": "Mariyaan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6766092",
+    "imdb": "tt2793930",
+    "tmdb": 191805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

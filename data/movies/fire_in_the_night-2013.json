@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_in_the_night_2013",
+  "title": "Fire in the Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14954339",
+    "imdb": "tt2620290",
+    "tmdb": 203922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

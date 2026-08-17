@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_me_a_man_2013",
+  "title": "Bring Me a Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15949894",
+    "imdb": "tt3399454",
+    "tmdb": 270895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

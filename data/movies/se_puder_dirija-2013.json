@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_puder_dirija_2013",
+  "title": "Se Puder... Dirija!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15041809",
+    "imdb": "tt2211808",
+    "tmdb": 218528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

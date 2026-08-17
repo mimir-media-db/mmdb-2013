@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_of_the_lake",
+  "title": "Top of the Lake",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7779266",
+    "imdb": "tt2103085",
+    "tmdb": 46638
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

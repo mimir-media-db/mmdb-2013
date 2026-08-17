@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_kind_of_wrong_2013",
+  "title": "The Right Kind of Wrong",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17112898",
+    "imdb": "tt2286990",
+    "tmdb": 209406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

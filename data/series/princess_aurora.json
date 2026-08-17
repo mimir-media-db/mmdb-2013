@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_princess_aurora",
+  "title": "Princess Aurora",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12607806",
+    "imdb": "tt6133778",
+    "tmdb": 55076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 150
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_tips_texas",
+  "title": "Big Tips Texas",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15831561",
+    "imdb": "tt3181932",
+    "tmdb": 65014
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

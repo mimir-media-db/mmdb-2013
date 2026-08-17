@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_o_amor_2013",
+  "title": "É o Amor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168809",
+    "imdb": "tt2784054",
+    "tmdb": 188584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 135
+}

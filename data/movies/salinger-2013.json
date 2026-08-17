@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salinger_2013",
+  "title": "Salinger",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13534614",
+    "imdb": "tt1596753",
+    "tmdb": 180314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 129
+}

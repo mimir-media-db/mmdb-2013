@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_me_the_head_of_the_machine_gun_woman_2013",
+  "title": "Bring Me the Head of the Machine Gun Woman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15789889",
+    "imdb": "tt2424028",
+    "tmdb": 232195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 73
+}

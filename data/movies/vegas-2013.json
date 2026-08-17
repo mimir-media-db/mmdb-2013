@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vegas_2013",
+  "title": "Vegas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16694043",
+    "imdb": "tt2760492",
+    "tmdb": 300505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 25
+}

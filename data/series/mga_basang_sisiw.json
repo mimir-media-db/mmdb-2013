@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mga_basang_sisiw",
+  "title": "Mga Basang Sisiw",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13602398",
+    "imdb": "tt3104716",
+    "tmdb": 59585
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shetland",
+  "title": "Shetland",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16934235",
+    "imdb": "tt2396135",
+    "tmdb": 46923
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 50
+}

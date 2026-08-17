@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_redwood_highway_2013",
+  "title": "Redwood Highway",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17145995",
+    "imdb": "tt2515164",
+    "tmdb": 262357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_prince_presque_charmant_2013",
+  "title": "Un prince (presque) charmant",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548954",
+    "imdb": "tt2311182",
+    "tmdb": 155887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

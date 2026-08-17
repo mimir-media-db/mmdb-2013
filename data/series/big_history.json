@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_history",
+  "title": "Big History",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16841719",
+    "imdb": "tt3250010",
+    "tmdb": 61098
+  },
+  "last_updated": "2026-08-17"
+}

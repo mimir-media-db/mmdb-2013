@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kacak",
+  "title": "Kacak",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19611660",
+    "imdb": "tt3418430",
+    "tmdb": 63858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

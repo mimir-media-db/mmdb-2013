@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saratov_approach_2013",
+  "title": "The Saratov Approach",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16166745",
+    "imdb": "tt2887322",
+    "tmdb": 224076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

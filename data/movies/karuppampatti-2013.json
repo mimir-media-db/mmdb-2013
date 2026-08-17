@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karuppampatti_2013",
+  "title": "Karuppampatti",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6373708",
+    "imdb": "tt3421426",
+    "tmdb": 269684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

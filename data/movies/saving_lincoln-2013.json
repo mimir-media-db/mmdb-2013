@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_lincoln_2013",
+  "title": "Saving Lincoln",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7428283",
+    "imdb": "tt2034098",
+    "tmdb": 161187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

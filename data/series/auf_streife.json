@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_auf_streife",
+  "title": "Auf Streife",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14949585",
+    "imdb": "tt2876418",
+    "tmdb": 249715
+  },
+  "last_updated": "2026-08-17"
+}

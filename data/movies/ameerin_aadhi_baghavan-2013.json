@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ameerin_aadhi_baghavan_2013",
+  "title": "Ameerin Aadhi Baghavan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3449883",
+    "imdb": "tt1671446",
+    "tmdb": 69564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

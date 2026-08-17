@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_my_dolly_girlfriend_2013",
+  "title": "Hello, My Dolly Girlfriend",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17209134",
+    "imdb": "tt2606110",
+    "tmdb": 178172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

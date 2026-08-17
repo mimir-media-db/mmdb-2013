@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_tiempo_entre_costuras",
+  "title": "El tiempo entre costuras",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15634798",
+    "imdb": "tt1864750",
+    "tmdb": 63485
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

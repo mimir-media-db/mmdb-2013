@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giovanni_improtta_2013",
+  "title": "Giovanni Improtta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10289894",
+    "imdb": "tt2926790",
+    "tmdb": 194143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

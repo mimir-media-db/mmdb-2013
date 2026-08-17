@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_2_days_1_night",
+  "title": "2 Days & 1 Night",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15905276"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 7
+}

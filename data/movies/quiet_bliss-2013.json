@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_bliss_2013",
+  "title": "Quiet Bliss",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16761584",
+    "imdb": "tt2978814",
+    "tmdb": 255549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 127
+}

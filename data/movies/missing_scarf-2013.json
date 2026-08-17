@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_scarf_2013",
+  "title": "The Missing Scarf",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17113868",
+    "imdb": "tt2972520",
+    "tmdb": 249709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 7
+}

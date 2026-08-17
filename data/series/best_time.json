@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_best_time",
+  "title": "Best Time",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7752357",
+    "tmdb": 44788
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kelly_file",
+  "title": "The Kelly File",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17056498",
+    "imdb": "tt3228960"
+  },
+  "last_updated": "2026-08-17"
+}

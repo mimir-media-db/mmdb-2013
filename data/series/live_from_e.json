@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_live_from_e",
+  "title": "Live from E!",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18844748",
+    "imdb": "tt3628626"
+  },
+  "last_updated": "2026-08-17"
+}

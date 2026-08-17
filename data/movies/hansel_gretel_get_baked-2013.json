@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hansel_gretel_get_baked_2013",
+  "title": "Hansel & Gretel Get Baked",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5650999",
+    "imdb": "tt2081194",
+    "tmdb": 165864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

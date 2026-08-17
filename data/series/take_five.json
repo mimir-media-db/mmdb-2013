@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_take_five",
+  "title": "TAKE FIVE",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11248088",
+    "imdb": "tt2718646",
+    "tmdb": 72156
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

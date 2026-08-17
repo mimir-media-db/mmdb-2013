@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cleaners",
+  "title": "Cleaners",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19845446",
+    "imdb": "tt3147692",
+    "tmdb": 61437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

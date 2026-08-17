@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_she_is_wow",
+  "title": "She is Wow!",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13609964",
+    "imdb": "tt6429082",
+    "tmdb": 83193
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

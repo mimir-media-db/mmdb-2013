@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_end_of_the_world_tv_series",
+  "title": "The End of the World (TV series)",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10869121",
+    "imdb": "tt6385942",
+    "tmdb": 83189
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadan_2013",
+  "title": "Nadan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252062",
+    "imdb": "tt3558162",
+    "tmdb": 256856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

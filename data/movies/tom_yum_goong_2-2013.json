@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_yum_goong_2_2013",
+  "title": "Tom Yum Goong 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3010164",
+    "imdb": "tt1925518",
+    "tmdb": 110552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cirkus_bukowsky",
+  "title": "Cirkus Bukowsky",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15377890",
+    "imdb": "tt2497942",
+    "tmdb": 69031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

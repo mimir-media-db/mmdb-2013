@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_beloved_dearest_2013",
+  "title": "My Beloved Dearest",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128344",
+    "imdb": "tt2989650",
+    "tmdb": 294879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

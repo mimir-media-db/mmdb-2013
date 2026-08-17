@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sophies_web",
+  "title": "Sophie's Web",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15882201",
+    "imdb": "tt3134440",
+    "tmdb": 251591
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

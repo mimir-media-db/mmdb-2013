@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sagenhaft",
+  "title": "Sagenhaft",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28833395",
+    "imdb": "tt5454794",
+    "tmdb": 120517
+  },
+  "last_updated": "2026-08-17"
+}

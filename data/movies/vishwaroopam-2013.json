@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vishwaroopam_2013",
+  "title": "Vishwaroopam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3572804",
+    "imdb": "tt2199711",
+    "tmdb": 117319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 148
+}

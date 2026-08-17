@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voyage_2013",
+  "title": "Voyage",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17015366",
+    "imdb": "tt2329582",
+    "tmdb": 231935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

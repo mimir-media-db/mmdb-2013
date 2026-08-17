@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_daily_edition",
+  "title": "The Daily Edition",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17002652",
+    "imdb": "tt5276926"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

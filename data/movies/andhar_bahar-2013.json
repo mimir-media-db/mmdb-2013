@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_andhar_bahar_2013",
+  "title": "Andhar Bahar",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4754325",
+    "imdb": "tt3317970"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

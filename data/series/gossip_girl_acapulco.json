@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gossip_girl_acapulco",
+  "title": "Gossip Girl: Acapulco",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13460301",
+    "imdb": "tt2958762",
+    "tmdb": 61918
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

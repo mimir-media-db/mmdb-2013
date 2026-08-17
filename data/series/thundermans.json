@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thundermans",
+  "title": "The Thundermans",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q9197118",
+    "imdb": "tt2712516",
+    "tmdb": 58981
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 104
+}

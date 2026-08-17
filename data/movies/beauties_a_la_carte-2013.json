@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beauties_a_la_carte_2013",
+  "title": "Beauties À La Carte",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15063246",
+    "imdb": "tt3273942"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

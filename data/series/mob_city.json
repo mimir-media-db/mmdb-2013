@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mob_city",
+  "title": "Mob City",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6683843",
+    "imdb": "tt2176609",
+    "tmdb": 44840
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

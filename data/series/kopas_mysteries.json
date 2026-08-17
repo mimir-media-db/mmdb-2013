@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kopas_mysteries",
+  "title": "Kopa's Mysteries",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16220506"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

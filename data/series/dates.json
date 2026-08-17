@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dates",
+  "title": "Dates",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13427026",
+    "imdb": "tt2964118",
+    "tmdb": 53536
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

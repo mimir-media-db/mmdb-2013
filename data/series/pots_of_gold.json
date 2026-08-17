@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pots_of_gold",
+  "title": "Pots of Gold",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12093785",
+    "imdb": "tt3375680",
+    "tmdb": 54619
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

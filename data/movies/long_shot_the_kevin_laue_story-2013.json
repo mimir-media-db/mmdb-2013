@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_shot_the_kevin_laue_story_2013",
+  "title": "Long Shot: The Kevin Laue Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052325",
+    "imdb": "tt1371081",
+    "tmdb": 139704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

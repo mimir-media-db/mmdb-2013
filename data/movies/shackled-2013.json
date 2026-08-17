@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shackled_2013",
+  "title": "Shackled",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7460176",
+    "imdb": "tt2424752",
+    "tmdb": 169636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

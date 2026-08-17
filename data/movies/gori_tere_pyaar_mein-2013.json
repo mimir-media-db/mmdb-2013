@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gori_tere_pyaar_mein_2013",
+  "title": "Gori Tere Pyaar Mein",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5586421",
+    "imdb": "tt2275794",
+    "tmdb": 237305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 150
+}

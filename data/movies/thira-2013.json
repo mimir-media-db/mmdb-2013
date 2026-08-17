@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thira_2013",
+  "title": "Thira",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15147660",
+    "imdb": "tt3329774",
+    "tmdb": 239793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

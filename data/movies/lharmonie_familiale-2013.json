@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lharmonie_familiale_2013",
+  "title": "L'Harmonie familiale",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16651091",
+    "imdb": "tt2835546",
+    "tmdb": 196349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shootout_at_wadala_2013",
+  "title": "Shootout at Wadala",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7501068",
+    "imdb": "tt2301155",
+    "tmdb": 188640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 151
+}

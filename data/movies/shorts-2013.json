@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shorts_2013",
+  "title": "Shorts",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254181",
+    "imdb": "tt3257168",
+    "tmdb": 224892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

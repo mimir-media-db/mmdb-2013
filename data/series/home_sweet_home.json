@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_home_sweet_home",
+  "title": "Home Sweet Home",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14173658",
+    "imdb": "tt3163298"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 64
+}

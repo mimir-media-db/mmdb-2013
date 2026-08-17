@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_for_words_2013",
+  "title": "Lost for Words",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15072252",
+    "imdb": "tt2177629",
+    "tmdb": 195412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 107
+}

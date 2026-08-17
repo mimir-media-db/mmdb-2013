@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_t_2013",
+  "title": "White T",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17594129",
+    "imdb": "tt1833835",
+    "tmdb": 171761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

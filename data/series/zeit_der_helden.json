@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zeit_der_helden",
+  "title": "Zeit der Helden",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15427350",
+    "imdb": "tt2779016",
+    "tmdb": 61229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

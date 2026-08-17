@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nena_saludame_al_diego_2013",
+  "title": "Nena, saludame al Diego",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16942077",
+    "imdb": "tt2651054",
+    "tmdb": 201876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

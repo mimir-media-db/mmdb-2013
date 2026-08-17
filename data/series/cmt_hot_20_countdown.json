@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cmt_hot_20_countdown",
+  "title": "CMT Hot 20 Countdown",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5013029"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

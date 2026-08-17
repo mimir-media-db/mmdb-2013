@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_general_yang_2013",
+  "title": "Saving General Yang",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7988443",
+    "imdb": "tt2072220",
+    "tmdb": 181009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

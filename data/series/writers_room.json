@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_writers_room",
+  "title": "The Writers' Room",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7776331",
+    "imdb": "tt3059532",
+    "tmdb": 89401
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

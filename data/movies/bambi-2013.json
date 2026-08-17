@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bambi_2013",
+  "title": "Bambi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12136489",
+    "imdb": "tt2668120",
+    "tmdb": 171944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ritter_rost",
+  "title": "Ritter Rost",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25467140",
+    "imdb": "tt3303018",
+    "tmdb": 64125
+  },
+  "last_updated": "2026-08-17"
+}

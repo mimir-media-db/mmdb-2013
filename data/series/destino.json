@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_destino",
+  "title": "Destino",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5265214",
+    "imdb": "tt2845452",
+    "tmdb": 46620
+  },
+  "last_updated": "2026-08-17"
+}

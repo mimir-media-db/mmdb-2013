@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_center_girl_2013",
+  "title": "Call Center Girl",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954981",
+    "imdb": "tt3361152",
+    "tmdb": 254252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

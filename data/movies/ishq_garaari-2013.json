@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_garaari_2013",
+  "title": "Ishq Garaari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983438",
+    "imdb": "tt3213204",
+    "tmdb": 229744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_military_academy_2_2013",
+  "title": "Military Academy 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16082476",
+    "imdb": "tt3135546",
+    "tmdb": 339247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 120
+}

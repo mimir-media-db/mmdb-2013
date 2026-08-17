@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_senor_de_los_cielos",
+  "title": "El señor de los cielos",
+  "start_year": 2013,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q484825",
+    "imdb": "tt2777882",
+    "tmdb": 44953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 796
+}

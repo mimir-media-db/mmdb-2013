@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_ink",
+  "title": "Bad Ink",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16836822",
+    "imdb": "tt3116986",
+    "tmdb": 63018
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_princess_2013",
+  "title": "War Princess",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13462318",
+    "imdb": "tt2985814",
+    "tmdb": 311663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cipularangs_mystery_2013",
+  "title": "Cipularang’s Mystery",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12498640",
+    "imdb": "tt2773822",
+    "tmdb": 578171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

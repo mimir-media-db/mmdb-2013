@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jalanan_2013",
+  "title": "Jalanan",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052006",
+    "imdb": "tt2664228",
+    "tmdb": 260233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}

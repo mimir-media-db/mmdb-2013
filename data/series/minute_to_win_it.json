@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_minute_to_win_it",
+  "title": "Minute to Win It",
+  "start_year": 2013,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q18152739",
+    "imdb": "tt1615676",
+    "tmdb": 32412
+  },
+  "last_updated": "2026-08-17"
+}

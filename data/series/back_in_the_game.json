@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_back_in_the_game",
+  "title": "Back in the Game",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13382613",
+    "imdb": "tt2655470",
+    "tmdb": 50832
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

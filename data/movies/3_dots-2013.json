@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_dots_2013",
+  "title": "3 Dots",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4636486",
+    "imdb": "tt2866804",
+    "tmdb": 181761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

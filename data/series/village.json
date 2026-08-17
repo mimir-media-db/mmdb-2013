@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_village",
+  "title": "The Village",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7772631",
+    "imdb": "tt2394340",
+    "tmdb": 46878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

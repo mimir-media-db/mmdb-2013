@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_man_rise_of_technovore_2013",
+  "title": "Iron Man: Rise of Technovore",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15971587",
+    "imdb": "tt2654124",
+    "tmdb": 169934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

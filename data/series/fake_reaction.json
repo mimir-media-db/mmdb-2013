@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fake_reaction",
+  "title": "Fake Reaction",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5431474",
+    "imdb": "tt2192098"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

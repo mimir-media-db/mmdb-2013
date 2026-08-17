@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_melody_of_love",
+  "title": "Melody of Love",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15216721",
+    "imdb": "tt3673612",
+    "tmdb": 72257
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 135
+}

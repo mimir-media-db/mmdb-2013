@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_people_2013",
+  "title": "Night People",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11323608",
+    "imdb": "tt2282895",
+    "tmdb": 243766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

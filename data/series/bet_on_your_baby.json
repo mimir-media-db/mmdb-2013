@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bet_on_your_baby",
+  "title": "Bet on Your Baby",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16840907",
+    "imdb": "tt2689384",
+    "tmdb": 58933
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

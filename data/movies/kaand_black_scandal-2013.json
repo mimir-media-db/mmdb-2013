@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaand_black_scandal_2013",
+  "title": "Kaand: Black Scandal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17006636",
+    "imdb": "tt3728220",
+    "tmdb": 303320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

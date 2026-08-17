@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stopy_zivota",
+  "title": "Stopy života",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56650192",
+    "imdb": "tt4210886",
+    "tmdb": 260821
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

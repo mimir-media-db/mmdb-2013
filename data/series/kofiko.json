@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kofiko",
+  "title": "Kofiko",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12411013",
+    "imdb": "tt0446226",
+    "tmdb": 50987
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 92
+}

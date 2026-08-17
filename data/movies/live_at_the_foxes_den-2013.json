@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_the_foxes_den_2013",
+  "title": "Live at the Foxes Den",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6656714",
+    "imdb": "tt1951176",
+    "tmdb": 240737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

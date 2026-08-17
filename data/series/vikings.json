@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vikings",
+  "title": "Vikings",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q2579463",
+    "imdb": "tt2306299",
+    "tmdb": 44217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 89
+}

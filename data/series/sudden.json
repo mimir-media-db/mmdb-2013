@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sudden",
+  "title": "Sudden",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17054232",
+    "tmdb": 57886
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

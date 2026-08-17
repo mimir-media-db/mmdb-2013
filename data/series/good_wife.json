@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_good_wife",
+  "title": "A Good Wife",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15898704",
+    "imdb": "tt3983112",
+    "tmdb": 57146
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

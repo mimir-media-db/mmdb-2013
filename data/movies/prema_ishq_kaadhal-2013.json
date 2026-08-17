@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prema_ishq_kaadhal_2013",
+  "title": "Prema Ishq Kaadhal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522849",
+    "imdb": "tt4050576",
+    "tmdb": 253579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

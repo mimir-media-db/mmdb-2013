@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miraes_choice",
+  "title": "Mirae's Choice",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14866982",
+    "imdb": "tt3357418",
+    "tmdb": 59046
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

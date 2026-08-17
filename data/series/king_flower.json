@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_king_flower",
+  "title": "King Flower",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6411580",
+    "imdb": "tt6357796",
+    "tmdb": 46593
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 21
+}

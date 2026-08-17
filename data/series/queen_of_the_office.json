@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_the_office",
+  "title": "Queen of the Office",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6402787",
+    "imdb": "tt3375996",
+    "tmdb": 78163
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_mentor_2013",
+  "title": "Le Mentor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3224497",
+    "imdb": "tt2175747",
+    "tmdb": 184029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

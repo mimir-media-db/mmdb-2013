@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20000_besos_2013",
+  "title": "20.000 Besos",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15062263",
+    "imdb": "tt2241376",
+    "tmdb": 247684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 91
+}

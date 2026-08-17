@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panic_5_bravo_2013",
+  "title": "Panic 5 Bravo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17083887",
+    "imdb": "tt3036600",
+    "tmdb": 258655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

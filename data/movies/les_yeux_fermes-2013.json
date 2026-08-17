@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_yeux_fermes_2013",
+  "title": "Les Yeux fermés",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16655444",
+    "imdb": "tt2892430",
+    "tmdb": 617415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

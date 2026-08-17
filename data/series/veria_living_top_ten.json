@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_veria_living_top_ten",
+  "title": "Veria Living Top Ten",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131349554",
+    "imdb": "tt3466554"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nathan_for_you",
+  "title": "Nathan for You",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q10935299",
+    "imdb": "tt2297757",
+    "tmdb": 58957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 31
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_day",
+  "title": "New Day",
+  "start_year": 2013,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q15995353",
+    "imdb": "tt3002456",
+    "tmdb": 213133
+  },
+  "last_updated": "2026-08-17"
+}

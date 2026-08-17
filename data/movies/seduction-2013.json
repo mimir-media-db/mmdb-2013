@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seduction_2013",
+  "title": "Seduction",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7445403",
+    "imdb": "tt2667242",
+    "tmdb": 192850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

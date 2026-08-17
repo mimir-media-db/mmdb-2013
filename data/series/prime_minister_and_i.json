@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prime_minister_and_i",
+  "title": "Prime Minister and I",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15099450",
+    "imdb": "tt3284102",
+    "tmdb": 61048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

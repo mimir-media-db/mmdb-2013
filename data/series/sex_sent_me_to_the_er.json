@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_sent_me_to_the_er",
+  "title": "Sex Sent Me to the ER",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17109262",
+    "imdb": "tt3415250",
+    "tmdb": 60950
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

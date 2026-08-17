@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_good_morning_boss",
+  "title": "Good Morning Boss",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5582778",
+    "tmdb": 58513
+  },
+  "last_updated": "2026-08-17"
+}

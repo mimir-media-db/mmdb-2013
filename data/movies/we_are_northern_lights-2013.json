@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_northern_lights_2013",
+  "title": "We Are Northern Lights",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17041377",
+    "imdb": "tt2733992",
+    "tmdb": 191558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

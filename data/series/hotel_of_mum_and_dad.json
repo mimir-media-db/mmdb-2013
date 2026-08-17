@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_of_mum_and_dad",
+  "title": "Hotel of Mum and Dad",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16994324",
+    "imdb": "tt3219470"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

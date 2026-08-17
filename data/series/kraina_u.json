@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kraina_u",
+  "title": "Kraina U",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20078261",
+    "imdb": "tt7088228"
+  },
+  "last_updated": "2026-08-17"
+}

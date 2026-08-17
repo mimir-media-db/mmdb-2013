@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_broadchurch",
+  "title": "Broadchurch",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q4972159",
+    "imdb": "tt2249364",
+    "tmdb": 1427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

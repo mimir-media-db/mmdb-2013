@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_hipocondriaca",
+  "title": "La hipocondríaca",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5963792",
+    "imdb": "tt2718220",
+    "tmdb": 80377
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

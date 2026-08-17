@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kansan_mies",
+  "title": "Kansan mies",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18679735",
+    "imdb": "tt3020464",
+    "tmdb": 136421
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

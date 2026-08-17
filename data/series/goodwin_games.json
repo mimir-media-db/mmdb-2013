@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_goodwin_games",
+  "title": "The Goodwin Games",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q966757",
+    "imdb": "tt2244871",
+    "tmdb": 44008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

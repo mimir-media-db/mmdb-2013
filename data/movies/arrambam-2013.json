@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arrambam_2013",
+  "title": "Arrambam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7909204",
+    "imdb": "tt2555958",
+    "tmdb": 188540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

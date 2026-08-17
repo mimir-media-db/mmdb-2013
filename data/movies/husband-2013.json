@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_husband_2013",
+  "title": "The Husband",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949754",
+    "imdb": "tt2565650",
+    "tmdb": 212719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_patriot_yue_fei",
+  "title": "The Patriot Yue Fei",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7756358",
+    "imdb": "tt5544284",
+    "tmdb": 49051
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 69
+}

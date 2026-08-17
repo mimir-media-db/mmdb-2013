@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spec_close_2013",
+  "title": "SPEC: Close",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10855668",
+    "imdb": "tt2641866",
+    "tmdb": 286737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

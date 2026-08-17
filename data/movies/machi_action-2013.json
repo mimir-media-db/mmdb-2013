@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machi_action_2013",
+  "title": "Machi Action",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15899550",
+    "imdb": "tt2927080",
+    "tmdb": 188536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 94
+}

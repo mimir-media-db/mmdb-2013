@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_ultimos_dias_2013",
+  "title": "Los últimos días",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3259795",
+    "imdb": "tt1935914",
+    "tmdb": 168138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

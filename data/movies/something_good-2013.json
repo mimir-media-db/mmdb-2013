@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_good_2013",
+  "title": "Something Good",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16607563",
+    "imdb": "tt2542502",
+    "tmdb": 236329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_dakota_fly_2013",
+  "title": "Fly, Dakota, Fly!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17229345",
+    "imdb": "tt2024539",
+    "tmdb": 439599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

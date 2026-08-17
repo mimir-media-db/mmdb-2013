@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_side_om_side",
+  "title": "Side om side",
+  "start_year": 2013,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q17415569",
+    "imdb": "tt3138102",
+    "tmdb": 67581
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 100
+}

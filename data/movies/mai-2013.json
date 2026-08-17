@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mai_2013",
+  "title": "Mai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6735099",
+    "imdb": "tt2389486",
+    "tmdb": 238165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

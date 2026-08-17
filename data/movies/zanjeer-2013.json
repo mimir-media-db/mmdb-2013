@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zanjeer_2013",
+  "title": "Zanjeer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8066228",
+    "imdb": "tt2357489",
+    "tmdb": 218898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

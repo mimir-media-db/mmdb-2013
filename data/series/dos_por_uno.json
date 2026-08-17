@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dos_por_uno",
+  "title": "Dos por uno",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1765231",
+    "imdb": "tt2759640",
+    "tmdb": 58854
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 117
+}

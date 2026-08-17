@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fright_night_2_new_blood_2013",
+  "title": "Fright Night 2: New Blood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040681",
+    "imdb": "tt2486630",
+    "tmdb": 214597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

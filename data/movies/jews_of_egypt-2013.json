@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jews_of_egypt_2013",
+  "title": "Jews of Egypt",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10813632",
+    "imdb": "tt2507458",
+    "tmdb": 261875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

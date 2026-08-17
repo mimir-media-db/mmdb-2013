@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_karagul",
+  "title": "Karagul",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q12810246",
+    "imdb": "tt2735484",
+    "tmdb": 50236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 125
+}

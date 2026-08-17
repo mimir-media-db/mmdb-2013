@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_galapagos_3d",
+  "title": "Galapagos 3D",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5517959",
+    "imdb": "tt2242910",
+    "tmdb": 59437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

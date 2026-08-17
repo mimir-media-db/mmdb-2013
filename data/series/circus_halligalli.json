@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_circus_halligalli",
+  "title": "Circus HalliGalli",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q15794489",
+    "imdb": "tt2717740",
+    "tmdb": 53438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 136
+}

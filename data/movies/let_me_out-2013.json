@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_me_out_2013",
+  "title": "Let Me Out",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16256320",
+    "imdb": "tt2147718",
+    "tmdb": 102628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

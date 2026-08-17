@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_don_jon_2013",
+  "title": "Don Jon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q499918",
+    "imdb": "tt2229499",
+    "tmdb": 138697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

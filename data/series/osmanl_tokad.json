@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_osmanl_tokad",
+  "title": "Osmanlı Tokadı",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20474360",
+    "imdb": "tt4769000"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 37
+}

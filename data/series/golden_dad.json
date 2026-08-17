@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_dad",
+  "title": "Golden Dad",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15901332",
+    "tmdb": 252830
+  },
+  "last_updated": "2026-08-17"
+}

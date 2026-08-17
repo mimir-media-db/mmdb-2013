@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f_639_love_sickness_2013",
+  "title": "F 63.9 Love Sickness",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16687743",
+    "imdb": "tt3030452",
+    "tmdb": 335671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

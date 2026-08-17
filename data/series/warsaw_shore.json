@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_warsaw_shore",
+  "title": "Warsaw Shore",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16614266",
+    "imdb": "tt4662998",
+    "tmdb": 74523
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 93
+}

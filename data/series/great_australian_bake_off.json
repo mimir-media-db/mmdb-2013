@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_great_australian_bake_off",
+  "title": "The Great Australian Bake Off",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17005706",
+    "imdb": "tt2569326",
+    "tmdb": 58779
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fixer_upper",
+  "title": "Fixer Upper",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18175508",
+    "imdb": "tt4591390",
+    "tmdb": 60911
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}

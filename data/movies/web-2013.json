@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_web_2013",
+  "title": "Web",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18201769",
+    "imdb": "tt3392142",
+    "tmdb": 154788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

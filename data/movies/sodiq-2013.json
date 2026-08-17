@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sodiq_2013",
+  "title": "Sodiq",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16717082",
+    "imdb": "tt2848810",
+    "tmdb": 1690746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

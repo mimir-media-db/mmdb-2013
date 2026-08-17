@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naveena_saraswathi_sabatham_2013",
+  "title": "Naveena Saraswathi Sabatham",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15046113",
+    "imdb": "tt3253548",
+    "tmdb": 239651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

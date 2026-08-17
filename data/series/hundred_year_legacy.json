@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hundred_year_legacy",
+  "title": "A Hundred Year Legacy",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2582600",
+    "imdb": "tt5679588",
+    "tmdb": 48705
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

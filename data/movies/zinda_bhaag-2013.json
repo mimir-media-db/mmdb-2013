@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zinda_bhaag_2013",
+  "title": "Zinda Bhaag",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14912470",
+    "imdb": "tt2387627",
+    "tmdb": 220923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

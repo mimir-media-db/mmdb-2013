@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_dial_2013",
+  "title": "Miss Dial",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16965083",
+    "imdb": "tt1819601",
+    "tmdb": 177851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

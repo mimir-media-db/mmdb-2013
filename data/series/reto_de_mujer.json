@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reto_de_mujer",
+  "title": "Reto de mujer",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6106714",
+    "imdb": "tt2471860",
+    "tmdb": 107076
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 62
+}

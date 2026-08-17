@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_queen",
+  "title": "The Queen!",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15900637",
+    "imdb": "tt4275178"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

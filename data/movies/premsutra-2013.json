@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_premsutra_2013",
+  "title": "Premsutra",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240514",
+    "imdb": "tt3059424"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

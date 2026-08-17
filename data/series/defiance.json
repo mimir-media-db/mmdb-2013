@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_defiance",
+  "title": "Defiance",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2080272",
+    "imdb": "tt2189221",
+    "tmdb": 51704
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 38
+}

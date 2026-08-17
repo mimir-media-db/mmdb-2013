@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_kroongetuigen",
+  "title": "De Kroongetuigen",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18821595",
+    "imdb": "tt4435094",
+    "tmdb": 65402
+  },
+  "last_updated": "2026-08-17"
+}

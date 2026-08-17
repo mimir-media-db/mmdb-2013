@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_good_and_evil_2013",
+  "title": "House of Good and Evil",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3141349",
+    "imdb": "tt1068953",
+    "tmdb": 239019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}

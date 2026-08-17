@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fatal_attraction",
+  "title": "Fatal Attraction",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28442822",
+    "imdb": "tt2912216",
+    "tmdb": 73884
+  },
+  "last_updated": "2026-08-17"
+}

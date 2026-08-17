@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brooklyn_da",
+  "title": "Brooklyn DA",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15036044",
+    "imdb": "tt2947494",
+    "tmdb": 323032
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

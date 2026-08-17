@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spark_a_burning_man_story_2013",
+  "title": "Spark: A Burning Man Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170461",
+    "imdb": "tt2554648",
+    "tmdb": 173488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

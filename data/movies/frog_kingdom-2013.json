@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frog_kingdom_2013",
+  "title": "The Frog Kingdom",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17003216",
+    "imdb": "tt4162910",
+    "tmdb": 346965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

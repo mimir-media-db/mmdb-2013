@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_british_sewing_bee",
+  "title": "The Great British Sewing Bee",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16993246",
+    "imdb": "tt3010856",
+    "tmdb": 59690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 55
+}

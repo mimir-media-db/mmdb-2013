@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_place_to_call_home",
+  "title": "A Place to Call Home",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q4658889",
+    "imdb": "tt2258904",
+    "tmdb": 47335
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 67
+}

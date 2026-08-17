@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_samaritans",
+  "title": "Bad Samaritans",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17049828",
+    "imdb": "tt2726918",
+    "tmdb": 46891
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

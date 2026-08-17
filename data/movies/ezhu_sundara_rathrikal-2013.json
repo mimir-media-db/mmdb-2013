@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ezhu_sundara_rathrikal_2013",
+  "title": "Ezhu Sundara Rathrikal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15406043",
+    "imdb": "tt3422428",
+    "tmdb": 245493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

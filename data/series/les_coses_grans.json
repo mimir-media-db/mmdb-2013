@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_les_coses_grans",
+  "title": "Les coses grans",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23498747",
+    "imdb": "tt2981562"
+  },
+  "last_updated": "2026-08-17"
+}

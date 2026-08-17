@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_getting_on",
+  "title": "Getting On",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15736089",
+    "imdb": "tt2342652",
+    "tmdb": 57756
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

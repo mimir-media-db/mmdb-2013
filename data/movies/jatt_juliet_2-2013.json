@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatt_juliet_2_2013",
+  "title": "Jatt & Juliet 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6164695",
+    "imdb": "tt2673882",
+    "tmdb": 203599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

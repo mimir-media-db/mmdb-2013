@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_people_2013",
+  "title": "Shadow People",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17064321",
+    "imdb": "tt1764647",
+    "tmdb": 176570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

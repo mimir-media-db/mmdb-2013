@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_million_second_quiz",
+  "title": "The Million Second Quiz",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14898907",
+    "imdb": "tt3038492",
+    "tmdb": 57809
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

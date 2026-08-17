@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_aunts_theory_2013",
+  "title": "My Aunt's Theory",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15527028",
+    "imdb": "tt3375104",
+    "tmdb": 372138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

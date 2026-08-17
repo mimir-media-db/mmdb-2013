@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bin_phere_free_me_ttere_2013",
+  "title": "Bin Phere Free Me Ttere",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040715",
+    "imdb": "tt3260588",
+    "tmdb": 342066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

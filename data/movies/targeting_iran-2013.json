@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_targeting_iran_2013",
+  "title": "Targeting Iran",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16821777",
+    "imdb": "tt3014528"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alpha_house",
+  "title": "Alpha House",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15219382",
+    "imdb": "tt3012160",
+    "tmdb": 60719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

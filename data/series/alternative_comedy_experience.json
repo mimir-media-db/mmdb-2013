@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alternative_comedy_experience",
+  "title": "The Alternative Comedy Experience",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7713258",
+    "imdb": "tt2808348",
+    "tmdb": 157129
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

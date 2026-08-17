@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chennai_express_2013",
+  "title": "Chennai Express",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962658",
+    "imdb": "tt2112124",
+    "tmdb": 205022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 141
+}

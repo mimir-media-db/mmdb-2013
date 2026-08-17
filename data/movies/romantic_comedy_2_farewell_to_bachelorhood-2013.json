@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romantic_comedy_2_farewell_to_bachelorhood_2013",
+  "title": "Romantic Comedy 2: Farewell to Bachelorhood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450864",
+    "imdb": "tt2645104",
+    "tmdb": 171179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

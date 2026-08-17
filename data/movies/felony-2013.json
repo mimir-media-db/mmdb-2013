@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_felony_2013",
+  "title": "Felony",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3068196",
+    "imdb": "tt2402603",
+    "tmdb": 209269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

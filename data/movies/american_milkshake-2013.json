@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_milkshake_2013",
+  "title": "American Milkshake",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248410",
+    "imdb": "tt2254364",
+    "tmdb": 158864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 83
+}

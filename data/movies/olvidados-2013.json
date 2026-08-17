@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olvidados_2013",
+  "title": "Olvidados",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170231",
+    "imdb": "tt2559036",
+    "tmdb": 272095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

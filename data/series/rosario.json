@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rosario",
+  "title": "Rosario",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7367377",
+    "imdb": "tt2454936",
+    "tmdb": 92047
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 145
+}

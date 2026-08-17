@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_natale_della_mamma_imperfetta_2013",
+  "title": "Il natale della mamma imperfetta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15714207",
+    "imdb": "tt3501160",
+    "tmdb": 372395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midas_touch_2013",
+  "title": "The Midas Touch",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13534379",
+    "imdb": "tt3173512",
+    "tmdb": 220576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

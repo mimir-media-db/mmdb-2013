@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_please_kill_mr_know_it_all_2013",
+  "title": "Please Kill Mr. Know It All",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7204223",
+    "imdb": "tt1935201",
+    "tmdb": 179398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

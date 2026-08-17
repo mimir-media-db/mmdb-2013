@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_mask_of_the_blue_falcon_2013",
+  "title": "Scooby-Doo! Mask of the Blue Falcon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7434351",
+    "imdb": "tt2586070",
+    "tmdb": 151535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 78
+}

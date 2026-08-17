@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_ambition",
+  "title": "Queen of Ambition",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q28685658",
+    "imdb": "tt2856882",
+    "tmdb": 46594
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

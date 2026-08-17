@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_intikam",
+  "title": "İntikam",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q893000",
+    "imdb": "tt2575740",
+    "tmdb": 47669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}

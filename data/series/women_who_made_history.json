@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_women_who_made_history",
+  "title": "Women Who Made History",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q45845332",
+    "imdb": "tt3333802",
+    "tmdb": 67250
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

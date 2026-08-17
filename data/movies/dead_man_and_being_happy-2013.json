@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_man_and_being_happy_2013",
+  "title": "The Dead Man and Being Happy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3050333",
+    "imdb": "tt1890391",
+    "tmdb": 133082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 94
+}

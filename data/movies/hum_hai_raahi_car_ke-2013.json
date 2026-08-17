@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_hai_raahi_car_ke_2013",
+  "title": "Hum Hai Raahi Car Ke",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522821",
+    "imdb": "tt2100543",
+    "tmdb": 196312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

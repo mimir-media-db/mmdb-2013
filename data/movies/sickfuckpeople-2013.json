@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sickfuckpeople_2013",
+  "title": "Sickfuckpeople",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16722032",
+    "imdb": "tt2851294",
+    "tmdb": 219064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 75
+}

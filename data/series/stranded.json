@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stranded",
+  "title": "Stranded",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7621271",
+    "imdb": "tt2556834",
+    "tmdb": 60604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

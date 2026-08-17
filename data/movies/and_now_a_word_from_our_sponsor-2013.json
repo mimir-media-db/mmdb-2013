@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_now_a_word_from_our_sponsor_2013",
+  "title": "And Now a Word From Our Sponsor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949717",
+    "imdb": "tt2094762",
+    "tmdb": 180810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

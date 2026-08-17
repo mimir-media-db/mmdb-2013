@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jungle_bunch",
+  "title": "The Jungle Bunch",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q16654767",
+    "imdb": "tt2276589",
+    "tmdb": 68198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 158
+}

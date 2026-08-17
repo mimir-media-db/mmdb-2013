@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_girls_allstar_battle",
+  "title": "Bad Girls All-Star Battle",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15645234",
+    "imdb": "tt3228564",
+    "tmdb": 49576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

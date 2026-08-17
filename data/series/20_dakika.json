@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_20_dakika",
+  "title": "20 Dakika",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2151506",
+    "imdb": "tt2544148",
+    "tmdb": 48041
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

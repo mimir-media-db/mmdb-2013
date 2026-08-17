@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_thunder_store_2",
+  "title": "Thunder Store 2",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17503527",
+    "imdb": "tt33670397",
+    "tmdb": 137258
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

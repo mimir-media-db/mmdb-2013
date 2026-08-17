@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jungle_master_2013",
+  "title": "Jungle Master",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6312875",
+    "imdb": "tt2871776",
+    "tmdb": 292115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

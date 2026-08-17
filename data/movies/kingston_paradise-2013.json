@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kingston_paradise_2013",
+  "title": "Kingston Paradise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6413571",
+    "imdb": "tt4218058",
+    "tmdb": 476187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

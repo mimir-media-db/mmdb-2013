@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_pecheurs",
+  "title": "Les pêcheurs",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16655273",
+    "imdb": "tt3188482",
+    "tmdb": 61309
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 65
+}

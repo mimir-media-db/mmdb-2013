@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_surprise_s1",
+  "title": "Surprise S1",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56159029",
+    "imdb": "tt16297140",
+    "tmdb": 97936
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

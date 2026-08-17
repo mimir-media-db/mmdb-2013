@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nfl_insiders",
+  "title": "NFL Insiders",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17059027",
+    "imdb": "tt6469474"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_11_am_2013",
+  "title": "11 A.M.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4652765",
+    "imdb": "tt3281394",
+    "tmdb": 239853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

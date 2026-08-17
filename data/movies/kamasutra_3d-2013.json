@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamasutra_3d_2013",
+  "title": "Kamasutra 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3553361",
+    "imdb": "tt2527238",
+    "tmdb": 243797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

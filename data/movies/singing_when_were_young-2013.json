@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singing_when_were_young_2013",
+  "title": "Singing When We're Young",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15902887",
+    "imdb": "tt6449270",
+    "tmdb": 461356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antisocial_2013",
+  "title": "Antisocial",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478856",
+    "imdb": "tt2772092",
+    "tmdb": 207780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

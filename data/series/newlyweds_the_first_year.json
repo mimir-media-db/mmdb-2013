@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_newlyweds_the_first_year",
+  "title": "Newlyweds: The First Year",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17114285",
+    "imdb": "tt2010510",
+    "tmdb": 58501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_the_steal_2013",
+  "title": "The Art of the Steal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520019",
+    "imdb": "tt2172985",
+    "tmdb": 209247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

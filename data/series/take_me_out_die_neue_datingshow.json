@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_take_me_out_die_neue_datingshow",
+  "title": "Take Me Out - Die neue Dating-Show",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q50827836",
+    "imdb": "tt2624184",
+    "tmdb": 118389
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 50
+}

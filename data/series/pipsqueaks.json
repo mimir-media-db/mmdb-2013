@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pipsqueaks",
+  "title": "Pipsqueaks",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17021795",
+    "imdb": "tt7155232"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 135
+}

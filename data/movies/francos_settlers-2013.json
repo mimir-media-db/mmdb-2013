@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_francos_settlers_2013",
+  "title": "Franco's Settlers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16592838",
+    "imdb": "tt2071518",
+    "tmdb": 263971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

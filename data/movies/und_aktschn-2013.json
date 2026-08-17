@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_und_aktschn_2013",
+  "title": "Und Äktschn!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15852065",
+    "imdb": "tt2597302",
+    "tmdb": 249002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

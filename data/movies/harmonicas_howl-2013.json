@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harmonicas_howl_2013",
+  "title": "Harmonica's Howl",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17002803",
+    "imdb": "tt2362744",
+    "tmdb": 230374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 70
+}

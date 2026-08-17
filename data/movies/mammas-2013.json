@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mammas_2013",
+  "title": "Mammas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16662638",
+    "imdb": "tt2731456"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

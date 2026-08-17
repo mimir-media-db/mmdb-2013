@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_violence",
+  "title": "Sex & Violence",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16911976",
+    "imdb": "tt2931316",
+    "tmdb": 91508
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soup_investigates",
+  "title": "The Soup Investigates",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17082431",
+    "imdb": "tt3007404",
+    "tmdb": 52348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

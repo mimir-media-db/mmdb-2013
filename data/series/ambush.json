@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ambush",
+  "title": "Ambush",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16132435",
+    "imdb": "tt3209710",
+    "tmdb": 105365
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

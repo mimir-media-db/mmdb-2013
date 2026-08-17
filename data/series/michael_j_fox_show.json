@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_j_fox_show",
+  "title": "The Michael J. Fox Show",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13211494",
+    "imdb": "tt2338232",
+    "tmdb": 58942
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

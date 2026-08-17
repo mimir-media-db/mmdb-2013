@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sahasam_2013",
+  "title": "Sahasam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12605897",
+    "imdb": "tt2905768",
+    "tmdb": 208417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

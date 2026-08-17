@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_under_the_dome",
+  "title": "Under the Dome",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2947967",
+    "imdb": "tt1553656",
+    "tmdb": 46331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

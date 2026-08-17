@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_strands_2013",
+  "title": "The Deadly Strands",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16690216",
+    "imdb": "tt3911248",
+    "tmdb": 395837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

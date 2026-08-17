@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_sea_2013",
+  "title": "Dark Sea",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168858",
+    "imdb": "tt2759548",
+    "tmdb": 230430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_beautiful_day_2013",
+  "title": "It's a Beautiful Day",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040708",
+    "imdb": "tt2739358",
+    "tmdb": 333322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

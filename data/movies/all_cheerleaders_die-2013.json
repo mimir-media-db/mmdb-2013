@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_cheerleaders_die_2013",
+  "title": "All Cheerleaders Die",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040714",
+    "imdb": "tt2527186",
+    "tmdb": 210908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

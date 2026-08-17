@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aliados",
+  "title": "Aliados",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7190534",
+    "imdb": "tt3011212",
+    "tmdb": 83720
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

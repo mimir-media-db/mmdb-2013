@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_course_of_events_2013",
+  "title": "A Strange Course of Events",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13380384",
+    "imdb": "tt2901690",
+    "tmdb": 188532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

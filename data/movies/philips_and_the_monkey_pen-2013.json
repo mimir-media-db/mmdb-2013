@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_philips_and_the_monkey_pen_2013",
+  "title": "Philips and the Monkey Pen",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252985",
+    "imdb": "tt3323920",
+    "tmdb": 238411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

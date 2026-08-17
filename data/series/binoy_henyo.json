@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_binoy_henyo",
+  "title": "Binoy Henyo",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14171946",
+    "imdb": "tt3255364",
+    "tmdb": 58960
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

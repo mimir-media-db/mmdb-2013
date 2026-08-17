@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hinterland",
+  "title": "Hinterland",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15129848",
+    "imdb": "tt2575968",
+    "tmdb": 60605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

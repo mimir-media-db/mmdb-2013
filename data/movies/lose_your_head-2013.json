@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lose_your_head_2013",
+  "title": "Lose Your Head",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3259798",
+    "imdb": "tt2624316",
+    "tmdb": 168366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_episode_in_the_life_of_an_iron_picker_2013",
+  "title": "An Episode in the Life of an Iron Picker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4749923",
+    "imdb": "tt2507592",
+    "tmdb": 159942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 75
+}

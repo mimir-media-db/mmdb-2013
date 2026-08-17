@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babes_rickeys_inn_2013",
+  "title": "Babe’s & Rickey’s Inn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16245998",
+    "imdb": "tt1531628",
+    "tmdb": 168768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

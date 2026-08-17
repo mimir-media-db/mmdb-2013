@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_father_2013",
+  "title": "Playing Father",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16669046",
+    "imdb": "tt2202800",
+    "tmdb": 219980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

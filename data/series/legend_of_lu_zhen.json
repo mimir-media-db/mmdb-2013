@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_lu_zhen",
+  "title": "Legend of Lu Zhen",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15469401",
+    "imdb": "tt6176636",
+    "tmdb": 69395
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 59
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_jeux_des_nuages_et_de_la_pluie_2013",
+  "title": "Les jeux des nuages et de la pluie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233426",
+    "imdb": "tt1857766",
+    "tmdb": 155888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

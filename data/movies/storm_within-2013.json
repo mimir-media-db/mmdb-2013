@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_within_2013",
+  "title": "The Storm Within",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17021945",
+    "imdb": "tt2342287",
+    "tmdb": 174661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

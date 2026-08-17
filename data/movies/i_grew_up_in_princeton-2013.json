@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_grew_up_in_princeton_2013",
+  "title": "I Grew Up in Princeton",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251661",
+    "imdb": "tt3285658",
+    "tmdb": 582445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

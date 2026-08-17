@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adventures_of_napkin_man",
+  "title": "The Adventures of Napkin Man",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19570755",
+    "imdb": "tt3673456",
+    "tmdb": 212934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 46
+}

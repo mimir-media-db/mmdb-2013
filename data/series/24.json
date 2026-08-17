@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24",
+  "title": "24",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16001005",
+    "imdb": "tt2792284",
+    "tmdb": 47343
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 48
+}

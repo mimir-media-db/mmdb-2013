@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adda_2013",
+  "title": "Adda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4680990",
+    "imdb": "tt2797672",
+    "tmdb": 410305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

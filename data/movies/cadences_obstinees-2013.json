@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cadences_obstinees_2013",
+  "title": "Cadences obstinées",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16627184",
+    "imdb": "tt2589070",
+    "tmdb": 247464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

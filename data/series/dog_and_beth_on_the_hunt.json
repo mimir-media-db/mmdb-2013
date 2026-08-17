@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_and_beth_on_the_hunt",
+  "title": "Dog and Beth: On the Hunt",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5288247",
+    "imdb": "tt2415958",
+    "tmdb": 58647
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 47
+}

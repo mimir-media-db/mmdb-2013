@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amaro_amore_2013",
+  "title": "Amaro amore",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478817",
+    "imdb": "tt1705099",
+    "tmdb": 196489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

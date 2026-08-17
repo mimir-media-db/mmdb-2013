@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_days_on_mars_2013",
+  "title": "The Last Days on Mars",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3218379",
+    "imdb": "tt1709143",
+    "tmdb": 190847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

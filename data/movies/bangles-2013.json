@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bangles_2013",
+  "title": "Bangles",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4855513",
+    "imdb": "tt3949640"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

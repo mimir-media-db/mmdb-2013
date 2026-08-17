@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subete_wa_kimi_ni_aeta_kara_2013",
+  "title": "Subete wa Kimi ni Aeta kara",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15217291",
+    "imdb": "tt3024056",
+    "tmdb": 268528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 106
+}

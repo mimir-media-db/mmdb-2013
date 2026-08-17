@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tropenjaren",
+  "title": "Tropenjaren",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6754251",
+    "imdb": "tt19730486",
+    "tmdb": 197846
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

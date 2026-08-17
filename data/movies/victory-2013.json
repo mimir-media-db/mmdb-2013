@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_victory_2013",
+  "title": "Victory",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17088519",
+    "imdb": "tt3099372",
+    "tmdb": 289277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

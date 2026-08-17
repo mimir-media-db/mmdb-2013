@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_thy_neighbor",
+  "title": "Love Thy Neighbor",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6691429",
+    "imdb": "tt2834032",
+    "tmdb": 46431
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 118
+}

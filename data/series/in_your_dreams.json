@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_your_dreams",
+  "title": "In Your Dreams",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15106894",
+    "imdb": "tt3042038",
+    "tmdb": 60999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

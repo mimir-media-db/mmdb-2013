@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gallery_of_fear_2013",
+  "title": "Gallery of Fear",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040705",
+    "imdb": "tt1772871",
+    "tmdb": 271050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

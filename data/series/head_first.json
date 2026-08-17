@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_head_first",
+  "title": "Head First",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16252367",
+    "imdb": "tt2882752"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_sisters_and_a_wedding_2013",
+  "title": "Four Sisters and a Wedding",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17002252",
+    "imdb": "tt3008034",
+    "tmdb": 205015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

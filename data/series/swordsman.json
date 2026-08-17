@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_swordsman",
+  "title": "Swordsman",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2582233",
+    "imdb": "tt2184430",
+    "tmdb": 48139
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

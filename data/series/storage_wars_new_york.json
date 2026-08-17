@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_storage_wars_new_york",
+  "title": "Storage Wars: New York",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7619917",
+    "imdb": "tt2611472",
+    "tmdb": 57752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

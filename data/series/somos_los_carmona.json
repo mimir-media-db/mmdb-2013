@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_somos_los_carmona",
+  "title": "Somos Los Carmona",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14657294",
+    "imdb": "tt3234226",
+    "tmdb": 290474
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

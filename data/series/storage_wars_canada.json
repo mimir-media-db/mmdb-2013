@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_storage_wars_canada",
+  "title": "Storage Wars: Canada",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16988061",
+    "imdb": "tt3155428",
+    "tmdb": 57718
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_minna_esper_dayo",
+  "title": "Minna! ESPer Dayo!",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q48966072",
+    "imdb": "tt2556306",
+    "tmdb": 53119
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

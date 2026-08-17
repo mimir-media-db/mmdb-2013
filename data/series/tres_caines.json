@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tres_caines",
+  "title": "Tres Caínes",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5943906",
+    "imdb": "tt2787900",
+    "tmdb": 58457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dehraadun_diary_2013",
+  "title": "Dehraadun Diary",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14957163",
+    "imdb": "tt2613942",
+    "tmdb": 162086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

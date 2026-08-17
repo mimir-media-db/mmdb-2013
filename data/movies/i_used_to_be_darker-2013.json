@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_used_to_be_darker_2013",
+  "title": "I Used to Be Darker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251701",
+    "imdb": "tt2147728",
+    "tmdb": 110550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

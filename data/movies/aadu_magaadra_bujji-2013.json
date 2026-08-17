@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadu_magaadra_bujji_2013",
+  "title": "Aadu Magaadra Bujji",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15283743",
+    "imdb": "tt2836836",
+    "tmdb": 381681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

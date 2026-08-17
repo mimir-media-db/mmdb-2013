@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mia_mamma_suona_il_rock_2013",
+  "title": "La mia mamma suona il rock",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13424198",
+    "imdb": "tt2667330",
+    "tmdb": 190290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

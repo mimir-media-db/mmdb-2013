@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dandarin_rules",
+  "title": "Dandarin Rules",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137797242",
+    "imdb": "tt3122084",
+    "tmdb": 58148
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

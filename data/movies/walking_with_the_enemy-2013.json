@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_with_the_enemy_2013",
+  "title": "Walking with the Enemy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7962537",
+    "imdb": "tt1515208",
+    "tmdb": 256476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

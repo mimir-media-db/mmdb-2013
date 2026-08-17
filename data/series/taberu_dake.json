@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_taberu_dake",
+  "title": "Taberu dake",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q110194493",
+    "imdb": "tt2988070",
+    "tmdb": 223192
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

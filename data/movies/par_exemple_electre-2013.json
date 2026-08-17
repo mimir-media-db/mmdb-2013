@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_par_exemple_electre_2013",
+  "title": "Par exemple, Électre",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12151328",
+    "imdb": "tt2662134",
+    "tmdb": 283470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

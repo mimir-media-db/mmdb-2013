@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_julia_zemiros_home_delivery",
+  "title": "Julia Zemiro's Home Delivery",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17008637",
+    "imdb": "tt3164096",
+    "tmdb": 59878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 35
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bad_wolves_2013",
+  "title": "Big Bad Wolves",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14434297",
+    "imdb": "tt2309224",
+    "tmdb": 171540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

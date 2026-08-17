@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_rich_atlanta",
+  "title": "Big Rich Atlanta",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4906181",
+    "imdb": "tt2524052",
+    "tmdb": 58709
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

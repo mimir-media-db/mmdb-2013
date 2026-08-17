@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_night_out",
+  "title": "Great Night Out",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5599628",
+    "imdb": "tt2546184",
+    "tmdb": 58729
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

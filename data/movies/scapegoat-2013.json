@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scapegoat_2013",
+  "title": "The Scapegoat",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870286",
+    "imdb": "tt2129887",
+    "tmdb": 204709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

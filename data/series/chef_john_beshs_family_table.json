@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_chef_john_beshs_family_table",
+  "title": "Chef John Besh's Family Table",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118898055",
+    "imdb": "tt3612292"
+  },
+  "last_updated": "2026-08-17"
+}

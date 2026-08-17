@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_graduados",
+  "title": "Graduados",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5884060",
+    "imdb": "tt2739560"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 201
+}

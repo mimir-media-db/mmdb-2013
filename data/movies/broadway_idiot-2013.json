@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broadway_idiot_2013",
+  "title": "Broadway Idiot",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15076240",
+    "imdb": "tt2689966",
+    "tmdb": 177703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 80
+}

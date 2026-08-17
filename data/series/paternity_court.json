@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paternity_court",
+  "title": "Paternity Court",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q7144550",
+    "imdb": "tt3226310",
+    "tmdb": 105315
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 366
+}

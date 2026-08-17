@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_familia",
+  "title": "Familia",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q11681768",
+    "imdb": "tt2171784",
+    "tmdb": 62509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

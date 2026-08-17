@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cro_o_filme_2013",
+  "title": "Crô: O Filme",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10374863",
+    "imdb": "tt2938008",
+    "tmdb": 227968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

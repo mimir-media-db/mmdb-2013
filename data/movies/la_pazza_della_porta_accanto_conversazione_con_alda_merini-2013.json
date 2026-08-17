@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pazza_della_porta_accanto_conversazione_con_alda_merini_2013",
+  "title": "La pazza della porta accanto: Conversazione con Alda Merini",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479114",
+    "imdb": "tt3499870",
+    "tmdb": 297207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 52
+}

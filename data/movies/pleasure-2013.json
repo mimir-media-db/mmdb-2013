@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pleasure_2013",
+  "title": "Pleasure",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13426804",
+    "imdb": "tt2922112",
+    "tmdb": 199702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

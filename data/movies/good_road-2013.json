@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_road_2013",
+  "title": "The Good Road",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14934444",
+    "imdb": "tt3037260",
+    "tmdb": 223009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 89
+}

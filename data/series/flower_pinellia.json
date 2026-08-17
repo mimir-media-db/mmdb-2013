@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flower_pinellia",
+  "title": "Flower Pinellia",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15910481",
+    "imdb": "tt10995822",
+    "tmdb": 126286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

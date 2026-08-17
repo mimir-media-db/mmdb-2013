@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outing_fidanzati_per_sbaglio_2013",
+  "title": "Outing - Fidanzati per sbaglio",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3887560",
+    "imdb": "tt2408696",
+    "tmdb": 181565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

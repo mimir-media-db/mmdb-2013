@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_con_il_fiato_sospeso_2013",
+  "title": "Con il fiato sospeso",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16543480",
+    "imdb": "tt3154404",
+    "tmdb": 480146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 35
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suspension_of_disbelief_2013",
+  "title": "Suspension of Disbelief",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3505719",
+    "imdb": "tt2265565",
+    "tmdb": 204761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

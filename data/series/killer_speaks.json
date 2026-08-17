@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_killer_speaks",
+  "title": "The Killer Speaks",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15036254",
+    "imdb": "tt2860762",
+    "tmdb": 46451
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

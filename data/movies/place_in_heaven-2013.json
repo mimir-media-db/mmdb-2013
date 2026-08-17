@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_in_heaven_2013",
+  "title": "A Place in Heaven",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17014051",
+    "imdb": "tt2960994",
+    "tmdb": 214132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 117
+}

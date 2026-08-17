@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dil_pardesi_ho_gia_2013",
+  "title": "Dil Pardesi Ho Gia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5276635",
+    "imdb": "tt12385290",
+    "tmdb": 282770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

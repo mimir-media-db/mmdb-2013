@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strange_hill_high",
+  "title": "Strange Hill High",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17022110",
+    "imdb": "tt2932272",
+    "tmdb": 58858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_skoda_lasky",
+  "title": "Skoda lásky",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102383220",
+    "imdb": "tt3436130",
+    "tmdb": 94419
+  },
+  "last_updated": "2026-08-17"
+}

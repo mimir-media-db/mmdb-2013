@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_girl_2013",
+  "title": "The Forbidden Girl",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2415517",
+    "imdb": "tt1763305",
+    "tmdb": 173854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bakit_hindi_ka_crush_ng_crush_mo_2013",
+  "title": "Bakit Hindi Ka Crush Ng Crush Mo?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16950080",
+    "imdb": "tt3094914",
+    "tmdb": 214129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

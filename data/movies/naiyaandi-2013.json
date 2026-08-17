@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naiyaandi_2013",
+  "title": "Naiyaandi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6959854",
+    "imdb": "tt3219310",
+    "tmdb": 224648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

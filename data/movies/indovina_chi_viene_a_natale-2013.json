@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_indovina_chi_viene_a_natale_2013",
+  "title": "Indovina chi viene a Natale?",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16565739",
+    "imdb": "tt3420060",
+    "tmdb": 244516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joia_rara",
+  "title": "Joia Rara",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15730186",
+    "imdb": "tt3220864",
+    "tmdb": 64499
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 173
+}

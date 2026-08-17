@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shane_delias_spice_journey",
+  "title": "Shane Delia's Spice Journey",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17032963",
+    "imdb": "tt3025968",
+    "tmdb": 53168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

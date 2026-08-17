@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_television_2013",
+  "title": "Television",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7696945",
+    "imdb": "tt2564706",
+    "tmdb": 133479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 106
+}

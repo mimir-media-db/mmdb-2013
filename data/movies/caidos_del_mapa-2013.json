@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caidos_del_mapa_2013",
+  "title": "Caídos del mapa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16489899",
+    "imdb": "tt3173396",
+    "tmdb": 398032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

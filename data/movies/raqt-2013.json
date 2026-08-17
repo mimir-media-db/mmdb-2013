@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raqt_2013",
+  "title": "Raqt",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253593",
+    "imdb": "tt3169704",
+    "tmdb": 303365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

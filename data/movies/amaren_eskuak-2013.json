@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amaren_eskuak_2013",
+  "title": "Amaren eskuak",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16516111",
+    "imdb": "tt2386536",
+    "tmdb": 219346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

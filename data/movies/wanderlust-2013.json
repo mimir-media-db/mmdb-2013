@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wanderlust_2013",
+  "title": "Wanderlust",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15853615",
+    "imdb": "tt3127076",
+    "tmdb": 340874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

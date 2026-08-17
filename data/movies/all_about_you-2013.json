@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_you_2013",
+  "title": "All About You",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16618445",
+    "imdb": "tt2302531",
+    "tmdb": 184681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

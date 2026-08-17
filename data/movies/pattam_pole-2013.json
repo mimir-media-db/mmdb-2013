@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattam_pole_2013",
+  "title": "Pattam Pole",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7148306",
+    "imdb": "tt3261912",
+    "tmdb": 253229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_these_final_hours_2013",
+  "title": "These Final Hours",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17056664",
+    "imdb": "tt2268458",
+    "tmdb": 199575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

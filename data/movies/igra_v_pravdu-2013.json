@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_igra_v_pravdu_2013",
+  "title": "Igra v pravdu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270650",
+    "imdb": "tt2996932",
+    "tmdb": 203780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

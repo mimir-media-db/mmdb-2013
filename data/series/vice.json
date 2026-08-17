@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vice",
+  "title": "Vice",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15036515",
+    "imdb": "tt2782710",
+    "tmdb": 48552
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race_canada",
+  "title": "The Amazing Race Canada",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17067309",
+    "imdb": "tt3069720",
+    "tmdb": 59138
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_upper_middle_bogan",
+  "title": "Upper Middle Bogan",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6157270",
+    "imdb": "tt2401525",
+    "tmdb": 58479
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

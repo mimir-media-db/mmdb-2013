@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_is_bright_2013",
+  "title": "All Is Bright",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15614304",
+    "imdb": "tt1462901",
+    "tmdb": 174311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 107
+}

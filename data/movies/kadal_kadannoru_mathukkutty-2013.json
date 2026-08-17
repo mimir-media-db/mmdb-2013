@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadal_kadannoru_mathukkutty_2013",
+  "title": "Kadal Kadannoru Mathukkutty",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12861222",
+    "imdb": "tt3134214",
+    "tmdb": 215968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

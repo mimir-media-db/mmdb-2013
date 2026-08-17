@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_a_date",
+  "title": "It's A Date",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6089665",
+    "imdb": "tt2551252",
+    "tmdb": 46466
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

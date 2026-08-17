@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_others_2013",
+  "title": "With Others",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16048069",
+    "imdb": "tt3989482",
+    "tmdb": 314631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

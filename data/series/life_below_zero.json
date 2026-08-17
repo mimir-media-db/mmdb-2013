@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_below_zero",
+  "title": "Life Below Zero",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15995259",
+    "imdb": "tt2964642",
+    "tmdb": 60910
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 84
+}

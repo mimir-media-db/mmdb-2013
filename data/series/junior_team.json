@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_junior_team",
+  "title": "The Junior Team",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q16272273",
+    "imdb": "tt3778126",
+    "tmdb": 62082
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 260
+}

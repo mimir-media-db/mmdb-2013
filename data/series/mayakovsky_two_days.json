@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mayakovsky_two_days",
+  "title": "Mayakovsky. Two days",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16272268",
+    "imdb": "tt3425854",
+    "tmdb": 104709
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

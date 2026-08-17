@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bushido_2013",
+  "title": "Bushido",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14554971",
+    "imdb": "tt2698678",
+    "tmdb": 231399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

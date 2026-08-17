@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liars_dice_2013",
+  "title": "Liar's Dice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16832060",
+    "imdb": "tt2343621",
+    "tmdb": 248211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 104
+}

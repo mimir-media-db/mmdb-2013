@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stai_lontana_da_me_2013",
+  "title": "Stai lontana da me",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15631704",
+    "imdb": "tt3245074",
+    "tmdb": 236325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 82
+}

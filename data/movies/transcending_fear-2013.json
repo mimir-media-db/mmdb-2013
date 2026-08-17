@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transcending_fear_2013",
+  "title": "Transcending Fear",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170544",
+    "imdb": "tt2415718",
+    "tmdb": 964210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 71
+}

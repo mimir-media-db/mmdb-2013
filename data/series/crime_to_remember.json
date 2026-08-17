@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_to_remember",
+  "title": "A Crime to Remember",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q29097670",
+    "imdb": "tt3044834",
+    "tmdb": 68549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 30
+}

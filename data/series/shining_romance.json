@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shining_romance",
+  "title": "Shining Romance",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15208984",
+    "tmdb": 90477
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 122
+}

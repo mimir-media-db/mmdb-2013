@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alien_dawn",
+  "title": "Alien Dawn",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4726418",
+    "imdb": "tt2361621",
+    "tmdb": 46747
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

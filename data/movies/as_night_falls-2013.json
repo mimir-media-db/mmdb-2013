@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_as_night_falls_2013",
+  "title": "As Night Falls",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16962150",
+    "imdb": "tt1568802",
+    "tmdb": 30510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

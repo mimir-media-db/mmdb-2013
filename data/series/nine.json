@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nine",
+  "title": "Nine",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7038262",
+    "imdb": "tt3215140",
+    "tmdb": 47089
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

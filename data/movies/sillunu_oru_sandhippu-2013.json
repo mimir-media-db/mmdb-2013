@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sillunu_oru_sandhippu_2013",
+  "title": "Sillunu Oru Sandhippu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7515410",
+    "imdb": "tt3378470",
+    "tmdb": 169526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

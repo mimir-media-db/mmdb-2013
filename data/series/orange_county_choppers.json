@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_orange_county_choppers",
+  "title": "Orange County Choppers",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129687050",
+    "imdb": "tt3341456",
+    "tmdb": 95605
+  },
+  "last_updated": "2026-08-17"
+}

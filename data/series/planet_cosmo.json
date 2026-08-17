@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_cosmo",
+  "title": "Planet Cosmo",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65242574",
+    "imdb": "tt2832696",
+    "tmdb": 197082
+  },
+  "last_updated": "2026-08-17"
+}

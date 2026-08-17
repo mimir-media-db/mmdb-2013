@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_2013",
+  "title": "Shadow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4242547",
+    "imdb": "tt2386295",
+    "tmdb": 181928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

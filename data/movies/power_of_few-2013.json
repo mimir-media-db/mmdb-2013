@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_few_2013",
+  "title": "The Power of Few",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4274103",
+    "imdb": "tt0817545",
+    "tmdb": 161321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

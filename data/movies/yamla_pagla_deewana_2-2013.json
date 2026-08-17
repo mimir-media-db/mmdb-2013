@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamla_pagla_deewana_2_2013",
+  "title": "Yamla Pagla Deewana 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8048074",
+    "imdb": "tt2510874",
+    "tmdb": 199687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

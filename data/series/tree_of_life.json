@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tree_of_life",
+  "title": "The Tree of Life",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12279280",
+    "imdb": "tt2643382"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

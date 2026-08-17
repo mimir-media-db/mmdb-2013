@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dating_fever_2013",
+  "title": "Dating Fever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15923234",
+    "imdb": "tt2963484",
+    "tmdb": 345620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

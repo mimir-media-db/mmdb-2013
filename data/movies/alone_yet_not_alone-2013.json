@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_yet_not_alone_2013",
+  "title": "Alone Yet Not Alone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16159660",
+    "imdb": "tt1986769",
+    "tmdb": 243794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

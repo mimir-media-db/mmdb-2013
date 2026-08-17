@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_will_not_lose_2013",
+  "title": "I Will Not Lose",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15807615",
+    "imdb": "tt2620418",
+    "tmdb": 169441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

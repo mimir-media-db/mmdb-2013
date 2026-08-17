@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadhalal_kadhal_seiveer_2013",
+  "title": "Aadhalal Kadhal Seiveer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661121",
+    "imdb": "tt2419576",
+    "tmdb": 148255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

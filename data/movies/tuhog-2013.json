@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tuhog_2013",
+  "title": "Tuhog",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061279",
+    "imdb": "tt3044782",
+    "tmdb": 210234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

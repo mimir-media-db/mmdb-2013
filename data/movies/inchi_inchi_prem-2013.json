@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inchi_inchi_prem_2013",
+  "title": "Inchi Inchi Prem",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249161",
+    "imdb": "tt26629335",
+    "tmdb": 1098983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

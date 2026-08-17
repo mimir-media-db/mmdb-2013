@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_short_history_of_decay_2013",
+  "title": "A Short History of Decay",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659464",
+    "imdb": "tt2265050",
+    "tmdb": 251987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

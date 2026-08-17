@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_uganda_2013",
+  "title": "Escape from Uganda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248328",
+    "imdb": "tt3314622",
+    "tmdb": 262127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

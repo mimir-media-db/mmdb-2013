@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sun_singer",
+  "title": "Sun Singer",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25302596"
+  },
+  "last_updated": "2026-08-17"
+}

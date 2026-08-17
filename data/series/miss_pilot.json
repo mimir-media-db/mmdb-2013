@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_pilot",
+  "title": "Miss Pilot",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15015744",
+    "imdb": "tt3126560",
+    "tmdb": 62045
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

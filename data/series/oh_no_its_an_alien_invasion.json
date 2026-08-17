@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_no_its_an_alien_invasion",
+  "title": "Oh No! It's an Alien Invasion",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16354637",
+    "imdb": "tt3144632",
+    "tmdb": 58094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

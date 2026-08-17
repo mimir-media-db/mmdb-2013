@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bit_player_2013",
+  "title": "The Bit Player",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16953813",
+    "imdb": "tt3031022",
+    "tmdb": 209968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 111
+}

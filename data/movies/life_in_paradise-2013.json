@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_paradise_2013",
+  "title": "Life in Paradise",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15825851",
+    "imdb": "tt2707252"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 78
+}

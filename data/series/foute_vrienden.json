@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_foute_vrienden",
+  "title": "Foute Vrienden",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13637419",
+    "imdb": "tt2339457",
+    "tmdb": 74152
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

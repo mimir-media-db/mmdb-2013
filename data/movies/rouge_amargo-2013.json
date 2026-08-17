@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rouge_amargo_2013",
+  "title": "Rouge Amargo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16626716",
+    "imdb": "tt2549208",
+    "tmdb": 340669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

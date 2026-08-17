@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_gaim",
+  "title": "Kamen Rider Gaim",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14258203",
+    "imdb": "tt3079058",
+    "tmdb": 262243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 47
+}

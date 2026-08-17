@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_through_the_keyhole",
+  "title": "Through the Keyhole",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q7798464",
+    "imdb": "tt0200385",
+    "tmdb": 5235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 115
+}

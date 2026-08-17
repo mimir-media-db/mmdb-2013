@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wildlife_docs",
+  "title": "The Wildlife Docs",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q17079349",
+    "imdb": "tt3468670",
+    "tmdb": 201020
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 78
+}

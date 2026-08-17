@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nos_heros_sont_morts_ce_soir_2013",
+  "title": "Nos héros sont morts ce soir",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553887",
+    "imdb": "tt2876358",
+    "tmdb": 190854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

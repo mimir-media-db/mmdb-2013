@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fievres_2013",
+  "title": "Fièvres",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16636353",
+    "imdb": "tt3405422",
+    "tmdb": 295800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_santo_sam_and_eds_total_football",
+  "title": "Santo, Sam and Ed’s Total Football",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16849400",
+    "imdb": "tt3237998"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 61
+}

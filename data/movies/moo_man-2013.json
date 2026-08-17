@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moo_man_2013",
+  "title": "The Moo Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7752140",
+    "imdb": "tt2433336",
+    "tmdb": 159029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

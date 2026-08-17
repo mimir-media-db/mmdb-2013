@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_popoz",
+  "title": "Popoz",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15392262",
+    "imdb": "tt3531054",
+    "tmdb": 62237
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

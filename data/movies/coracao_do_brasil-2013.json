@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coracao_do_brasil_2013",
+  "title": "Coração do Brasil",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951571",
+    "imdb": "tt6449930",
+    "tmdb": 258970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

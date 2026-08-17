@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajdhani_express_2013",
+  "title": "Rajdhani Express",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7285911",
+    "imdb": "tt2560016",
+    "tmdb": 150009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

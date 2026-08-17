@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_treatment",
+  "title": "In Treatment",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q13460694",
+    "imdb": "tt2569058",
+    "tmdb": 56517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 105
+}

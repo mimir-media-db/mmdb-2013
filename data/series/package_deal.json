@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_package_deal",
+  "title": "Package Deal",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3360227",
+    "imdb": "tt2559390",
+    "tmdb": 56176
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

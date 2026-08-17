@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_two_womens_room",
+  "title": "Two Women's Room",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13806756",
+    "imdb": "tt5690190",
+    "tmdb": 56577
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 119
+}

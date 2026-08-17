@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_um_2013",
+  "title": "Generation Um...",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12631423",
+    "imdb": "tt1718158",
+    "tmdb": 124972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rab_ton_sohna_ishq_2013",
+  "title": "Rab Ton Sohna Ishq",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983485",
+    "imdb": "tt3337790",
+    "tmdb": 274139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

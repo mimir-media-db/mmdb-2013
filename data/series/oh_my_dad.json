@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_dad",
+  "title": "Oh, My Dad!!",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13830720",
+    "imdb": "tt2946966",
+    "tmdb": 110936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

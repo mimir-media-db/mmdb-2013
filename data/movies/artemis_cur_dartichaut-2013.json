@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_artemis_cur_dartichaut_2013",
+  "title": "Artémis, cœur d'artichaut",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16303878",
+    "imdb": "tt2767378",
+    "tmdb": 223499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

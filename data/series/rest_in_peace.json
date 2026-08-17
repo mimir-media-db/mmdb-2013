@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rest_in_peace",
+  "title": "Rest in Peace",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12640285",
+    "imdb": "tt2324587",
+    "tmdb": 73057
+  },
+  "last_updated": "2026-08-17"
+}

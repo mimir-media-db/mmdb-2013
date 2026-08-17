@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bullys_sitcom",
+  "title": "Bully's Sitcom",
+  "start_year": 2013,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15790227",
+    "imdb": "tt3343432",
+    "tmdb": 60702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandiya_naadu_2013",
+  "title": "Pandiya Naadu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15132116",
+    "imdb": "tt3232156",
+    "tmdb": 231298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
