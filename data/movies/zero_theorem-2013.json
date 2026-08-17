@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_theorem_2013",
+  "title": "The Zero Theorem",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q863811",
+    "imdb": "tt2333804",
+    "tmdb": 157834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-02",
+  "runtime_minutes": 107
+}

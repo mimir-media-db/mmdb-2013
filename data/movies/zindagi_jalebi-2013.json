@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zindagi_jalebi_2013",
+  "title": "Zindagi Jalebi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255418",
+    "imdb": "tt3121618"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06"
+}
