@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heldt",
+  "title": "Heldt",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q15815007",
+    "imdb": "tt2487938",
+    "tmdb": 60851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 108
+}

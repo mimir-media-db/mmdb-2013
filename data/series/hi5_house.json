@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hi5_house",
+  "title": "Hi-5 House",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q14928352",
+    "imdb": "tt4596024"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 75
+}

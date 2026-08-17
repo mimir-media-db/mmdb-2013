@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hombre_tenias_que_ser",
+  "title": "Hombre Tenías que Ser",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14971781",
+    "imdb": "tt3211320",
+    "tmdb": 325011
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 105
+}

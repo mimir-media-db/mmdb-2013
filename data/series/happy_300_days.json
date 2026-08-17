@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_300_days",
+  "title": "Happy 300 Days",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15897874",
+    "imdb": "tt6357786",
+    "tmdb": 57239
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

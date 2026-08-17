@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hawaii_life",
+  "title": "Hawaii Life",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q16994962",
+    "imdb": "tt2746736",
+    "tmdb": 68191
+  },
+  "last_updated": "2026-08-17"
+}

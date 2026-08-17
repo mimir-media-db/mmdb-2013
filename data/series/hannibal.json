@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hannibal",
+  "title": "Hannibal",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q888841",
+    "imdb": "tt2243973",
+    "tmdb": 40008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

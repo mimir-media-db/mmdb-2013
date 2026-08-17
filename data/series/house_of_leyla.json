@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_leyla",
+  "title": "The House of Leyla",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7740618"
+  },
+  "last_updated": "2026-08-17"
+}

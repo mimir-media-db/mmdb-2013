@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_me",
+  "title": "Hollywood Me",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131591909",
+    "imdb": "tt2993514"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_noodle",
+  "title": "Happy Noodle",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15911845",
+    "imdb": "tt6357264",
+    "tmdb": 68614
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

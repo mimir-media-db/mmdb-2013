@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hard_rock_medical",
+  "title": "Hard Rock Medical",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q5655374",
+    "imdb": "tt2495154",
+    "tmdb": 58346
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

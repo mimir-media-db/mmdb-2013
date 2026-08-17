@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haves_and_the_have_nots",
+  "title": "The Haves and the Have Nots",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q12153667",
+    "imdb": "tt2729716",
+    "tmdb": 46441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 196
+}

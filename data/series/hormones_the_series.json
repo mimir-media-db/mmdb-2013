@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hormones_the_series",
+  "title": "Hormones: The Series",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15223101",
+    "imdb": "tt3199398",
+    "tmdb": 53128
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 42
+}
