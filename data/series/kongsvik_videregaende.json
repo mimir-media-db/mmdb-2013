@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kongsvik_videregaende",
+  "title": "Kongsvik videregående",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11981720",
+    "imdb": "tt11266468",
+    "tmdb": 54559
+  },
+  "last_updated": "2026-08-17"
+}

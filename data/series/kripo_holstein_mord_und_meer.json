@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kripo_holstein_mord_und_meer",
+  "title": "Kripo Holstein – Mord und Meer",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15859756",
+    "imdb": "tt3028050",
+    "tmdb": 63200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

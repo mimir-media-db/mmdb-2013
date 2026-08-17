@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_katie_morag",
+  "title": "Katie Morag",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17355642",
+    "imdb": "tt3830024",
+    "tmdb": 122987
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

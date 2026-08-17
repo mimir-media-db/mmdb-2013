@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kesha_my_crazy_beautiful_life",
+  "title": "Kesha: My Crazy Beautiful Life",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6382031",
+    "imdb": "tt2665432",
+    "tmdb": 59468
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

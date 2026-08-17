@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kasukana_kanojo",
+  "title": "Kasukana Kanojo",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9673571",
+    "imdb": "tt2677714",
+    "tmdb": 49854
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

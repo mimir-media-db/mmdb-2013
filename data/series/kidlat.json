@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kidlat",
+  "title": "Kidlat",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6404763",
+    "imdb": "tt2887768",
+    "tmdb": 59395
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 83
+}

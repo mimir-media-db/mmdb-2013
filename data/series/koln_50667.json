@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_koln_50667",
+  "title": "Köln 50667",
+  "start_year": 2013,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2753475",
+    "imdb": "tt2609822",
+    "tmdb": 82588
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1013
+}

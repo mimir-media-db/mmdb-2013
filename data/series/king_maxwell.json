@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_king_maxwell",
+  "title": "King & Maxwell",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13422708",
+    "imdb": "tt2402129",
+    "tmdb": 56401
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

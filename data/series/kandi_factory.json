@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kandi_factory",
+  "title": "The Kandi Factory",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7743952",
+    "imdb": "tt2177169",
+    "tmdb": 59741
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

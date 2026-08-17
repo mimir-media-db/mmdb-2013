@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_teacher",
+  "title": "Kamen Teacher",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106595997",
+    "imdb": "tt3059542",
+    "tmdb": 57047
+  },
+  "last_updated": "2026-08-17"
+}
