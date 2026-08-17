@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ken_and_mary_the_asian_truck_express_2013",
+  "title": "Ken and Mary: The Asian Truck Express",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20039911",
+    "imdb": "tt2290447",
+    "tmdb": 268059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

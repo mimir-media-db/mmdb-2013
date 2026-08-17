@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kickass_2_2013",
+  "title": "Kick-Ass 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1758468",
+    "imdb": "tt1650554",
+    "tmdb": 59859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-14",
+  "runtime_minutes": 103
+}

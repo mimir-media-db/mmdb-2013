@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanteerava_2013",
+  "title": "Kanteerava",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6365379",
+    "imdb": "tt13907220"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-15",
+  "runtime_minutes": 148
+}

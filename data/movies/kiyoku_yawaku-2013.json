@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiyoku_yawaku_2013",
+  "title": "Kiyoku Yawaku",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123901418",
+    "imdb": "tt2546434",
+    "tmdb": 228436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-26"
+}

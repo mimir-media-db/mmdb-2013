@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kl_gangster_2_2013",
+  "title": "KL Gangster 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892867",
+    "imdb": "tt3056608",
+    "tmdb": 217584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 115
+}

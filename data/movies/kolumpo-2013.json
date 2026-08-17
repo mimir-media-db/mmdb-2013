@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolumpo_2013",
+  "title": "Kolumpo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052391",
+    "imdb": "tt3673658",
+    "tmdb": 381156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-05"
+}

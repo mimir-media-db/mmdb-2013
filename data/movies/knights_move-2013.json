@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knights_move_2013",
+  "title": "The Knight's Move",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20513926",
+    "imdb": "tt3204366",
+    "tmdb": 273101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

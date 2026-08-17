@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_your_darlings_2013",
+  "title": "Kill Your Darlings",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q565623",
+    "imdb": "tt1311071",
+    "tmdb": 157370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-18",
+  "runtime_minutes": 104
+}

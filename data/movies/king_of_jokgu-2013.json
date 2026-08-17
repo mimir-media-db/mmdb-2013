@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_jokgu_2013",
+  "title": "The King of Jokgu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18016013",
+    "imdb": "tt3587834",
+    "tmdb": 286702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 104
+}

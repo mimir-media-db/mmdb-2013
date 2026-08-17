@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalyana_samayal_saadham_2013",
+  "title": "Kalyana Samayal Saadham",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6354903",
+    "imdb": "tt3381754",
+    "tmdb": 241563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaddipudi_2013",
+  "title": "Kaddipudi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345295",
+    "imdb": "tt3046032",
+    "tmdb": 282596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-07"
+}
