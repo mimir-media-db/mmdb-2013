@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_fai_huan",
+  "title": "Fai Huan",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13534446"
+  },
+  "last_updated": "2026-08-17"
+}

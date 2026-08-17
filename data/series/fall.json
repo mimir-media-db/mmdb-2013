@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fall",
+  "title": "The Fall",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7733188",
+    "imdb": "tt2294189",
+    "tmdb": 49010
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

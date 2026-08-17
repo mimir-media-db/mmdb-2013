@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_food_court_wars",
+  "title": "Food Court Wars",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16993576",
+    "imdb": "tt2668676",
+    "tmdb": 54481
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

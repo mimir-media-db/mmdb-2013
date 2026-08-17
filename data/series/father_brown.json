@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_father_brown",
+  "title": "Father Brown",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5437572",
+    "imdb": "tt2215842",
+    "tmdb": 61511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 110
+}

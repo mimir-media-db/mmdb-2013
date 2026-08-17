@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_farsantes",
+  "title": "Farsantes",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13605000",
+    "imdb": "tt2911908",
+    "tmdb": 58955
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 125
+}

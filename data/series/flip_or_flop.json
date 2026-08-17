@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flip_or_flop",
+  "title": "Flip or Flop",
+  "start_year": 2013,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q16993489",
+    "imdb": "tt2902088",
+    "tmdb": 62618
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 92
+}

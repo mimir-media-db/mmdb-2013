@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_following",
+  "title": "The Following",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1189631",
+    "imdb": "tt2071645",
+    "tmdb": 45094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 45
+}

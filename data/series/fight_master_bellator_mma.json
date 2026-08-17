@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_fight_master_bellator_mma",
+  "title": "Fight Master: Bellator MMA",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16993251"
+  },
+  "last_updated": "2026-08-17"
+}

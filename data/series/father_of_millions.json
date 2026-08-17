@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_father_of_millions",
+  "title": "Father of millions",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16117844",
+    "imdb": "tt30149917",
+    "tmdb": 261840
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 29
+}
