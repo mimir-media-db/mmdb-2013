@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_ginga",
+  "title": "Ultraman Ginga",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10926775",
+    "imdb": "tt2847220",
+    "tmdb": 68693
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ugly_alert",
+  "title": "Ugly Alert",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12595444",
+    "imdb": "tt5478804",
+    "tmdb": 64300
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 133
+}
