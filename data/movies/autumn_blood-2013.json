@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_blood_2013",
+  "title": "Autumn Blood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720696",
+    "imdb": "tt2085752",
+    "tmdb": 237614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-14",
+  "runtime_minutes": 100
+}

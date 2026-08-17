@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ab_irato_sous_lempire_de_la_colere_2013",
+  "title": "Ab Irato, sous l'empire de la colère",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104759632",
+    "imdb": "tt2679990",
+    "tmdb": 173537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anchorman_2_the_legend_continues_2013",
+  "title": "Anchorman 2: The Legend Continues",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4752758",
+    "imdb": "tt1229340",
+    "tmdb": 109443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-24",
+  "runtime_minutes": 119
+}

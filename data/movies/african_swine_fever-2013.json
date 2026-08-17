@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_african_swine_fever_2013",
+  "title": "African swine fever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106036439"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

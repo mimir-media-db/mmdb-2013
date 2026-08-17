@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_algonquin_2013",
+  "title": "Algonquin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16966450",
+    "imdb": "tt2498340",
+    "tmdb": 263897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-24"
+}

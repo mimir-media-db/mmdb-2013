@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_african_safari_2013",
+  "title": "African Safari",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15845437",
+    "imdb": "tt3110822",
+    "tmdb": 225570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10",
+  "runtime_minutes": 85
+}

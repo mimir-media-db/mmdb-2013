@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_things_to_all_men_2013",
+  "title": "All Things to All Men",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729795",
+    "imdb": "tt2095568",
+    "tmdb": 183258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-05",
+  "runtime_minutes": 84
+}

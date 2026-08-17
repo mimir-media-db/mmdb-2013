@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accidental_activist_2013",
+  "title": "Accidental Activist",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59592128",
+    "imdb": "tt3412662",
+    "tmdb": 320408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-02",
+  "runtime_minutes": 58
+}

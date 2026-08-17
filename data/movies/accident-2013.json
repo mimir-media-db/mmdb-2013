@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_accident_2013",
+  "title": "Accident",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18161530",
+    "imdb": "tt21442442",
+    "tmdb": 975044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

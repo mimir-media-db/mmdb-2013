@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_asylum_2013",
+  "title": "The Amityville Asylum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512035",
+    "imdb": "tt2216212",
+    "tmdb": 216016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-03",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alcan_highway_2013",
+  "title": "Alcan Highway",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100322972",
+    "imdb": "tt2243246",
+    "tmdb": 189242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-19"
+}

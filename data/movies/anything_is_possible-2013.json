@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anything_is_possible_2013",
+  "title": "Anything Is Possible",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136325",
+    "imdb": "tt2042449",
+    "tmdb": 223944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-24",
+  "runtime_minutes": 93
+}

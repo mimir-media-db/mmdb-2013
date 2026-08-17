@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alan_poza_2013",
+  "title": "Alan Poza",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16826816",
+    "imdb": "tt18184332"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-10"
+}

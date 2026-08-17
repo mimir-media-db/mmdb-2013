@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acod_2013",
+  "title": "A.C.O.D.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4647042",
+    "imdb": "tt1311060",
+    "tmdb": 115283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-23",
+  "runtime_minutes": 90
+}

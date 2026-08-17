@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_sky_63_days_of_glory_2013",
+  "title": "August Sky: 63 Days of Glory",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16601054",
+    "imdb": "tt1972740",
+    "tmdb": 303584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 75
+}

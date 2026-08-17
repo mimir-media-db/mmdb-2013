@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_about_the_pink_sky_2013",
+  "title": "About The Pink Sky",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17231599",
+    "imdb": "tt1890472",
+    "tmdb": 84167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-12"
+}

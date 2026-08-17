@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amadeus_2013",
+  "title": "Amadeus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q190956",
+    "imdb": "tt0086879",
+    "tmdb": 279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 160
+}

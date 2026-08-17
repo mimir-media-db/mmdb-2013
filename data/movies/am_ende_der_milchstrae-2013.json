@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_am_ende_der_milchstrae_2013",
+  "title": "Am Ende der Milchstraße",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719188",
+    "imdb": "tt1941629",
+    "tmdb": 381387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

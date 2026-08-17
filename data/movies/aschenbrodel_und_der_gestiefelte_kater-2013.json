@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aschenbrodel_und_der_gestiefelte_kater_2013",
+  "title": "Aschenbrödel und der gestiefelte Kater",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86358822",
+    "imdb": "tt3324868",
+    "tmdb": 236315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-20",
+  "runtime_minutes": 60
+}

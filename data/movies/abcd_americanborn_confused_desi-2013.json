@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abcd_americanborn_confused_desi_2013",
+  "title": "ABCD: American-Born Confused Desi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4650082",
+    "imdb": "tt2956300",
+    "tmdb": 204261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-14"
+}

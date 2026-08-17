@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_perfect_man_2013",
+  "title": "The Almost Perfect Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47462207",
+    "imdb": "tt2041335",
+    "tmdb": 265094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abner_the_invisible_dog_2013",
+  "title": "Abner, The Invisible Dog",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26492708",
+    "imdb": "tt2511022",
+    "tmdb": 260386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-30",
+  "runtime_minutes": 90
+}

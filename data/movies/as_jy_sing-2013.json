@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_as_jy_sing_2013",
+  "title": "As Jy Sing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15919405",
+    "imdb": "tt3303630",
+    "tmdb": 256459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_bailey_a_night_in_cowtown_2013",
+  "title": "Adventures of Bailey: A Night in Cowtown",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135651477",
+    "imdb": "tt2457258",
+    "tmdb": 232761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

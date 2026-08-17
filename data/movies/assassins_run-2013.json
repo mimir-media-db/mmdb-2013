@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassins_run_2013",
+  "title": "Assassins Run",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61100589",
+    "imdb": "tt1502417",
+    "tmdb": 185497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

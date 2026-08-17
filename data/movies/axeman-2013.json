@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_axeman_2013",
+  "title": "Axeman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18162464",
+    "imdb": "tt2357866",
+    "tmdb": 255293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

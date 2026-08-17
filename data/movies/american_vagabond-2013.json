@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_vagabond_2013",
+  "title": "American Vagabond",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15046618",
+    "imdb": "tt2621714",
+    "tmdb": 171964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-27"
+}

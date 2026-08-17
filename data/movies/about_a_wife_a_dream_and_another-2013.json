@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_a_wife_a_dream_and_another_2013",
+  "title": "About a Wife, a Dream and Another...",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15957421",
+    "imdb": "tt3395494",
+    "tmdb": 230584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-16",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_athadu_aame_o_scooter_2013",
+  "title": "Athadu Aame o Scooter",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246821",
+    "imdb": "tt14564520",
+    "tmdb": 225563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23"
+}

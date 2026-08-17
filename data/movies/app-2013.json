@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_app_2013",
+  "title": "App",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15079804",
+    "imdb": "tt2536436",
+    "tmdb": 179053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-03",
+  "runtime_minutes": 75
+}

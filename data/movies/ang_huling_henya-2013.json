@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_huling_henya_2013",
+  "title": "Ang Huling Henya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18207890",
+    "imdb": "tt3138730",
+    "tmdb": 243208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

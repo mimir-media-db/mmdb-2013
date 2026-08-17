@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aattakatha_2013",
+  "title": "Aattakatha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057890",
+    "imdb": "tt5226426",
+    "tmdb": 586319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24"
+}
