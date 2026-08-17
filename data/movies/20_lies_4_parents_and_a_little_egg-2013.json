@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_lies_4_parents_and_a_little_egg_2013",
+  "title": "20 Lies, 4 Parents and a Little Egg",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13427541",
+    "imdb": "tt2705098",
+    "tmdb": 177272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-16",
+  "runtime_minutes": 78
+}
