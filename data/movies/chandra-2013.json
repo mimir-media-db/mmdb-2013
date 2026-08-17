@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chandra_2013",
+  "title": "Chandra",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5071258",
+    "imdb": "tt2995952",
+    "tmdb": 267369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

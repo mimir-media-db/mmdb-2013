@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compulsion_2013",
+  "title": "Compulsion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14394381",
+    "imdb": "tt2381931",
+    "tmdb": 201847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

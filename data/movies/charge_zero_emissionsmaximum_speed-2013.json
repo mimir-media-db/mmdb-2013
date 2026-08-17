@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charge_zero_emissionsmaximum_speed_2013",
+  "title": "Charge, Zero Emissions/Maximum Speed",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5074234",
+    "imdb": "tt1855152",
+    "tmdb": 189498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

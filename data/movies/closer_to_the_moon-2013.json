@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_to_the_moon_2013",
+  "title": "Closer to the Moon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249394",
+    "imdb": "tt2017486",
+    "tmdb": 137347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 112
+}

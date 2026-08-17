@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coboy_junior_the_movie_2013",
+  "title": "Coboy Junior: The Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12167454",
+    "imdb": "tt3032182",
+    "tmdb": 218651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colpi_di_fortuna_2013",
+  "title": "Colpi di fortuna",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15508006",
+    "imdb": "tt3229768",
+    "tmdb": 244514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cult_2013",
+  "title": "Cult",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11295112",
+    "imdb": "tt2281002",
+    "tmdb": 225666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_rose_2013",
+  "title": "Christmas Rose",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13364726",
+    "imdb": "tt2928084",
+    "tmdb": 196420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

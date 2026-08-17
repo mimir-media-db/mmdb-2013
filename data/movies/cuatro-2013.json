@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuatro_2013",
+  "title": "¡Cuatro!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13478742",
+    "imdb": "tt2553800",
+    "tmdb": 177710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

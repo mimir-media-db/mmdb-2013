@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chashme_baddoor_2013",
+  "title": "Chashme Baddoor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087281",
+    "imdb": "tt2229848",
+    "tmdb": 180853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

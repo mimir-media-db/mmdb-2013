@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cottage_country_2013",
+  "title": "Cottage Country",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5175506",
+    "imdb": "tt2072933",
+    "tmdb": 141733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 91
+}

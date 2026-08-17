@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_clark_a_gonzomentary_2013",
+  "title": "Clark: A Gonzomentary",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16958728",
+    "imdb": "tt2374892"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

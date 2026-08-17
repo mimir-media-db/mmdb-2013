@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charminar_2013",
+  "title": "Charminar",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5086503",
+    "imdb": "tt3006554",
+    "tmdb": 463181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

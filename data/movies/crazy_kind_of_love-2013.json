@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_kind_of_love_2013",
+  "title": "Crazy Kind of Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5183180",
+    "imdb": "tt1946310",
+    "tmdb": 191566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

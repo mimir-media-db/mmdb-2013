@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chef_the_actor_the_scoundrel_2013",
+  "title": "The Chef, the Actor, the Scoundrel",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10730185",
+    "imdb": "tt2645044",
+    "tmdb": 195300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 108
+}

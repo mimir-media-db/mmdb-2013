@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cheap_thrills_2013",
+  "title": "Cheap Thrills",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12106680",
+    "imdb": "tt2389182",
+    "tmdb": 175291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

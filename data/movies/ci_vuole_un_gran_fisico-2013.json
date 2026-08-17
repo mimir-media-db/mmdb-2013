@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ci_vuole_un_gran_fisico_2013",
+  "title": "Ci vuole un gran fisico",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8989628",
+    "imdb": "tt2753492",
+    "tmdb": 175791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

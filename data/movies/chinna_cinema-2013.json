@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chinna_cinema_2013",
+  "title": "Chinna Cinema",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247615",
+    "imdb": "tt8881236"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
