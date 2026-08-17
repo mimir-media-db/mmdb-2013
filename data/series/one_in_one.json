@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_in_one",
+  "title": "One in one!",
+  "start_year": 2013,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q15260610",
+    "imdb": "tt5201844"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 30
+}

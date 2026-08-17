@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_os_nossos_dias",
+  "title": "Os Nossos Dias",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16964048",
+    "imdb": "tt2820352",
+    "tmdb": 203559
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 300
+}
