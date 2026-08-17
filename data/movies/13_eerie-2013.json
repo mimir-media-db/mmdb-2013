@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_eerie_2013",
+  "title": "13 Eerie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12100047",
+    "imdb": "tt2082152",
+    "tmdb": 122369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 87
+}

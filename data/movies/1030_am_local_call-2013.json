@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1030_am_local_call_2013",
+  "title": "10:30 am Local Call",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11654774",
+    "imdb": "tt2928360",
+    "tmdb": 192889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
