@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_santa_2013",
+  "title": "La Santa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15931604",
+    "imdb": "tt3334514",
+    "tmdb": 237859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

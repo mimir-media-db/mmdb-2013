@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_of_my_life_2013",
+  "title": "Love of My Life",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052588",
+    "imdb": "tt2246831",
+    "tmdb": 270643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_licks_2013",
+  "title": "Licks",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16572470",
+    "imdb": "tt2464812",
+    "tmdb": 169798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 113
+}

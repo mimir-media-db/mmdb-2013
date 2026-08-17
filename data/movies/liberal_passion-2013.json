@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liberal_passion_2013",
+  "title": "A Liberal Passion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13472725",
+    "imdb": "tt2882850",
+    "tmdb": 186982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_russian_limousine_2013",
+  "title": "The Last Russian Limousine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16710410",
+    "imdb": "tt3798342",
+    "tmdb": 459671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legendary_tomb_of_the_dragon_2013",
+  "title": "Legendary: Tomb of the Dragon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16522528",
+    "imdb": "tt2369041",
+    "tmdb": 226672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_honor_2013",
+  "title": "Love and Honor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6551772",
+    "imdb": "tt1976989",
+    "tmdb": 140222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_shepherd_2013",
+  "title": "The Last Shepherd",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14124866",
+    "imdb": "tt2315610",
+    "tmdb": 160219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 76
+}

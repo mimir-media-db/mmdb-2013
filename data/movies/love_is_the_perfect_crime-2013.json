@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_the_perfect_crime_2013",
+  "title": "Love Is the Perfect Crime",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12140204",
+    "imdb": "tt3103576",
+    "tmdb": 214093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_law_of_the_swindler_2013",
+  "title": "The Law of the Swindler",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17477993",
+    "imdb": "tt2413524",
+    "tmdb": 667804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 86
+}

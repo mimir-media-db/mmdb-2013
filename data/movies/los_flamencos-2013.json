@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_flamencos_2013",
+  "title": "Los Flamencos",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15878810",
+    "imdb": "tt3088362",
+    "tmdb": 298396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
