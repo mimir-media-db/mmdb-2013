@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vamp_u_2013",
+  "title": "Vamp U",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16682293",
+    "imdb": "tt1727885",
+    "tmdb": 167733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

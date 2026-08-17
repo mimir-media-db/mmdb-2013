@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacanze_al_mare_2013",
+  "title": "Vacanze al mare",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16620068",
+    "imdb": "tt3301732",
+    "tmdb": 350672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 60
+}

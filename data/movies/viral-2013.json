@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viral_2013",
+  "title": "Viral",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17364542",
+    "imdb": "tt2594078",
+    "tmdb": 226570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

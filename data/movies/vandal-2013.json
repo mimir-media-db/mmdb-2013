@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vandal_2013",
+  "title": "Vandal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3554476",
+    "imdb": "tt2779998",
+    "tmdb": 191458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 84
+}
