@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_never_give_up_dodo",
+  "title": "Never Give Up Dodo",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15995351",
+    "imdb": "tt6357798",
+    "tmdb": 69419
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_next_step",
+  "title": "The Next Step",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7754006",
+    "imdb": "tt2374744",
+    "tmdb": 62404
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 144
+}

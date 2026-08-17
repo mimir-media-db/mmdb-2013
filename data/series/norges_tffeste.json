@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_norges_tffeste",
+  "title": "Norges tøffeste",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109466042",
+    "imdb": "tt9072036",
+    "tmdb": 120055
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 54
+}

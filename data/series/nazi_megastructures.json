@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nazi_megastructures",
+  "title": "Nazi Megastructures",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20979076",
+    "imdb": "tt3325692",
+    "tmdb": 56556
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 12
+}

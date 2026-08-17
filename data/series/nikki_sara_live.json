@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nikki_sara_live",
+  "title": "Nikki & Sara Live",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7035185",
+    "imdb": "tt2645666",
+    "tmdb": 59021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

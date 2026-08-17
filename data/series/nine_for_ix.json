@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nine_for_ix",
+  "title": "Nine for IX",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7038462",
+    "imdb": "tt2724194",
+    "tmdb": 53842
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

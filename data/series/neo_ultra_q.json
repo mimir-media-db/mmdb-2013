@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neo_ultra_q",
+  "title": "Neo Ultra Q",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6991920",
+    "imdb": "tt2215434",
+    "tmdb": 85236
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

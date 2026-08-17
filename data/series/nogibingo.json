@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nogibingo",
+  "title": "NogiBingo!",
+  "start_year": 2013,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q15977360",
+    "tmdb": 96069
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 117
+}
