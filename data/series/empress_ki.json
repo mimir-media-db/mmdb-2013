@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_empress_ki",
+  "title": "Empress Ki",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14831170",
+    "imdb": "tt3322566",
+    "tmdb": 61148
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 51
+}

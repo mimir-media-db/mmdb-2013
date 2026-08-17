@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_don_de_alba",
+  "title": "El don de Alba",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5824753",
+    "imdb": "tt2219163",
+    "tmdb": 62506
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

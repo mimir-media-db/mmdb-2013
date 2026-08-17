@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_east_los_high",
+  "title": "East Los High",
+  "start_year": 2013,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16992200",
+    "imdb": "tt2312036",
+    "tmdb": 56964
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_regreso",
+  "title": "El Regreso",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15076925",
+    "imdb": "tt3261006",
+    "tmdb": 107042
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 140
+}

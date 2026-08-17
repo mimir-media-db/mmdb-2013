@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eat_drink_love",
+  "title": "Eat, Drink, Love",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16966567",
+    "imdb": "tt2815326",
+    "tmdb": 58789
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
