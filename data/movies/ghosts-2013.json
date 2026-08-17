@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosts_2013",
+  "title": "Ghosts",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16049976",
+    "imdb": "tt3526472",
+    "tmdb": 275645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

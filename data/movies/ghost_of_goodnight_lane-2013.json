@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_of_goodnight_lane_2013",
+  "title": "The Ghost of Goodnight Lane",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16679575",
+    "imdb": "tt1974393",
+    "tmdb": 273511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goopi_gawaiya_bagha_bajaiya_2013",
+  "title": "Goopi Gawaiya Bagha Bajaiya",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18125191",
+    "imdb": "tt3073326",
+    "tmdb": 214419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

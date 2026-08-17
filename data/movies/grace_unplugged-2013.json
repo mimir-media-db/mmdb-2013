@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grace_unplugged_2013",
+  "title": "Grace Unplugged",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13580949",
+    "imdb": "tt2349460",
+    "tmdb": 206284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

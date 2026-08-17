@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ginger_2013",
+  "title": "Ginger",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248607",
+    "imdb": "tt3463312",
+    "tmdb": 249209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

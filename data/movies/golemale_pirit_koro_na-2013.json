@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golemale_pirit_koro_na_2013",
+  "title": "Golemale Pirit Koro Na",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248646",
+    "imdb": "tt6162508",
+    "tmdb": 795413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
