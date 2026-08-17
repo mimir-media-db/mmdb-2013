@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_with_a_smile",
+  "title": "With a Smile",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13365977",
+    "imdb": "tt3104756",
+    "tmdb": 222111
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

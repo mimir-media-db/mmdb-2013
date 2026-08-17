@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wpc_56",
+  "title": "WPC 56",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15108566",
+    "imdb": "tt2678354",
+    "tmdb": 46850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}

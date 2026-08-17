@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_the_family",
+  "title": "Welcome to the Family",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13405335",
+    "imdb": "tt2709648",
+    "tmdb": 51357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

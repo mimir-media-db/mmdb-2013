@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wonderful_mama",
+  "title": "Wonderful Mama",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8031835",
+    "imdb": "tt5147370",
+    "tmdb": 51236
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

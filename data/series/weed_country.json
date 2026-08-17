@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_weed_country",
+  "title": "Weed Country",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7979329",
+    "imdb": "tt2814102",
+    "tmdb": 59648
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

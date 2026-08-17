@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_men",
+  "title": "We Are Men",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13418646",
+    "imdb": "tt2372182",
+    "tmdb": 50719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

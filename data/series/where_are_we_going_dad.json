@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_where_are_we_going_dad",
+  "title": "Where Are We Going? Dad",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15268213",
+    "imdb": "tt12294186",
+    "tmdb": 67559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 70
+}

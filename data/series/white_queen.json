@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_white_queen",
+  "title": "The White Queen",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q9087190",
+    "imdb": "tt2372220",
+    "tmdb": 57092
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

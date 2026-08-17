@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whose_line_is_it_anyway",
+  "title": "Whose Line Is It Anyway?",
+  "start_year": 2013,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7997671",
+    "imdb": "tt0163507",
+    "tmdb": 64978
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21,
+  "total_episodes": 431
+}

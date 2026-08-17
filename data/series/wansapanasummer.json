@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wansapanasummer",
+  "title": "WansapanaSummer",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17164047",
+    "tmdb": 58315
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 56
+}

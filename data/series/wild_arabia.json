@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_arabia",
+  "title": "Wild Arabia",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q19972816",
+    "imdb": "tt2777876",
+    "tmdb": 55757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

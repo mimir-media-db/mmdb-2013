@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wentworth",
+  "title": "Wentworth",
+  "start_year": 2013,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q7983000",
+    "imdb": "tt2433738",
+    "tmdb": 44856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 100
+}

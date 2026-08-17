@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_gets_the_last_laugh",
+  "title": "Who Gets the Last Laugh?",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17113367",
+    "imdb": "tt2842730",
+    "tmdb": 50667
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

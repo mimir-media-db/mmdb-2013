@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_way_to_go",
+  "title": "Way to Go",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7975825",
+    "imdb": "tt2407838",
+    "tmdb": 46444
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
