@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_altar_2013",
+  "title": "The Broken Altar",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52391957",
+    "imdb": "tt2715386",
+    "tmdb": 274810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 20
+}

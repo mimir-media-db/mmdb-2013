@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_punch_2013",
+  "title": "Blood Punch",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703085",
+    "imdb": "tt2825230",
+    "tmdb": 257117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-26",
+  "runtime_minutes": 104
+}

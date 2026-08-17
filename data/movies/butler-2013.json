@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butler_2013",
+  "title": "The Butler",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520173",
+    "imdb": "tt1327773",
+    "tmdb": 132363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-05",
+  "runtime_minutes": 132
+}

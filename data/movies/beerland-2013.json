@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beerland_2013",
+  "title": "Beerland",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19882302",
+    "imdb": "tt2251818",
+    "tmdb": 258252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-25"
+}

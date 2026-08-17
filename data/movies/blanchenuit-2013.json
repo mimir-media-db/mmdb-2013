@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blanchenuit_2013",
+  "title": "Blanche-Nuit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15178673",
+    "imdb": "tt2797834",
+    "tmdb": 184022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-10"
+}

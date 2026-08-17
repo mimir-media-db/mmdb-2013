@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_and_ties_2013",
+  "title": "Blood and Ties",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15630509",
+    "imdb": "tt3271700",
+    "tmdb": 229878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-24",
+  "runtime_minutes": 95
+}

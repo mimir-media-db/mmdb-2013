@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beasts_of_the_southern_wild_2013",
+  "title": "Beasts of the Southern Wild",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q166462",
+    "imdb": "tt2125435",
+    "tmdb": 84175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-24",
+  "runtime_minutes": 93
+}

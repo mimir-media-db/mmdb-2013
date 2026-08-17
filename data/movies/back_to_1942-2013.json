@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_1942_2013",
+  "title": "Back to 1942",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q213215",
+    "imdb": "tt2113822",
+    "tmdb": 139329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-26",
+  "runtime_minutes": 145
+}

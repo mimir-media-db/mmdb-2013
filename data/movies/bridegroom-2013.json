@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridegroom_2013",
+  "title": "Bridegroom",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4966120",
+    "imdb": "tt2357788",
+    "tmdb": 174366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-23",
+  "runtime_minutes": 80
+}

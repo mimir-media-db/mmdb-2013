@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_buddha_man_2013",
+  "title": "The Burning Buddha Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17218839",
+    "imdb": "tt2837694",
+    "tmdb": 209966
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-18"
+}

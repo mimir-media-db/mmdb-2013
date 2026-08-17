@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berberian_sound_studio_2013",
+  "title": "Berberian Sound Studio",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q761590",
+    "imdb": "tt1833844",
+    "tmdb": 116811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-13",
+  "runtime_minutes": 92
+}

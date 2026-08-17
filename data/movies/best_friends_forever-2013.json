@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_friends_forever_2013",
+  "title": "Best Friends Forever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108123051",
+    "imdb": "tt2224073",
+    "tmdb": 159625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19"
+}

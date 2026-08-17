@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blatur_2013",
+  "title": "Blåtur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674345",
+    "imdb": "tt2734744",
+    "tmdb": 402440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

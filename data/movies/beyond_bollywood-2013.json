@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_bollywood_2013",
+  "title": "Beyond Bollywood",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50331329",
+    "imdb": "tt2569186",
+    "tmdb": 301396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 64
+}

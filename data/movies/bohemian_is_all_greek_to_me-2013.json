@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bohemian_is_all_greek_to_me_2013",
+  "title": "Bohemian is all Greek to me",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22117077"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-23",
+  "runtime_minutes": 70
+}

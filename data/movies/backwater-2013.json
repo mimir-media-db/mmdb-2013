@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backwater_2013",
+  "title": "The Backwater",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14956752",
+    "imdb": "tt2403453",
+    "tmdb": 223476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-15",
+  "runtime_minutes": 102
+}

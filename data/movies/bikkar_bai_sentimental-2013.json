@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bikkar_bai_sentimental_2013",
+  "title": "Bikkar Bai Sentimental",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983253",
+    "imdb": "tt3162164",
+    "tmdb": 186746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-19"
+}

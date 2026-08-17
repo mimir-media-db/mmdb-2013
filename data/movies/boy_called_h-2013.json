@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_called_h_2013",
+  "title": "A Boy Called H",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17001012",
+    "imdb": "tt2299531",
+    "tmdb": 234339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-07",
+  "runtime_minutes": 121
+}

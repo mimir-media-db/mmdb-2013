@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bulbul_2013",
+  "title": "Bulbul",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4996084",
+    "imdb": "tt3046014",
+    "tmdb": 464692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakup_at_a_wedding_2013",
+  "title": "Breakup at a Wedding",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248957",
+    "imdb": "tt1935300",
+    "tmdb": 201772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-18",
+  "runtime_minutes": 85
+}

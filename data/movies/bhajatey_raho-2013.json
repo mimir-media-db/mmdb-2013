@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhajatey_raho_2013",
+  "title": "Bhajatey Raho",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13936492",
+    "imdb": "tt2848824",
+    "tmdb": 209257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-26"
+}

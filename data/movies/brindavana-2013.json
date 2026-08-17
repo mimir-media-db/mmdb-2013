@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brindavana_2013",
+  "title": "Brindavana",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16966888",
+    "imdb": "tt3124096",
+    "tmdb": 463179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basque_swastika_2013",
+  "title": "The Basque Swastika",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21475057",
+    "imdb": "tt3298128",
+    "tmdb": 232677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-22",
+  "runtime_minutes": 80
+}

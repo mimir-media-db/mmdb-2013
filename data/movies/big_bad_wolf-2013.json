@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bad_wolf_2013",
+  "title": "The Big Bad Wolf",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223278",
+    "imdb": "tt2320274",
+    "tmdb": 199643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-09",
+  "runtime_minutes": 107
+}

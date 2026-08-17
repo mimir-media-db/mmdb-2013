@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bakita_byaktigato_2013",
+  "title": "Bakita Byaktigato",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4849448",
+    "imdb": "tt3119172",
+    "tmdb": 393686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-29"
+}

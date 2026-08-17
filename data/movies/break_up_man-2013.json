@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_break_up_man_2013",
+  "title": "Break Up Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2799863",
+    "imdb": "tt1978524",
+    "tmdb": 160085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-07",
+  "runtime_minutes": 110
+}

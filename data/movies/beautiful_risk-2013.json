@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_risk_2013",
+  "title": "The Beautiful Risk",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16839553",
+    "imdb": "tt2749296",
+    "tmdb": 320538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-20"
+}

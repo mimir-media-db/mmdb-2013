@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_caprice_2013",
+  "title": "Blue Caprice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14927595",
+    "imdb": "tt2027064",
+    "tmdb": 158739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 94
+}

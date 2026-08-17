@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buffalo_king_2013",
+  "title": "The Buffalo King",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129715651",
+    "imdb": "tt2630618"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blodets_band_2013",
+  "title": "Blodets bånd",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16323234",
+    "imdb": "tt2941230",
+    "tmdb": 395409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-05",
+  "runtime_minutes": 83
+}

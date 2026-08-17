@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barrio_brawler_2013",
+  "title": "Barrio Brawler",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115053088",
+    "imdb": "tt2839312",
+    "tmdb": 219897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

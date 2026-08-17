@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beside_still_waters_2013",
+  "title": "Beside Still Waters",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15070715",
+    "imdb": "tt2184398",
+    "tmdb": 250376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-12",
+  "runtime_minutes": 76
+}

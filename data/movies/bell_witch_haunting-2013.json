@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bell_witch_haunting_2013",
+  "title": "The Bell Witch Haunting",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350838",
+    "imdb": "tt2991532",
+    "tmdb": 220677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-26",
+  "runtime_minutes": 91
+}

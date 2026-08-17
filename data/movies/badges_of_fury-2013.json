@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_badges_of_fury_2013",
+  "title": "Badges of Fury",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10868811",
+    "imdb": "tt2644714",
+    "tmdb": 202220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-21",
+  "runtime_minutes": 97
+}

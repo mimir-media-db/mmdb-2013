@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaag_milkha_bhaag_2013",
+  "title": "Bhaag Milkha Bhaag",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900468",
+    "imdb": "tt2356180",
+    "tmdb": 206324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-11",
+  "runtime_minutes": 186
+}

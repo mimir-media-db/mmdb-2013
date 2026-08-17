@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bounty_killer_2013",
+  "title": "Bounty Killer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15030227",
+    "imdb": "tt2369396",
+    "tmdb": 209504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-05",
+  "runtime_minutes": 92
+}
