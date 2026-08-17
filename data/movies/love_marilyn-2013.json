@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_marilyn_2013",
+  "title": "Love, Marilyn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052328",
+    "imdb": "tt2077747",
+    "tmdb": 121831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01",
+  "runtime_minutes": 107
+}

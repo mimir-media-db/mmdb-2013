@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landscapes_of_memories_the_life_of_ruth_kluger_2013",
+  "title": "Landscapes of Memories: The Life of Ruth Kluger",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101714170",
+    "imdb": "tt2892036",
+    "tmdb": 416981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-09",
+  "runtime_minutes": 87
+}

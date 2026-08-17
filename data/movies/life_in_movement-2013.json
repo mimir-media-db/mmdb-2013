@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_movement_2013",
+  "title": "Life in movement",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15850093",
+    "imdb": "tt1754128",
+    "tmdb": 137830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 79
+}

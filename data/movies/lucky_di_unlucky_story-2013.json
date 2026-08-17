@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_di_unlucky_story_2013",
+  "title": "Lucky Di Unlucky Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250885",
+    "imdb": "tt2771898",
+    "tmdb": 188342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-26",
+  "runtime_minutes": 129
+}

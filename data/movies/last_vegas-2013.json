@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_vegas_2013",
+  "title": "Last Vegas",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q866048",
+    "imdb": "tt1204975",
+    "tmdb": 137093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 105
+}

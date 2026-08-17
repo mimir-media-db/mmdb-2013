@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_diable_dans_la_peau_2013",
+  "title": "Le Diable dans la peau",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222275",
+    "imdb": "tt1756587",
+    "tmdb": 180440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-27",
+  "runtime_minutes": 82
+}

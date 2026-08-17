@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_rome_olympic_stadium_2013",
+  "title": "Live at Rome Olympic Stadium",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115618587",
+    "imdb": "tt3411614",
+    "tmdb": 240237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-05",
+  "runtime_minutes": 160
+}

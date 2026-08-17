@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_reconstruccion_2013",
+  "title": "La reconstrucción",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55709780",
+    "imdb": "tt2718462",
+    "tmdb": 226033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-28",
+  "runtime_minutes": 93
+}

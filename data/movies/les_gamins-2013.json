@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_gamins_2013",
+  "title": "Les gamins",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232908",
+    "imdb": "tt2354181",
+    "tmdb": 183836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-17",
+  "runtime_minutes": 95
+}

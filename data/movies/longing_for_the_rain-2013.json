@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_longing_for_the_rain_2013",
+  "title": "Longing for the Rain",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100769990",
+    "imdb": "tt2664074",
+    "tmdb": 158943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-25"
+}

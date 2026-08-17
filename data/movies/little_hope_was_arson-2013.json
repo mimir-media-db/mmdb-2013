@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_hope_was_arson_2013",
+  "title": "Little Hope Was Arson",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414436",
+    "imdb": "tt2549138",
+    "tmdb": 231263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 71
+}

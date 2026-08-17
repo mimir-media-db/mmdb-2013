@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_monde_nous_appartient_2013",
+  "title": "Le monde nous appartient",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632950",
+    "imdb": "tt1943763",
+    "tmdb": 171301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-13",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_fire_burn_2013",
+  "title": "Let the Fire Burn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252460",
+    "imdb": "tt2119463",
+    "tmdb": 174352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-19",
+  "runtime_minutes": 88
+}

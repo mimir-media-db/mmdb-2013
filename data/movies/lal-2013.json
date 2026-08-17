@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lal_2013",
+  "title": "Lal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56325043",
+    "imdb": "tt3186316",
+    "tmdb": 350673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leve_boerenliefde_2013",
+  "title": "Leve boerenliefde",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1838754",
+    "imdb": "tt2401096",
+    "tmdb": 188142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-13",
+  "runtime_minutes": 97
+}

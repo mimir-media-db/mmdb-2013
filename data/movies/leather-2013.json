@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leather_2013",
+  "title": "Leather",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25415197",
+    "imdb": "tt2473718",
+    "tmdb": 272072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-21",
+  "runtime_minutes": 101
+}

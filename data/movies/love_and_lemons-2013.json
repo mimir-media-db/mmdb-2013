@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_lemons_2013",
+  "title": "Love and Lemons",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18010022",
+    "imdb": "tt2172061",
+    "tmdb": 167726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-20",
+  "runtime_minutes": 99
+}

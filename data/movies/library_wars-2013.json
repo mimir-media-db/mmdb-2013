@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_library_wars_2013",
+  "title": "Library Wars",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22130908",
+    "imdb": "tt2315236",
+    "tmdb": 193502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-27",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_transplantation_2013",
+  "title": "Love Transplantation",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11061495",
+    "imdb": "tt5548092",
+    "tmdb": 294842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-15"
+}

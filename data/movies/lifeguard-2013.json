@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lifeguard_2013",
+  "title": "The Lifeguard",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610508",
+    "imdb": "tt2265534",
+    "tmdb": 157375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 98
+}

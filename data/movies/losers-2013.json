@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_losers_2013",
+  "title": "Losers",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996456",
+    "imdb": "tt2613068",
+    "tmdb": 275595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-09"
+}

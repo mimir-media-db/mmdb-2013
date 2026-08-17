@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_oblivion_2013",
+  "title": "Land of Oblivion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2337640",
+    "imdb": "tt1555084",
+    "tmdb": 99389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02",
+  "runtime_minutes": 108
+}

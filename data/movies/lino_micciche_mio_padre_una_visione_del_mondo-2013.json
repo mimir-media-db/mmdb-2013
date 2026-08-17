@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lino_micciche_mio_padre_una_visione_del_mondo_2013",
+  "title": "Lino Miccichè, mio padre - Una visione del mondo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804202",
+    "imdb": "tt3322920",
+    "tmdb": 454505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 81
+}

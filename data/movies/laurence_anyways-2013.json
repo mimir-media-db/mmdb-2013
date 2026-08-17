@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laurence_anyways_2013",
+  "title": "Laurence Anyways",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2615443",
+    "imdb": "tt1650048",
+    "tmdb": 110160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_gaulois_audela_du_mythe_2013",
+  "title": "Les Gaulois au-delà du mythe",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106839930",
+    "imdb": "tt2926888",
+    "tmdb": 321053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-04"
+}

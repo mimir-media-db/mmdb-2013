@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_swami_vivekananda_2013",
+  "title": "The Light: Swami Vivekananda",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15059372",
+    "imdb": "tt11244414",
+    "tmdb": 1655908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23"
+}

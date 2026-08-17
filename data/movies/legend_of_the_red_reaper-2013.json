@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_red_reaper_2013",
+  "title": "Legend of the Red Reaper",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11753673",
+    "imdb": "tt0996958",
+    "tmdb": 257598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01",
+  "runtime_minutes": 99
+}

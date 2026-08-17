@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lions_heart_2013",
+  "title": "Lion's Heart",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16119822",
+    "imdb": "tt3254752",
+    "tmdb": 264245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-07",
+  "runtime_minutes": 113
+}

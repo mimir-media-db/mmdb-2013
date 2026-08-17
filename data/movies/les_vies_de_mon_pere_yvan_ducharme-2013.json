@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_vies_de_mon_pere_yvan_ducharme_2013",
+  "title": "Les Vies de mon père : Yvan Ducharme",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48772707",
+    "imdb": "tt3513852"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

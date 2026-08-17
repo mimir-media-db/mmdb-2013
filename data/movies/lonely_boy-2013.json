@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_boy_2013",
+  "title": "Lonely Boy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964413",
+    "imdb": "tt2231367",
+    "tmdb": 171729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-22"
+}

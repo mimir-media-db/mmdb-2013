@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bonheur_2013",
+  "title": "Le Bonheur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15197258",
+    "imdb": "tt2288884",
+    "tmdb": 614588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-27",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lasting_2013",
+  "title": "Lasting",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3218425",
+    "imdb": "tt2551428",
+    "tmdb": 153781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 95
+}

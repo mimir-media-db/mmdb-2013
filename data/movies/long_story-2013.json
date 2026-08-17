@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_story_2013",
+  "title": "A Long Story",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105064429",
+    "imdb": "tt2709070",
+    "tmdb": 223601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-17",
+  "runtime_minutes": 89
+}

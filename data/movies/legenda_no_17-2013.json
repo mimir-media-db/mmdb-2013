@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legenda_no_17_2013",
+  "title": "Legenda No. 17",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12008230",
+    "imdb": "tt2182001",
+    "tmdb": 184155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-10",
+  "runtime_minutes": 134
+}

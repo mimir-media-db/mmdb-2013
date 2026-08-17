@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_estrella_2013",
+  "title": "La Estrella",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97958786",
+    "imdb": "tt2063704",
+    "tmdb": 185735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-24",
+  "runtime_minutes": 95
+}

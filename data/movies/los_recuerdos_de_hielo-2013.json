@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_recuerdos_de_hielo_2013",
+  "title": "Los recuerdos de hielo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98076136",
+    "imdb": "tt3329888",
+    "tmdb": 240705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-29",
+  "runtime_minutes": 78
+}

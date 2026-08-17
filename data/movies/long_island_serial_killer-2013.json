@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_island_serial_killer_2013",
+  "title": "The Long Island Serial Killer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20926202",
+    "imdb": "tt3043732",
+    "tmdb": 217130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

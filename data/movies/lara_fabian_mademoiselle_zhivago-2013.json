@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lara_fabian_mademoiselle_zhivago_2013",
+  "title": "Lara Fabian - Mademoiselle Zhivago",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573809",
+    "imdb": "tt3323304",
+    "tmdb": 1113048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-05"
+}
