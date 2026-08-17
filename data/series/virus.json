@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_virus",
+  "title": "The Virus",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10853022",
+    "imdb": "tt3145496",
+    "tmdb": 62945
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

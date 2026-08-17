@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_heaven",
+  "title": "Vampire Heaven",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q11351949",
+    "imdb": "tt2759662",
+    "tmdb": 71597
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

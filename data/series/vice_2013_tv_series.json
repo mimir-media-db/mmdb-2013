@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_vice_2013_tv_series",
+  "title": "VICE (2013 TV series)",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119118370"
+  },
+  "last_updated": "2026-08-17"
+}
