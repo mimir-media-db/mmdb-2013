@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_terror_in_the_skies",
+  "title": "Terror in the Skies",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q20649586",
+    "imdb": "tt3021288",
+    "tmdb": 221051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

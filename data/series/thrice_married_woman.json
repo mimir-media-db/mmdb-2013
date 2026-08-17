@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_thrice_married_woman",
+  "title": "Thrice Married Woman",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15096878",
+    "imdb": "tt3385672",
+    "tmdb": 64176
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

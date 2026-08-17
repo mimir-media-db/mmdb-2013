@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_that_puppet_game_show",
+  "title": "That Puppet Game Show",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17022325",
+    "imdb": "tt3119170"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

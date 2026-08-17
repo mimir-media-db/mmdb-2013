@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_doors_down",
+  "title": "Two Doors Down",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25171914",
+    "imdb": "tt5603868",
+    "tmdb": 66119
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

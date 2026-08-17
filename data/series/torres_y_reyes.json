@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_torres_y_reyes",
+  "title": "Torres y Reyes",
+  "start_year": 2013,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16482647",
+    "imdb": "tt3284442",
+    "tmdb": 235774
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

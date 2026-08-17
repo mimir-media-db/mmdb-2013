@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tom_green_live",
+  "title": "Tom Green Live",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q26177208",
+    "imdb": "tt3213936",
+    "tmdb": 240154
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 44
+}

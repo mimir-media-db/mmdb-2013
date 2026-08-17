@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tamras_oc_wedding",
+  "title": "Tamra's OC Wedding",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17108258",
+    "imdb": "tt3164276",
+    "tmdb": 136811
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

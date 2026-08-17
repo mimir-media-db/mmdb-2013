@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tumhari_paakhi",
+  "title": "Tumhari Paakhi",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17152350",
+    "imdb": "tt3506278",
+    "tmdb": 83574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 269
+}

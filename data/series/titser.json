@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_titser",
+  "title": "Titser",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17090665",
+    "imdb": "tt3109138",
+    "tmdb": 59479
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

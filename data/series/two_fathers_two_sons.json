@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_fathers_two_sons",
+  "title": "Two Fathers, Two Sons",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16272211",
+    "imdb": "tt3329488",
+    "tmdb": 61217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 60
+}

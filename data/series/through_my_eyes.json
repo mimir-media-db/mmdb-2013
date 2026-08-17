@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_through_my_eyes",
+  "title": "Through My Eyes",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4299701",
+    "imdb": "tt2990480",
+    "tmdb": 67746
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

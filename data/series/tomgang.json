@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tomgang",
+  "title": "Tomgang",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16514299",
+    "imdb": "tt3128200",
+    "tmdb": 64098
+  },
+  "last_updated": "2026-08-17"
+}

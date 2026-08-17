@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taste",
+  "title": "The Taste",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7768147",
+    "imdb": "tt2245386",
+    "tmdb": 46307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tna_british_boot_camp",
+  "title": "TNA British Boot Camp",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2261085",
+    "imdb": "tt3924286",
+    "tmdb": 119104
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

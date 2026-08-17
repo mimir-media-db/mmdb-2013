@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_toast_of_london",
+  "title": "Toast of London",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17022860",
+    "imdb": "tt2432604",
+    "tmdb": 61413
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}
