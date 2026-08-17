@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demisur_2013",
+  "title": "Demi-sœur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12150878",
+    "imdb": "tt2200144",
+    "tmdb": 198119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-05",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_dolphin_2013",
+  "title": "Dear Dolphin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18685390",
+    "imdb": "tt2894416",
+    "tmdb": 193709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

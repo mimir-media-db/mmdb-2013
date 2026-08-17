@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dracula_the_dark_prince_2013",
+  "title": "Dracula: The Dark Prince",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250025",
+    "imdb": "tt2287214",
+    "tmdb": 218266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-15",
+  "runtime_minutes": 100
+}

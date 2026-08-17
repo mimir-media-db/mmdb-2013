@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_leben_ist_nichts_fur_feiglinge_2013",
+  "title": "Das Leben ist nichts für Feiglinge",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511818",
+    "imdb": "tt2147550",
+    "tmdb": 130694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18",
+  "runtime_minutes": 97
+}

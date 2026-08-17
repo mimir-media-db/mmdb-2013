@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demons_rook_2013",
+  "title": "The Demon's Rook",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151063",
+    "imdb": "tt2401215",
+    "tmdb": 207773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-27",
+  "runtime_minutes": 103
+}

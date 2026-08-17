@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_volta_2013",
+  "title": "De Volta",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999560",
+    "imdb": "tt6761290",
+    "tmdb": 264922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

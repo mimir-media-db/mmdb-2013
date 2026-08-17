@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desingu_raja_2013",
+  "title": "Desingu Raja",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15241079",
+    "imdb": "tt3215282",
+    "tmdb": 216500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23"
+}

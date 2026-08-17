@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_march_2013",
+  "title": "Death March",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12345679",
+    "imdb": "tt2852446",
+    "tmdb": 186998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-19",
+  "runtime_minutes": 110
+}

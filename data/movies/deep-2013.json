@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_2013",
+  "title": "The Deep",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5018929",
+    "imdb": "tt1764275",
+    "tmdb": 127913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27",
+  "runtime_minutes": 90
+}

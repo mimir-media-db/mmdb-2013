@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_violinist_2013",
+  "title": "The Devil's Violinist",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14640729",
+    "imdb": "tt2401715",
+    "tmdb": 191820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 122
+}

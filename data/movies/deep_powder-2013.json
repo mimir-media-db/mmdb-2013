@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_powder_2013",
+  "title": "Deep Powder",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47064117",
+    "imdb": "tt2217777",
+    "tmdb": 174369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

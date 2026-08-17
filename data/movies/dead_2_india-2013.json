@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_2_india_2013",
+  "title": "The Dead 2: India",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18389534",
+    "imdb": "tt2917336",
+    "tmdb": 214464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 98
+}

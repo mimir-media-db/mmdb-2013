@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_in_tombstone_2013",
+  "title": "Dead in Tombstone",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3704222",
+    "imdb": "tt2268419",
+    "tmdb": 151933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-20",
+  "runtime_minutes": 100
+}

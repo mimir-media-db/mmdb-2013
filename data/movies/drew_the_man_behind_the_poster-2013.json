@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drew_the_man_behind_the_poster_2013",
+  "title": "Drew: The Man Behind the Poster",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18148361",
+    "imdb": "tt1486843",
+    "tmdb": 213831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_marchen_von_der_prinzessin_die_unbedingt_in_einem_marchen_vorkommen_wollte_2013",
+  "title": "Das Märchen von der Prinzessin, die unbedingt in einem Märchen vorkommen wollte",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15804675",
+    "imdb": "tt2222858",
+    "tmdb": 241480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23",
+  "runtime_minutes": 89
+}

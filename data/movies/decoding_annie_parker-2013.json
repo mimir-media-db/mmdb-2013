@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_decoding_annie_parker_2013",
+  "title": "Decoding Annie Parker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5249542",
+    "imdb": "tt1464191",
+    "tmdb": 177047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 91
+}

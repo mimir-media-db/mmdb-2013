@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drishyam_2013",
+  "title": "Drishyam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15401703",
+    "imdb": "tt3417422",
+    "tmdb": 244049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-19",
+  "runtime_minutes": 160
+}

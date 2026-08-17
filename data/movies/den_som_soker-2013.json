@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_som_soker_2013",
+  "title": "Den som söker",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18287930",
+    "imdb": "tt2182097",
+    "tmdb": 161343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-12",
+  "runtime_minutes": 95
+}

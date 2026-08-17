@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_verfuhrungskunstler_2013",
+  "title": "Die Verführungskünstler",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43841651",
+    "imdb": "tt1991030",
+    "tmdb": 426497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

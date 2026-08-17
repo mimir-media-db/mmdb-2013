@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_door_to_the_night_2013",
+  "title": "Door to the Night",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19161822",
+    "imdb": "tt6059254",
+    "tmdb": 242959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-07"
+}

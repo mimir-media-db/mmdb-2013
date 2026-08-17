@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dressed_to_marry_2013",
+  "title": "Dressed to Marry",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25336871",
+    "imdb": "tt3668960",
+    "tmdb": 270525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_ballade_van_robbie_de_wee_2013",
+  "title": "Die Ballade van Robbie de Wee",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15919638",
+    "imdb": "tt2980672",
+    "tmdb": 306807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-01"
+}

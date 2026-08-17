@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_armas_e_bagagens_2013",
+  "title": "De Armas e Bagagens",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112705625",
+    "imdb": "tt4623254",
+    "tmdb": 834211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
