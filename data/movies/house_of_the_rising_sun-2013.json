@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_rising_sun_2013",
+  "title": "The House of the Rising Sun",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17191230",
+    "imdb": "tt2883092",
+    "tmdb": 567087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

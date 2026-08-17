@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_wrapped_in_a_blanket_2013",
+  "title": "Happiness Wrapped in a Blanket",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16130501",
+    "imdb": "tt3862164",
+    "tmdb": 785907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 55
+}

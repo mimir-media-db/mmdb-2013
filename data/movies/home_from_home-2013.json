@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_from_home_2013",
+  "title": "Home from Home",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14759456",
+    "imdb": "tt1998204",
+    "tmdb": 215740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 230
+}

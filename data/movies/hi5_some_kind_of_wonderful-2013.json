@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hi5_some_kind_of_wonderful_2013",
+  "title": "Hi-5: Some Kind of Wonderful",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10295371",
+    "imdb": "tt3614946",
+    "tmdb": 393401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

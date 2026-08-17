@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hajimari_no_michi_2013",
+  "title": "Hajimari no Michi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5639954",
+    "imdb": "tt2444942",
+    "tmdb": 226974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

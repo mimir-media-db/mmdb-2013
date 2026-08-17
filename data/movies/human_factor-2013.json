@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_factor_2013",
+  "title": "The Human Factor",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16323043",
+    "imdb": "tt2406992",
+    "tmdb": 215628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 83
+}

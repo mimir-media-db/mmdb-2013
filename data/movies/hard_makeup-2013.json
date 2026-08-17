@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_makeup_2013",
+  "title": "Hard Makeup",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16044975",
+    "imdb": "tt3526500",
+    "tmdb": 386472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

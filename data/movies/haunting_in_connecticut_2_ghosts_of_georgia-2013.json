@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_in_connecticut_2_ghosts_of_georgia_2013",
+  "title": "The Haunting in Connecticut 2: Ghosts of Georgia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q869163",
+    "imdb": "tt1457765",
+    "tmdb": 150202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}

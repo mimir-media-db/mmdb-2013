@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_the_devil_2013",
+  "title": "Here Comes the Devil",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2827739",
+    "imdb": "tt2107648",
+    "tmdb": 123359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}
