@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onye_ozi_2013",
+  "title": "Onye Ozi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22582567",
+    "imdb": "tt3249184",
+    "tmdb": 279224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-18"
+}

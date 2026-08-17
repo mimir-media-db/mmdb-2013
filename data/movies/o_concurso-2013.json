@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_concurso_2013",
+  "title": "O Concurso",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15042128",
+    "imdb": "tt2616114",
+    "tmdb": 210802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-19",
+  "runtime_minutes": 90
+}

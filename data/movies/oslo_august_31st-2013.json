@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oslo_august_31st_2013",
+  "title": "Oslo, August 31st",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q401566",
+    "imdb": "tt1736633",
+    "tmdb": 75233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 96
+}

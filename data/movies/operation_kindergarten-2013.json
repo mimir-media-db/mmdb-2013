@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_kindergarten_2013",
+  "title": "Operation Kindergarten",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755213",
+    "imdb": "tt3413358",
+    "tmdb": 1395914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-20",
+  "runtime_minutes": 90
+}

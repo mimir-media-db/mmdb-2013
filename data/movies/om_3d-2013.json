@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_om_3d_2013",
+  "title": "Om 3D",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14089618",
+    "imdb": "tt3067260",
+    "tmdb": 410275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-18"
+}

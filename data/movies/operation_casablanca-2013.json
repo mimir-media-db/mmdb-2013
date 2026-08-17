@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_casablanca_2013",
+  "title": "Operation Casablanca",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3354677",
+    "imdb": "tt1327808",
+    "tmdb": 76529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20"
+}

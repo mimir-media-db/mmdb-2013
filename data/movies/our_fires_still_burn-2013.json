@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_fires_still_burn_2013",
+  "title": "Our Fires Still Burn",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60286638",
+    "imdb": "tt7826574",
+    "tmdb": 1302095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

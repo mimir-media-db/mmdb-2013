@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_only_the_young_die_good_2013",
+  "title": "Only the Young Die Good",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18166270",
+    "imdb": "tt2737750",
+    "tmdb": 157180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

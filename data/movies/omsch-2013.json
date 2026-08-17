@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_omsch_2013",
+  "title": "Omsch",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63432825",
+    "imdb": "tt3269588"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

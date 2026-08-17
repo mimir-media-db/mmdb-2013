@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_opium_2013",
+  "title": "Opium",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16668144",
+    "imdb": "tt2641648",
+    "tmdb": 200957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-23",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oblivion_2013",
+  "title": "Oblivion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q638544",
+    "imdb": "tt1483013",
+    "tmdb": 75612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-26",
+  "runtime_minutes": 125
+}

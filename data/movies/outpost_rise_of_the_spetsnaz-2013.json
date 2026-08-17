@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outpost_rise_of_the_spetsnaz_2013",
+  "title": "Outpost: Rise of the Spetsnaz",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18736968",
+    "imdb": "tt2241403",
+    "tmdb": 164377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27"
+}

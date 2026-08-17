@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_chyom_molchat_devushki_2013",
+  "title": "O chyom molchat devushki",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20091910",
+    "imdb": "tt2736854",
+    "tmdb": 187459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-07",
+  "runtime_minutes": 85
+}

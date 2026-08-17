@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_owners_2013",
+  "title": "The Owners",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125215184",
+    "imdb": "tt2860276",
+    "tmdb": 190907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

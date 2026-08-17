@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_good_report_2013",
+  "title": "Of Good Report",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17325516",
+    "imdb": "tt2736074",
+    "tmdb": 202455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-09",
+  "runtime_minutes": 101
+}
