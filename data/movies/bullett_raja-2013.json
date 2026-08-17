@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullett_raja_2013",
+  "title": "Bullett Raja",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4996805",
+    "imdb": "tt2551378",
+    "tmdb": 220495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 138
+}

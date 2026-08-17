@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharya_athra_pora_2013",
+  "title": "Bharya Athra Pora",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14094430",
+    "imdb": "tt2996636",
+    "tmdb": 216782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

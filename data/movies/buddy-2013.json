@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddy_2013",
+  "title": "Buddy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15790168",
+    "imdb": "tt3062170",
+    "tmdb": 246894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 95
+}

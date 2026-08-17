@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barrio_universitario_2013",
+  "title": "Barrio universitario",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16489542",
+    "imdb": "tt3056386",
+    "tmdb": 242266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

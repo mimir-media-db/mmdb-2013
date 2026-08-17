@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bui_doi_cho_lon_2013",
+  "title": "Bui doi Cho Lon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10743712",
+    "imdb": "tt2592594",
+    "tmdb": 175466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

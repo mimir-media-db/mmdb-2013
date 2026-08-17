@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blinder_2013",
+  "title": "Blinder",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4926690",
+    "imdb": "tt1874434",
+    "tmdb": 234256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

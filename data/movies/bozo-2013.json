@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bozo_2013",
+  "title": "Bozo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17001021",
+    "imdb": "tt2569770",
+    "tmdb": 159557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balala_the_fairies_2013",
+  "title": "Balala the Fairies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4849895",
+    "imdb": "tt6967268",
+    "tmdb": 186834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

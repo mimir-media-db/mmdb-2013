@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_offer_2013",
+  "title": "The Best Offer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q324011",
+    "imdb": "tt1924396",
+    "tmdb": 152742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 124
+}

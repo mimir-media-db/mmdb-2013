@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_her_sisters_in_a_pony_tale_2013",
+  "title": "Barbie & Her Sisters in a Pony Tale",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15709914",
+    "imdb": "tt3321254",
+    "tmdb": 227200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 71
+}

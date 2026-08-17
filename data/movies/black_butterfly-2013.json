@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_butterfly_2013",
+  "title": "Black Butterfly",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4752513",
+    "imdb": "tt2714882",
+    "tmdb": 584319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

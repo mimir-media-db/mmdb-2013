@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bromance_my_brothers_romance_2013",
+  "title": "Bromance: My Brother's Romance",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16241021",
+    "imdb": "tt2918984",
+    "tmdb": 204306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

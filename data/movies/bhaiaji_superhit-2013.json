@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaiaji_superhit_2013",
+  "title": "Bhaiaji Superhit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900828",
+    "imdb": "tt2150177",
+    "tmdb": 534985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}
