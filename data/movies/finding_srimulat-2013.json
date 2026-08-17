@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_srimulat_2013",
+  "title": "Finding Srimulat",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19725709",
+    "imdb": "tt2912310",
+    "tmdb": 518243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_hour_friends_2013",
+  "title": "Five Hour Friends",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078184",
+    "imdb": "tt2261547",
+    "tmdb": 259570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 97
+}

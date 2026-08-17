@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_footandmouth_disease_2013",
+  "title": "Foot-and-mouth disease",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106038182"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

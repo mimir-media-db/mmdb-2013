@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fer_mamla_gadbad_gadbad_2013",
+  "title": "Fer Mamla Gadbad Gadbad",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5443731",
+    "imdb": "tt2949246",
+    "tmdb": 317231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_snowfall_2013",
+  "title": "First Snowfall",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16570683",
+    "imdb": "tt3081374",
+    "tmdb": 217479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-06",
+  "runtime_minutes": 104
+}

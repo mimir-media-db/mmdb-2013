@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_those_who_can_tell_no_tales_2013",
+  "title": "For Those Who Can Tell No Tales",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15706972",
+    "imdb": "tt3074796",
+    "tmdb": 209411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-07",
+  "runtime_minutes": 72
+}

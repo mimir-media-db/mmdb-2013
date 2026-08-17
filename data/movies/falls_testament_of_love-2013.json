@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falls_testament_of_love_2013",
+  "title": "The Falls: Testament of Love",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28944516",
+    "imdb": "tt3169740",
+    "tmdb": 242648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 123
+}

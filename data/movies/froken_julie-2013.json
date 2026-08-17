@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_froken_julie_2013",
+  "title": "Fröken Julie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18239033",
+    "imdb": "tt2298738",
+    "tmdb": 258121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

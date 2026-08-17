@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fondi_91_2013",
+  "title": "Fondi '91",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720620",
+    "imdb": "tt1764315",
+    "tmdb": 206355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-13"
+}

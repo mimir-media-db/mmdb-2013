@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_senses_2013",
+  "title": "Four Senses",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034192",
+    "imdb": "tt2330852",
+    "tmdb": 1113419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgotten_king_2013",
+  "title": "The Forgotten King",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50422247",
+    "imdb": "tt1773733",
+    "tmdb": 72381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

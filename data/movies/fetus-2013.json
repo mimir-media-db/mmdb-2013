@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fetus_2013",
+  "title": "Fetus",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739346",
+    "tmdb": 984745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fake_fiction_2013",
+  "title": "Fake Fiction",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14717413",
+    "imdb": "tt3293724",
+    "tmdb": 289301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_mercy_2013",
+  "title": "Finding Mercy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17013597",
+    "imdb": "tt6731586"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-18"
+}

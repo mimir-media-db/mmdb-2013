@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_move_2013",
+  "title": "Final Move",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600723",
+    "imdb": "tt2182093",
+    "tmdb": 353949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}

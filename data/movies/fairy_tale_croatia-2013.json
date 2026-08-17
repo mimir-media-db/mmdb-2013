@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fairy_tale_croatia_2013",
+  "title": "Fairy Tale Croatia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40128509",
+    "imdb": "tt7320724"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-18"
+}

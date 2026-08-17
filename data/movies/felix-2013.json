@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_felix_2013",
+  "title": "Felix",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113620830",
+    "imdb": "tt2480874",
+    "tmdb": 221569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13"
+}

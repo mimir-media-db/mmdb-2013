@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frost_2013",
+  "title": "Frost",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20081722",
+    "imdb": "tt2181953",
+    "tmdb": 131343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-07"
+}

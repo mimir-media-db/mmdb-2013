@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabulous_ice_age_2013",
+  "title": "The Fabulous Ice Age",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64996035",
+    "imdb": "tt2431082",
+    "tmdb": 256326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-14",
+  "runtime_minutes": 72
+}

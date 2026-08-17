@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuck_for_forest_2013",
+  "title": "Fuck for Forest",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12123479",
+    "imdb": "tt2444006",
+    "tmdb": 155336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-13",
+  "runtime_minutes": 86
+}
