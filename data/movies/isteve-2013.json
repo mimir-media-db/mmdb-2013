@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_isteve_2013",
+  "title": "ISteve",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125162",
+    "imdb": "tt2782834",
+    "tmdb": 186606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-15"
+}

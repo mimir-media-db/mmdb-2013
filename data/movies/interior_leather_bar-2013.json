@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interior_leather_bar_2013",
+  "title": "Interior. Leather Bar.",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3153175",
+    "imdb": "tt2352488",
+    "tmdb": 158936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-19",
+  "runtime_minutes": 60
+}

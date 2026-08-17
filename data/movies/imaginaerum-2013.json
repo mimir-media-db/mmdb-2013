@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imaginaerum_2013",
+  "title": "Imaginaerum",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2612953",
+    "imdb": "tt1959409",
+    "tmdb": 75204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-18",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_treno_va_a_mosca_2013",
+  "title": "Il treno va a Mosca",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034249",
+    "imdb": "tt2257700",
+    "tmdb": 239886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

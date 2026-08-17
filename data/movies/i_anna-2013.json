@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_anna_2013",
+  "title": "I, Anna",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967392",
+    "imdb": "tt1587411",
+    "tmdb": 114961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-02",
+  "runtime_minutes": 91
+}

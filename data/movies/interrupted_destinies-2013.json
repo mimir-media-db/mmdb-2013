@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_interrupted_destinies_2013",
+  "title": "Interrupted destinies",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24451379",
+    "imdb": "tt1928225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

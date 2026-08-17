@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_hardwell_documentary_2013",
+  "title": "I AM Hardwell Documentary",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25646527",
+    "imdb": "tt3478444",
+    "tmdb": 190827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 73
+}

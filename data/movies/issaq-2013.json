@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_issaq_2013",
+  "title": "Issaq",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249349",
+    "imdb": "tt2215163",
+    "tmdb": 239586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-26"
+}

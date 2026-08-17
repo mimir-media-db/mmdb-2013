@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_isnt_it_delicious_2013",
+  "title": "Isn't It Delicious",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32941912",
+    "imdb": "tt2041381",
+    "tmdb": 308526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

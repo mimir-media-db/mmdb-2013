@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_divine_2013",
+  "title": "I Am Divine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052313",
+    "imdb": "tt1356790",
+    "tmdb": 171910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-09",
+  "runtime_minutes": 90
+}

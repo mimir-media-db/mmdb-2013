@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_dating_you_not_2013",
+  "title": "I'm Dating You Not",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97786157",
+    "imdb": "tt2732140",
+    "tmdb": 222109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-22",
+  "runtime_minutes": 76
+}

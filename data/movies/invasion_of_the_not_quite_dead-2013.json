@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invasion_of_the_not_quite_dead_2013",
+  "title": "Invasion of the Not Quite Dead",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60489866",
+    "imdb": "tt0902292",
+    "tmdb": 156975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

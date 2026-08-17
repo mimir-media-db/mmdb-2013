@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_il_sole_dei_cattivi_2013",
+  "title": "Il sole dei cattivi",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725702",
+    "imdb": "tt8747662"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

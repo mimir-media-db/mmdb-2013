@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_rosa_nudo_2013",
+  "title": "Il rosa nudo",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13526932",
+    "imdb": "tt2872380",
+    "tmdb": 291437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-24",
+  "runtime_minutes": 70
+}

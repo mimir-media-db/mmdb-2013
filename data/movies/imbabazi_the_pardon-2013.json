@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imbabazi_the_pardon_2013",
+  "title": "Imbabazi: The Pardon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488981",
+    "imdb": "tt2180405",
+    "tmdb": 444495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

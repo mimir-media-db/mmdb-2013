@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iran_job_2013",
+  "title": "The Iran Job",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6565837",
+    "imdb": "tt1753846",
+    "tmdb": 127540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-21",
+  "runtime_minutes": 90
+}
