@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_competition_2013",
+  "title": "The Competition",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53761160",
+    "imdb": "tt2647618",
+    "tmdb": 303987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-10",
+  "runtime_minutes": 99
+}

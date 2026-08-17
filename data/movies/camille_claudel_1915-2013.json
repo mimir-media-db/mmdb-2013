@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camille_claudel_1915_2013",
+  "title": "Camille Claudel, 1915",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4348385",
+    "imdb": "tt2018086",
+    "tmdb": 110428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-12",
+  "runtime_minutes": 97
+}

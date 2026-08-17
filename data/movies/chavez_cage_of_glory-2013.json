@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chavez_cage_of_glory_2013",
+  "title": "Chavez Cage of Glory",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646229",
+    "imdb": "tt2056757",
+    "tmdb": 220486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 92
+}

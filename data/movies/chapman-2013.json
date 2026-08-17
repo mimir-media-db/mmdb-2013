@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chapman_2013",
+  "title": "Chapman",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86667432",
+    "imdb": "tt2014191",
+    "tmdb": 171696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

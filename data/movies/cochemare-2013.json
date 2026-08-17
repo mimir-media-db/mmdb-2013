@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cochemare_2013",
+  "title": "Cochemare",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59617280",
+    "imdb": "tt2917438",
+    "tmdb": 215895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 13
+}

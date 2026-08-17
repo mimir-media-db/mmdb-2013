@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_battle_legacy_war_2013",
+  "title": "Captain Battle: Legacy War",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61874780",
+    "imdb": "tt2387413",
+    "tmdb": 199581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-13"
+}

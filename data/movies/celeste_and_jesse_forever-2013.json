@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_celeste_and_jesse_forever_2013",
+  "title": "Celeste and Jesse Forever",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q248505",
+    "imdb": "tt1405365",
+    "tmdb": 84184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-14",
+  "runtime_minutes": 92
+}

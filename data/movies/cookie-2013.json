@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cookie_2013",
+  "title": "Cookie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2996514",
+    "imdb": "tt2063876",
+    "tmdb": 160652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-23",
+  "runtime_minutes": 98
+}

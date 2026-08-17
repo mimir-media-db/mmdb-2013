@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinco_de_mayo_la_batalla_2013",
+  "title": "Cinco de Mayo: La Batalla",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16490925",
+    "imdb": "tt2553908",
+    "tmdb": 184374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-03"
+}

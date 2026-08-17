@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clawing_a_journey_through_the_spanish_horror_2013",
+  "title": "Clawing! A Journey Through the Spanish Horror",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98180988",
+    "imdb": "tt2358836",
+    "tmdb": 257844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-20",
+  "runtime_minutes": 63
+}

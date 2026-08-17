@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciel_ouvert_2013",
+  "title": "À ciel ouvert",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16009929",
+    "imdb": "tt3150912",
+    "tmdb": 224918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-18",
+  "runtime_minutes": 110
+}

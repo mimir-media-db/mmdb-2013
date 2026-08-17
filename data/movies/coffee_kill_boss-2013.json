@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_kill_boss_2013",
+  "title": "Coffee, Kill Boss",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16958852",
+    "imdb": "tt2396350",
+    "tmdb": 195029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-24"
+}

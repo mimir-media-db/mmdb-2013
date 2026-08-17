@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casting_2013",
+  "title": "Casting",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97993715",
+    "imdb": "tt2893256",
+    "tmdb": 187093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-22",
+  "runtime_minutes": 89
+}

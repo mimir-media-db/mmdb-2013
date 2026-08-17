@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closed_curtain_2013",
+  "title": "Closed Curtain",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4804051",
+    "imdb": "tt2626926",
+    "tmdb": 160171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-12",
+  "runtime_minutes": 106
+}

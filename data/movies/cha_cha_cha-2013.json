@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cha_cha_cha_2013",
+  "title": "Cha cha cha",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14227639",
+    "imdb": "tt2997896",
+    "tmdb": 201010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-18",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_ice_2013",
+  "title": "Chasing Ice",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3700485",
+    "imdb": "tt1579361",
+    "tmdb": 84185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-07",
+  "runtime_minutes": 74
+}

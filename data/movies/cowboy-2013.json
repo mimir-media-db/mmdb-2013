@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cowboy_2013",
+  "title": "Cowboy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16136053",
+    "imdb": "tt4896098",
+    "tmdb": 201944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-15"
+}

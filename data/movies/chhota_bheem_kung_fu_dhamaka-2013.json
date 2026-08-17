@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhota_bheem_kung_fu_dhamaka_2013",
+  "title": "Chhota Bheem Kung Fu Dhamaka",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56063769",
+    "imdb": "tt10288820",
+    "tmdb": 614256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

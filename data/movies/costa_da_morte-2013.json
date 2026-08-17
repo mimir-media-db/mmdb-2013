@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_costa_da_morte_2013",
+  "title": "Costa da Morte",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85967451",
+    "imdb": "tt3103318",
+    "tmdb": 215637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 81
+}

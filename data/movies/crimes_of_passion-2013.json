@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimes_of_passion_2013",
+  "title": "Crimes of Passion",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659415",
+    "imdb": "tt3136490",
+    "tmdb": 230543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-08",
+  "runtime_minutes": 114
+}

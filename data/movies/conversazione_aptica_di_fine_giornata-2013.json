@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_conversazione_aptica_di_fine_giornata_2013",
+  "title": "Conversazione aptica di fine giornata",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65014438"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 3
+}

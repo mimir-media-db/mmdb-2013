@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cursed_bastards_2013",
+  "title": "Cursed bastards",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136259705",
+    "imdb": "tt1820518",
+    "tmdb": 252531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-03",
+  "runtime_minutes": 120
+}

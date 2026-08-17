@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conquerors_2013",
+  "title": "The Conquerors",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15207721",
+    "imdb": "tt3115242",
+    "tmdb": 257200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-21"
+}

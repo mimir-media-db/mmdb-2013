@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cairo_drive_2013",
+  "title": "Cairo Drive",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954814",
+    "imdb": "tt2527050",
+    "tmdb": 230154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-28",
+  "runtime_minutes": 77
+}

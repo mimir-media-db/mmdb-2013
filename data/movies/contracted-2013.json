@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contracted_2013",
+  "title": "Contracted",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16237366",
+    "imdb": "tt2281159",
+    "tmdb": 204349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-07",
+  "runtime_minutes": 78
+}

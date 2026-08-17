@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cars_toons_bugged_2013",
+  "title": "Cars Toons: Bugged",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101130198",
+    "imdb": "tt3755824",
+    "tmdb": 296159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-22"
+}

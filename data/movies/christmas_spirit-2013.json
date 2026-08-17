@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_spirit_2013",
+  "title": "The Christmas Spirit",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19606229",
+    "imdb": "tt3101386",
+    "tmdb": 241903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-01",
+  "runtime_minutes": 84
+}

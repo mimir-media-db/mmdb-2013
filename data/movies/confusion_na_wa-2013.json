@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confusion_na_wa_2013",
+  "title": "Confusion Na Wa",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16959070",
+    "imdb": "tt3012648",
+    "tmdb": 332750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-01",
+  "runtime_minutes": 105
+}

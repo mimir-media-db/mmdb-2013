@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_in_berlin_2013",
+  "title": "A Coffee in Berlin",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475778",
+    "imdb": "tt1954701",
+    "tmdb": 130739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-26",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_chucky_2013",
+  "title": "Curse of Chucky",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12161666",
+    "imdb": "tt2230358",
+    "tmdb": 167032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-02",
+  "runtime_minutes": 97
+}

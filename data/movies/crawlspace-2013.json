@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crawlspace_2013",
+  "title": "Crawlspace",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169978",
+    "imdb": "tt2141777",
+    "tmdb": 209780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-04",
+  "runtime_minutes": 90
+}

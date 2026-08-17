@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_mavericks_2013",
+  "title": "Chasing Mavericks",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q497139",
+    "imdb": "tt1629757",
+    "tmdb": 82684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-17",
+  "runtime_minutes": 116
+}

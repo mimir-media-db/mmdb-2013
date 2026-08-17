@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheer_up_mr_lee_2013",
+  "title": "Cheer Up Mr. Lee",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445739",
+    "imdb": "tt2979274",
+    "tmdb": 204311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-27"
+}

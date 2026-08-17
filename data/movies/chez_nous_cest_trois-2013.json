@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chez_nous_cest_trois_2013",
+  "title": "Chez nous c'est trois !",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14901499",
+    "imdb": "tt2251798",
+    "tmdb": 203788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-13",
+  "runtime_minutes": 88
+}

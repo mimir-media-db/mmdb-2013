@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cosi_fan_tutte_2013",
+  "title": "Così fan tutte",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136325424",
+    "imdb": "tt2973692",
+    "tmdb": 267544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 190
+}
