@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rigor_mortis_2013",
+  "title": "Rigor Mortis",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11125292",
+    "imdb": "tt2771800",
+    "tmdb": 210911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-30",
+  "runtime_minutes": 101
+}

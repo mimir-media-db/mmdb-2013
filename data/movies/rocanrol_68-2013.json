@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocanrol_68_2013",
+  "title": "Rocanrol 68",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16142370",
+    "imdb": "tt3169690",
+    "tmdb": 255661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-31",
+  "runtime_minutes": 100
+}

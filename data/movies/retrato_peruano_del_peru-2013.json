@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_retrato_peruano_del_peru_2013",
+  "title": "Retrato peruano del Perú",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412661",
+    "imdb": "tt14074228",
+    "tmdb": 646166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

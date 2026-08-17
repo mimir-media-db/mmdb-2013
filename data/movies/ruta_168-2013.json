@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ruta_168_2013",
+  "title": "Ruta 168",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412713",
+    "imdb": "tt2966814"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

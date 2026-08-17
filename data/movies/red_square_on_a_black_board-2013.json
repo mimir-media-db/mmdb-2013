@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_square_on_a_black_board_2013",
+  "title": "Red Square on a Black Board",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055284",
+    "imdb": "tt3163248",
+    "tmdb": 256099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 110
+}

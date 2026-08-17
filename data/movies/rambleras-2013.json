@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rambleras_2013",
+  "title": "Rambleras",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18709370",
+    "imdb": "tt3379440",
+    "tmdb": 260254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-03-08",
+  "runtime_minutes": 93
+}

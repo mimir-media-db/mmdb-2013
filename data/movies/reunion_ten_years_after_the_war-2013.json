@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_ten_years_after_the_war_2013",
+  "title": "Reunion – Ten Years After the War",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11997680",
+    "imdb": "tt2401733",
+    "tmdb": 638927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-11",
+  "runtime_minutes": 72
+}

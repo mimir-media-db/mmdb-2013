@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivers_lazy_flow_2013",
+  "title": "The River's Lazy Flow",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40681875",
+    "imdb": "tt2904980"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 9
+}

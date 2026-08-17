@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_2_2013",
+  "title": "RED 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q903930",
+    "imdb": "tt1821694",
+    "tmdb": 146216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-07-18",
+  "runtime_minutes": 116
+}

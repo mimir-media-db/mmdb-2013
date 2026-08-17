@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_running_man_2013",
+  "title": "Running Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7379983",
+    "imdb": "tt2763764",
+    "tmdb": 194872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-04-04",
+  "runtime_minutes": 127
+}

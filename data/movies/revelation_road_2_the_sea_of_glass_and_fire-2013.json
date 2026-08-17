@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revelation_road_2_the_sea_of_glass_and_fire_2013",
+  "title": "Revelation Road 2: The Sea of Glass and Fire",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26722847",
+    "imdb": "tt2825924",
+    "tmdb": 220468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 90
+}

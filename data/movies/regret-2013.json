@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regret_2013",
+  "title": "Regret!",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2731169",
+    "imdb": "tt2472432",
+    "tmdb": 193418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-06-20",
+  "runtime_minutes": 95
+}

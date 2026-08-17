@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_princesses_2013",
+  "title": "Red Princesses",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18393774",
+    "imdb": "tt2396870",
+    "tmdb": 166891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-11",
+  "runtime_minutes": 90
+}

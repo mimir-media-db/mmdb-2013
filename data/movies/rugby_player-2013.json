@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rugby_player_2013",
+  "title": "The Rugby Player",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19060304",
+    "imdb": "tt1401256",
+    "tmdb": 225815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

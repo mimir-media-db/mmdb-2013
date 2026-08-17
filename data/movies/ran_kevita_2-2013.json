@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ran_kevita_2_2013",
+  "title": "Ran Kevita 2",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830727",
+    "imdb": "tt4326338",
+    "tmdb": 853411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remembrance_a_small_movie_about_oulu_in_the_1950s_2013",
+  "title": "Remembrance – A Small Movie About Oulu in the 1950's",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25461579",
+    "imdb": "tt2489364",
+    "tmdb": 250527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-13",
+  "runtime_minutes": 69
+}

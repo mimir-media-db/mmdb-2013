@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roman_polanski_odd_man_out_2013",
+  "title": "Roman Polanski: Odd Man Out",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123692082",
+    "imdb": "tt2397549",
+    "tmdb": 126929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 88
+}

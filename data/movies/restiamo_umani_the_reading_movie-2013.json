@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restiamo_umani_the_reading_movie_2013",
+  "title": "Restiamo umani - The Reading Movie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170300",
+    "imdb": "tt2626480"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 198
+}

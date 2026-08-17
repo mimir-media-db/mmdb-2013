@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rump_raiders_4_2013",
+  "title": "Rump Raiders 4",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136351488",
+    "imdb": "tt3366004",
+    "tmdb": 563922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-08-19",
+  "runtime_minutes": 157
+}

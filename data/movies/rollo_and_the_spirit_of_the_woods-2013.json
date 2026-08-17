@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rollo_and_the_spirit_of_the_woods_2013",
+  "title": "Rollo and the Spirit of the Woods",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q476133",
+    "imdb": "tt0249131",
+    "tmdb": 64029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-12-07",
+  "runtime_minutes": 92
+}

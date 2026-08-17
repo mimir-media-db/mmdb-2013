@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rolli_and_the_golden_key_2013",
+  "title": "Rolli and the Golden Key",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674924",
+    "imdb": "tt2343707",
+    "tmdb": 219499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-02-01",
+  "runtime_minutes": 86
+}

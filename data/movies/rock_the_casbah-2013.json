@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_the_casbah_2013",
+  "title": "Rock the Casbah",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14907655",
+    "imdb": "tt2524568",
+    "tmdb": 214099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-11",
+  "runtime_minutes": 100
+}

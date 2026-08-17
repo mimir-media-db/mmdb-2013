@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_in_the_sunshine_2013",
+  "title": "Rain in the Sunshine",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22125942",
+    "imdb": "tt8454108",
+    "tmdb": 273450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-10-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_of_king_modu_2013",
+  "title": "The Rise of King Modu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39058180",
+    "imdb": "tt4706886",
+    "tmdb": 928386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

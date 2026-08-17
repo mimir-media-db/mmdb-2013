@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_running_deer_2013",
+  "title": "Running Deer",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17141664",
+    "imdb": "tt2629702",
+    "tmdb": 450265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-05-01",
+  "runtime_minutes": 25
+}

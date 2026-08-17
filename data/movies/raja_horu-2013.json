@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raja_horu_2013",
+  "title": "Raja Horu",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830512",
+    "imdb": "tt7915682",
+    "tmdb": 1541752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-11-21"
+}

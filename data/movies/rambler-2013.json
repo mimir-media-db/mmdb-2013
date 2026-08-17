@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rambler_2013",
+  "title": "The Rambler",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040677",
+    "imdb": "tt2381355",
+    "tmdb": 159109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-21"
+}

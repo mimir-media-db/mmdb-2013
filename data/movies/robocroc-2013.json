@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_robocroc_2013",
+  "title": "Robocroc",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59779985",
+    "imdb": "tt3188560",
+    "tmdb": 221737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-09-14"
+}
