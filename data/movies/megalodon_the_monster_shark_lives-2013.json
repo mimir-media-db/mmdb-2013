@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megalodon_the_monster_shark_lives_2013",
+  "title": "Megalodon: The Monster Shark Lives",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17125815",
+    "imdb": "tt3100780",
+    "tmdb": 413709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

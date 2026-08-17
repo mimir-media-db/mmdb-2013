@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midway_between_life_and_death_2013",
+  "title": "Midway Between Life and Death",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15208577",
+    "imdb": "tt2709726",
+    "tmdb": 560128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 74
+}

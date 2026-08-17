@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manhunt_the_search_for_bin_laden_2013",
+  "title": "Manhunt: The Search for Bin Laden",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052330",
+    "imdb": "tt2475544",
+    "tmdb": 159011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 102
+}

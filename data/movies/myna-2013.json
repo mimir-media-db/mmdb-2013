@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_myna_2013",
+  "title": "Myna",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6947801",
+    "imdb": "tt3006508",
+    "tmdb": 258093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

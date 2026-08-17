@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moondru_per_moondru_kaadhal_2013",
+  "title": "Moondru Per Moondru Kaadhal",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6907717",
+    "imdb": "tt2187102",
+    "tmdb": 147153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

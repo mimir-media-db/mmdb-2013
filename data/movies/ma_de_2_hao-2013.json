@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_de_2_hao_2013",
+  "title": "Ma de 2 hao",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15909047",
+    "imdb": "tt3296434",
+    "tmdb": 244226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

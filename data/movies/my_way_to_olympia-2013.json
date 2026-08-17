@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_way_to_olympia_2013",
+  "title": "My Way to Olympia",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16998398",
+    "imdb": "tt2669646",
+    "tmdb": 240679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

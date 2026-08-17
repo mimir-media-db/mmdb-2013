@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megh_roddur_2013",
+  "title": "Megh Roddur",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6809000",
+    "imdb": "tt13111666",
+    "tmdb": 952868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_main_krishna_hoon_2013",
+  "title": "Main Krishna Hoon",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251113",
+    "imdb": "tt1855268",
+    "tmdb": 198556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

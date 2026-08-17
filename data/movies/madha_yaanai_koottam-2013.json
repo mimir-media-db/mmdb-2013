@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madha_yaanai_koottam_2013",
+  "title": "Madha Yaanai Koottam",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251012",
+    "imdb": "tt3426300",
+    "tmdb": 246030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

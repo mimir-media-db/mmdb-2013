@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masala_2013",
+  "title": "Masala",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251470",
+    "imdb": "tt3334734",
+    "tmdb": 264023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

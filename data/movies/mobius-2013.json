@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mobius_2013",
+  "title": "Möbius",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207829",
+    "imdb": "tt2106550",
+    "tmdb": 170689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fair_zombie_2013",
+  "title": "My Fair Zombie",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17090555",
+    "imdb": "tt2265453",
+    "tmdb": 191298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 85
+}

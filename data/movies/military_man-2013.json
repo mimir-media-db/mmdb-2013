@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_military_man_2013",
+  "title": "The Military Man",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13423538",
+    "imdb": "tt3775978",
+    "tmdb": 314579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

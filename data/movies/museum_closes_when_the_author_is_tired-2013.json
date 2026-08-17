@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_museum_closes_when_the_author_is_tired_2013",
+  "title": "The Museum Closes When the Author Is Tired",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16565102",
+    "imdb": "tt2897154",
+    "tmdb": 683640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 23
+}

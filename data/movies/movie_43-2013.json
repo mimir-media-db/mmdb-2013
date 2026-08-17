@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_movie_43_2013",
+  "title": "Movie 43",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q548978",
+    "imdb": "tt1333125",
+    "tmdb": 87818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 94
+}

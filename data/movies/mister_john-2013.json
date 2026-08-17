@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mister_john_2013",
+  "title": "Mister John",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17113885",
+    "imdb": "tt2488740",
+    "tmdb": 199929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

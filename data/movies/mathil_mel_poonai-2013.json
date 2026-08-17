@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mathil_mel_poonai_2013",
+  "title": "Mathil Mel Poonai",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6787249",
+    "imdb": "tt3421394",
+    "tmdb": 269823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

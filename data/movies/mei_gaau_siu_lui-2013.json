@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mei_gaau_siu_lui_2013",
+  "title": "Mei gaau siu lui",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17164529",
+    "imdb": "tt3864758",
+    "tmdb": 274472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 100
+}
