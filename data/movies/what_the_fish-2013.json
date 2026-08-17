@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_fish_2013",
+  "title": "What the Fish",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15464247",
+    "imdb": "tt3357416",
+    "tmdb": 278264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

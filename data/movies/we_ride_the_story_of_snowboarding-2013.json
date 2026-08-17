@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_ride_the_story_of_snowboarding_2013",
+  "title": "We Ride - The Story of Snowboarding",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7977724",
+    "imdb": "tt2635824",
+    "tmdb": 171666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

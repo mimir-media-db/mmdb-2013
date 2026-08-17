@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wait_2013",
+  "title": "The Wait",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17089096",
+    "imdb": "tt1675759",
+    "tmdb": 176079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

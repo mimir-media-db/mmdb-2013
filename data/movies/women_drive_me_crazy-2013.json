@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_drive_me_crazy_2013",
+  "title": "Women Drive Me Crazy",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3898432",
+    "imdb": "tt2473532",
+    "tmdb": 195544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 93
+}

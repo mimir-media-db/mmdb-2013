@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wisdom_tree_2013",
+  "title": "The Wisdom Tree",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17146454",
+    "imdb": "tt2072277",
+    "tmdb": 337055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01"
+}

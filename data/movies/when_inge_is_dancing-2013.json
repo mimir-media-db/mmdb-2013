@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_inge_is_dancing_2013",
+  "title": "When Inge Is Dancing",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13817962",
+    "imdb": "tt2446786",
+    "tmdb": 203539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 104
+}

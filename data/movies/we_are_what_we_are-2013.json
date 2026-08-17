@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_what_we_are_2013",
+  "title": "We Are What We Are",
+  "year": 2013,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3566902",
+    "imdb": "tt2309021",
+    "tmdb": 159128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2013-01-01",
+  "runtime_minutes": 105
+}
